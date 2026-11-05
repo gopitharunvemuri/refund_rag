@@ -1,0 +1,74 @@
+[
+  {
+    "document_id": "NX-FIN-POL-012",
+    "document_version": "4.2",
+    "source_file": "01_Travel_and_Expense_Reimbursement_Policy.pdf",
+    "parsed_file": "E:\\GenAI\\companybot\\parsed_documents\\raw\\NX-FIN-POL-012.json",
+    "parsing_status": "SUCCESS",
+    "parser": "DOCLING",
+    "parsed_timestamp": "2026-11-01T15:47:55.669770+00:00",
+    "top_level_keys": [
+      "schema_name",
+      "version",
+      "name",
+      "origin",
+      "furniture",
+      "body",
+      "groups",
+      "texts",
+      "pictures",
+      "tables",
+      "key_value_items",
+      "form_items",
+      "pages"
+    ]
+  },
+  {
+    "document_id": "NX-FIN-POL-013",
+    "document_version": "4.2",
+    "source_file": "02_Meal_and_Hotel_Spending_Limits.pdf",
+    "parsed_file": "E:\\GenAI\\companybot\\parsed_documents\\raw\\NX-FIN-POL-013.json",
+    "parsing_status": "SUCCESS",
+    "parser": "DOCLING",
+    "parsed_timestamp": "2026-11-01T15:48:38.808669+00:00",
+    "top_level_keys": [
+      "schema_name",
+      "version",
+      "name",
+      "origin",
+      "furniture",
+      "body",
+      "groups",
+      "texts",
+      "pictures",
+      "tables",
+      "key_value_items",
+      "form_items",
+      "pages"
+    ]
+  },
+  {
+    "document_id": "NX-FIN-POL-014",
+    "document_version": "4.2",
+    "source_file": "03_Approval_Rules_and_Exceptions.pdf",
+    "parsed_file": "E:\\GenAI\\companybot\\parsed_documents\\raw\\NX-FIN-POL-014.json",
+    "parsing_status": "SUCCESS",
+    "parser": "DOCLING",
+    "parsed_timestamp": "2026-11-01T15:49:10.934432+00:00",
+    "top_level_keys": [
+      "schema_name",
+      "version",
+      "name",
+      "origin",
+      "furniture",
+      "body",
+      "groups",
+      "texts",
+      "pictures",
+      "tables",
+      "key_value_items",
+      "form_items",
+      "pages"
+    ]
+  }
+]

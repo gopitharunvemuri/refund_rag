@@ -1,0 +1,26 @@
+DOCUMENTS = [
+    {
+        "document_id": "NX-FIN-POL-012",
+        "document_name": "Travel and Expense Reimbursement Policy",
+        "file_name": "01_Travel_and_Expense_Reimbursement_Policy.pdf",
+        "document_type": "FINANCE_POLICY",
+        "version": "4.2",
+        "effective_from": "2026-04-01"
+    },
+    {
+        "document_id": "NX-FIN-POL-013",
+        "document_name": "Meal and Hotel Spending Limits",
+        "file_name": "02_Meal_and_Hotel_Spending_Limits.pdf",
+        "document_type": "FINANCE_POLICY",
+        "version": "4.2",
+        "effective_from": "2026-04-01"
+    },
+    {
+        "document_id": "NX-FIN-POL-014",
+        "document_name": "Approval Rules and Exceptions",
+        "file_name": "03_Approval_Rules_and_Exceptions.pdf",
+        "document_type": "FINANCE_POLICY",
+        "version": "4.2",
+        "effective_from": "2026-04-01"
+    }
+]

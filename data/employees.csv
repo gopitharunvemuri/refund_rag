@@ -1,0 +1,301 @@
+employee_id,name,email,department,grade,grade_title,home_city,join_date,cost_center,manager_id
+E001,Jyoti Dubey,jyoti.dubey1@nexora.com,Support,L1,Associate,Hyderabad,2020-03-13,CC-SUP-3,E197
+E002,Jyoti Bhatia,jyoti.bhatia2@nexora.com,Sales,L4,Senior Manager,Mumbai,2015-02-08,CC-SAL-1,E214
+E003,Siddharth Das,siddharth.das3@nexora.com,Sales,L2,Senior Associate,Gurugram,2025-03-19,CC-SAL-1,E143
+E004,Naveen Joshi,naveen.joshi4@nexora.com,Sales,L1,Associate,Hyderabad,2020-07-19,CC-SAL-3,E286
+E005,Varun Mehta,varun.mehta5@nexora.com,Engineering,L2,Senior Associate,Hyderabad,2017-06-15,CC-ENG-3,E057
+E006,Gaurav Mukherjee,gaurav.mukherjee6@nexora.com,Operations,L1,Associate,Hyderabad,2018-09-01,CC-OPE-3,E043
+E007,Amit Kulkarni,amit.kulkarni7@nexora.com,Sales,L3,Manager,Delhi,2022-12-15,CC-SAL-4,E036
+E008,Lakshmi Subramanian,lakshmi.subramanian8@nexora.com,Operations,L1,Associate,Chennai,2025-04-20,CC-OPE-3,E288
+E009,Meera Bhat,meera.bhat9@nexora.com,Support,L1,Associate,Bengaluru,2024-01-03,CC-SUP-3,E083
+E010,Anjali Kulkarni,anjali.kulkarni10@nexora.com,Engineering,L2,Senior Associate,Pune,2017-06-25,CC-ENG-4,E023
+E011,Ashwin Bhat,ashwin.bhat11@nexora.com,Engineering,L6,Vice President,Bengaluru,2017-10-14,CC-ENG-1,
+E012,Pooja Agarwal,pooja.agarwal12@nexora.com,Engineering,L1,Associate,Chennai,2015-04-09,CC-ENG-3,E049
+E013,Tarun Malhotra,tarun.malhotra13@nexora.com,Engineering,L1,Associate,Bengaluru,2021-07-23,CC-ENG-4,E062
+E014,Farhan Kumar,farhan.kumar14@nexora.com,Operations,L6,Vice President,Gurugram,2023-04-15,CC-OPE-3,
+E015,Imran Kapoor,imran.kapoor15@nexora.com,Operations,L1,Associate,Delhi,2021-01-23,CC-OPE-2,E159
+E016,Manoj Krishnan,manoj.krishnan16@nexora.com,Support,L1,Associate,Hyderabad,2021-04-24,CC-SUP-2,E292
+E017,Sanjay Nair,sanjay.nair17@nexora.com,Sales,L3,Manager,Bengaluru,2023-07-06,CC-SAL-4,E026
+E018,Yash Pillai,yash.pillai18@nexora.com,Engineering,L2,Senior Associate,Chennai,2024-02-08,CC-ENG-1,E201
+E019,Rajesh Bhat,rajesh.bhat19@nexora.com,Sales,L1,Associate,Bengaluru,2015-08-25,CC-SAL-2,E182
+E020,Lakshmi Pillai,lakshmi.pillai20@nexora.com,Engineering,L3,Manager,Bengaluru,2015-04-02,CC-ENG-4,E055
+E021,Rohan Krishnan,rohan.krishnan21@nexora.com,Operations,L5,Director,Mumbai,2021-02-17,CC-OPE-3,E186
+E022,Farhan Shetty,farhan.shetty22@nexora.com,Engineering,L2,Senior Associate,Hyderabad,2015-12-11,CC-ENG-3,E066
+E023,Karan Rao,karan.rao23@nexora.com,Engineering,L3,Manager,Chennai,2023-04-07,CC-ENG-1,E125
+E024,Ananya Nair,ananya.nair24@nexora.com,Sales,L2,Senior Associate,Mumbai,2015-04-17,CC-SAL-2,E017
+E025,Rahul Ghosh,rahul.ghosh25@nexora.com,Operations,L1,Associate,Bengaluru,2024-02-26,CC-OPE-4,E144
+E026,Pranav Roy,pranav.roy26@nexora.com,Sales,L4,Senior Manager,Kolkata,2017-06-21,CC-SAL-4,E214
+E027,Chitra Bhat,chitra.bhat27@nexora.com,Operations,L1,Associate,Bengaluru,2018-10-17,CC-OPE-4,E266
+E028,Divya Jain,divya.jain28@nexora.com,Engineering,L1,Associate,Hyderabad,2018-10-15,CC-ENG-3,E062
+E029,Tarun Shah,tarun.shah29@nexora.com,Operations,L5,Director,Hyderabad,2020-07-15,CC-OPE-4,E014
+E030,Aditi Mukherjee,aditi.mukherjee30@nexora.com,Marketing,L2,Senior Associate,Pune,2015-10-24,CC-MAR-1,E270
+E031,Sneha Sethi,sneha.sethi31@nexora.com,Engineering,L2,Senior Associate,Bengaluru,2024-04-07,CC-ENG-3,E287
+E032,Sandeep Sharma,sandeep.sharma32@nexora.com,Engineering,L3,Manager,Hyderabad,2024-01-14,CC-ENG-4,E156
+E033,Manoj Nair,manoj.nair33@nexora.com,Operations,L1,Associate,Gurugram,2024-12-18,CC-OPE-4,E103
+E034,Aditi Varma,aditi.varma34@nexora.com,Engineering,L2,Senior Associate,Pune,2015-04-10,CC-ENG-3,E269
+E035,Abhishek Sharma,abhishek.sharma35@nexora.com,Marketing,L1,Associate,Hyderabad,2023-12-31,CC-MAR-1,E195
+E036,Sneha Khan,sneha.khan36@nexora.com,Sales,L4,Senior Manager,Pune,2025-04-08,CC-SAL-2,E161
+E037,Pranav Ghosh,pranav.ghosh37@nexora.com,Sales,L2,Senior Associate,Hyderabad,2016-10-26,CC-SAL-4,E218
+E038,Tarun Gupta,tarun.gupta38@nexora.com,Finance,L3,Manager,Hyderabad,2018-08-07,CC-FIN-2,E102
+E039,Kavya Ansari,kavya.ansari39@nexora.com,Operations,L5,Director,Bengaluru,2020-12-07,CC-OPE-3,E014
+E040,Kunal Naidu,kunal.naidu40@nexora.com,Engineering,L1,Associate,Hyderabad,2020-04-15,CC-ENG-3,E140
+E041,Ashwin Patel,ashwin.patel41@nexora.com,Sales,L2,Senior Associate,Bengaluru,2018-05-28,CC-SAL-2,E047
+E042,Dinesh Singh,dinesh.singh42@nexora.com,Sales,L5,Director,Bengaluru,2025-03-25,CC-SAL-1,E235
+E043,Chitra Tiwari,chitra.tiwari43@nexora.com,Operations,L2,Senior Associate,Kolkata,2015-03-12,CC-OPE-4,E216
+E044,Imran Reddy,imran.reddy44@nexora.com,Operations,L4,Senior Manager,Delhi,2018-07-04,CC-OPE-1,E039
+E045,Manish Singh,manish.singh45@nexora.com,Engineering,L3,Manager,Bengaluru,2019-01-11,CC-ENG-2,E255
+E046,Radhika Chatterjee,radhika.chatterjee46@nexora.com,HR,L6,Vice President,Bengaluru,2021-09-23,CC-HR-4,
+E047,Sunita Thakur,sunita.thakur47@nexora.com,Sales,L3,Manager,Hyderabad,2017-07-06,CC-SAL-4,E148
+E048,Sanjay Rao,sanjay.rao48@nexora.com,Support,L1,Associate,Chennai,2019-07-07,CC-SUP-2,E083
+E049,Chitra Joshi,chitra.joshi49@nexora.com,Engineering,L2,Senior Associate,Delhi,2022-01-11,CC-ENG-4,E057
+E050,Sandeep Banerjee,sandeep.banerjee50@nexora.com,Marketing,L3,Manager,Kolkata,2020-06-08,CC-MAR-4,E145
+E051,Priya Pandey,priya.pandey51@nexora.com,Finance,L2,Senior Associate,Mumbai,2021-02-19,CC-FIN-1,E038
+E052,Ritu Bose,ritu.bose52@nexora.com,Engineering,L1,Associate,Delhi,2019-06-25,CC-ENG-1,E058
+E053,Deepak Shah,deepak.shah53@nexora.com,Operations,L3,Manager,Chennai,2023-12-27,CC-OPE-4,E101
+E054,Isha Bhat,isha.bhat54@nexora.com,Finance,L5,Director,Hyderabad,2023-09-07,CC-FIN-3,E208
+E055,Farhan Naidu,farhan.naidu55@nexora.com,Engineering,L4,Senior Manager,Delhi,2022-05-17,CC-ENG-2,E206
+E056,Aarav Yadav,aarav.yadav56@nexora.com,Engineering,L2,Senior Associate,Chennai,2025-02-24,CC-ENG-3,E110
+E057,Meera Chatterjee,meera.chatterjee57@nexora.com,Engineering,L3,Manager,Delhi,2022-12-31,CC-ENG-4,E125
+E058,Sunita Gupta,sunita.gupta58@nexora.com,Engineering,L2,Senior Associate,Hyderabad,2019-08-31,CC-ENG-2,E075
+E059,Dinesh Kulkarni,dinesh.kulkarni59@nexora.com,Engineering,L4,Senior Manager,Gurugram,2016-08-15,CC-ENG-3,E113
+E060,Vandana Bhat,vandana.bhat60@nexora.com,Sales,L1,Associate,Mumbai,2016-06-21,CC-SAL-3,E239
+E061,Isha Shetty,isha.shetty61@nexora.com,Sales,L1,Associate,Mumbai,2015-08-05,CC-SAL-2,E107
+E062,Lakshmi Bhatia,lakshmi.bhatia62@nexora.com,Engineering,L2,Senior Associate,Chennai,2016-12-31,CC-ENG-1,E162
+E063,Deepak Mehta,deepak.mehta63@nexora.com,Marketing,L1,Associate,Bengaluru,2024-03-21,CC-MAR-2,E207
+E064,Karan Jain,karan.jain64@nexora.com,Support,L4,Senior Manager,Mumbai,2018-01-10,CC-SUP-1,E247
+E065,Yash Yadav,yash.yadav65@nexora.com,Marketing,L2,Senior Associate,Kolkata,2022-10-12,CC-MAR-4,E050
+E066,Karan Ghosh,karan.ghosh66@nexora.com,Engineering,L3,Manager,Mumbai,2021-07-30,CC-ENG-3,E068
+E067,Vivaan Kumar,vivaan.kumar67@nexora.com,Finance,L4,Senior Manager,Bengaluru,2019-09-04,CC-FIN-2,E054
+E068,Tarun Nair,tarun.nair68@nexora.com,Engineering,L4,Senior Manager,Hyderabad,2023-10-06,CC-ENG-4,E113
+E069,Deepak Reddy,deepak.reddy69@nexora.com,Finance,L5,Director,Hyderabad,2021-02-03,CC-FIN-4,E208
+E070,Isha Chauhan,isha.chauhan70@nexora.com,Finance,L2,Senior Associate,Hyderabad,2016-10-07,CC-FIN-3,E038
+E071,Ananya Joshi,ananya.joshi71@nexora.com,Operations,L2,Senior Associate,Pune,2019-07-19,CC-OPE-1,E053
+E072,Tanvi Joshi,tanvi.joshi72@nexora.com,Marketing,L1,Associate,Hyderabad,2020-03-28,CC-MAR-1,E095
+E073,Pooja Iyer,pooja.iyer73@nexora.com,Engineering,L2,Senior Associate,Mumbai,2022-09-15,CC-ENG-2,E126
+E074,Rahul Pandey,rahul.pandey74@nexora.com,Engineering,L3,Manager,Mumbai,2019-06-03,CC-ENG-4,E255
+E075,Bhavna Patel,bhavna.patel75@nexora.com,Engineering,L3,Manager,Kolkata,2022-05-02,CC-ENG-4,E068
+E076,Aarav Kapoor,aarav.kapoor76@nexora.com,Operations,L3,Manager,Mumbai,2022-12-25,CC-OPE-4,E101
+E077,Pranav Pillai,pranav.pillai77@nexora.com,Marketing,L1,Associate,Pune,2021-04-29,CC-MAR-1,E195
+E078,Anjali Bhatia,anjali.bhatia78@nexora.com,Sales,L4,Senior Manager,Bengaluru,2015-02-12,CC-SAL-2,E214
+E079,Mohan Mehta,mohan.mehta79@nexora.com,Support,L3,Manager,Delhi,2018-04-04,CC-SUP-4,E064
+E080,Aditi Ghosh,aditi.ghosh80@nexora.com,Support,L4,Senior Manager,Hyderabad,2018-05-06,CC-SUP-3,E247
+E081,Chitra Malhotra,chitra.malhotra81@nexora.com,HR,L5,Director,Hyderabad,2021-03-25,CC-HR-1,E208
+E082,Harsh Kumar,harsh.kumar82@nexora.com,Marketing,L3,Manager,Mumbai,2017-03-29,CC-MAR-4,E300
+E083,Priya Joshi,priya.joshi83@nexora.com,Support,L2,Senior Associate,Pune,2018-01-26,CC-SUP-4,E227
+E084,Ashwin Varma,ashwin.varma84@nexora.com,Support,L3,Manager,Pune,2018-09-20,CC-SUP-4,E064
+E085,Jyoti Kapoor,jyoti.kapoor85@nexora.com,Support,L3,Manager,Mumbai,2016-01-13,CC-SUP-1,E080
+E086,Vikram Ramesh,vikram.ramesh86@nexora.com,Marketing,L4,Senior Manager,Hyderabad,2016-01-22,CC-MAR-2,E247
+E087,Tarun Varma,tarun.varma87@nexora.com,Support,L3,Manager,Bengaluru,2022-12-11,CC-SUP-2,E265
+E088,Sanjay Kumar,sanjay.kumar88@nexora.com,Engineering,L2,Senior Associate,Hyderabad,2019-07-06,CC-ENG-1,E110
+E089,Manoj Tiwari,manoj.tiwari89@nexora.com,Sales,L2,Senior Associate,Delhi,2021-08-24,CC-SAL-1,E092
+E090,Rahul Bose,rahul.bose90@nexora.com,Marketing,L1,Associate,Mumbai,2015-05-13,CC-MAR-2,E147
+E091,Amit Ansari,amit.ansari91@nexora.com,Support,L1,Associate,Bengaluru,2019-07-25,CC-SUP-1,E097
+E092,Priya Ansari,priya.ansari92@nexora.com,Sales,L3,Manager,Bengaluru,2025-05-24,CC-SAL-2,E172
+E093,Kiran Das,kiran.das93@nexora.com,Finance,L2,Senior Associate,Hyderabad,2023-08-08,CC-FIN-2,E038
+E094,Jyoti Sinha,jyoti.sinha94@nexora.com,Sales,L2,Senior Associate,Hyderabad,2019-04-30,CC-SAL-4,E047
+E095,Priya Khan,priya.khan95@nexora.com,Marketing,L2,Senior Associate,Delhi,2021-12-26,CC-MAR-1,E050
+E096,Ashwin Malhotra,ashwin.malhotra96@nexora.com,Operations,L1,Associate,Mumbai,2021-11-16,CC-OPE-3,E103
+E097,Farhan Chatterjee,farhan.chatterjee97@nexora.com,Support,L2,Senior Associate,Kolkata,2022-05-28,CC-SUP-1,E293
+E098,Harsh Deshmukh,harsh.deshmukh98@nexora.com,Sales,L1,Associate,Hyderabad,2017-02-12,CC-SAL-3,E041
+E099,Siddharth Saxena,siddharth.saxena99@nexora.com,Sales,L4,Senior Manager,Hyderabad,2019-12-13,CC-SAL-1,E042
+E100,Tanvi Kapoor,tanvi.kapoor100@nexora.com,Sales,L3,Manager,Bengaluru,2017-04-19,CC-SAL-3,E099
+E101,Farhan Pillai,farhan.pillai101@nexora.com,Operations,L4,Senior Manager,Hyderabad,2024-04-02,CC-OPE-1,E039
+E102,Mohan Roy,mohan.roy102@nexora.com,Finance,L4,Senior Manager,Hyderabad,2016-10-10,CC-FIN-3,E054
+E103,Dinesh Shetty,dinesh.shetty103@nexora.com,Operations,L2,Senior Associate,Kolkata,2025-02-15,CC-OPE-3,E216
+E104,Tanvi Bose,tanvi.bose104@nexora.com,Operations,L1,Associate,Hyderabad,2018-12-15,CC-OPE-2,E144
+E105,Lakshmi Roy,lakshmi.roy105@nexora.com,Engineering,L2,Senior Associate,Delhi,2017-03-22,CC-ENG-2,E032
+E106,Lakshmi Verma,lakshmi.verma106@nexora.com,Engineering,L2,Senior Associate,Bengaluru,2022-01-12,CC-ENG-2,E248
+E107,Dinesh Nair,dinesh.nair107@nexora.com,Sales,L2,Senior Associate,Mumbai,2016-07-12,CC-SAL-2,E165
+E108,Ritu Gowda,ritu.gowda108@nexora.com,Engineering,L4,Senior Manager,Bengaluru,2019-09-07,CC-ENG-3,E113
+E109,Priya Nair,priya.nair109@nexora.com,Engineering,L1,Associate,Chennai,2024-10-13,CC-ENG-3,E049
+E110,Kunal Tiwari,kunal.tiwari110@nexora.com,Engineering,L3,Manager,Bengaluru,2024-11-25,CC-ENG-1,E059
+E111,Meera Mukherjee,meera.mukherjee111@nexora.com,Engineering,L1,Associate,Bengaluru,2016-07-09,CC-ENG-2,E088
+E112,Lakshmi Shetty,lakshmi.shetty112@nexora.com,Engineering,L1,Associate,Delhi,2021-02-15,CC-ENG-1,E005
+E113,Tanvi Banerjee,tanvi.banerjee113@nexora.com,Engineering,L5,Director,Delhi,2016-11-21,CC-ENG-3,E230
+E114,Sunita Mehta,sunita.mehta114@nexora.com,Engineering,L3,Manager,Bengaluru,2016-05-17,CC-ENG-1,E118
+E115,Varun Dubey,varun.dubey115@nexora.com,Operations,L3,Manager,Delhi,2025-01-22,CC-OPE-3,E101
+E116,Pranav Sethi,pranav.sethi116@nexora.com,Sales,L1,Associate,Mumbai,2021-06-07,CC-SAL-3,E239
+E117,Manoj Gupta,manoj.gupta117@nexora.com,Sales,L1,Associate,Gurugram,2017-01-30,CC-SAL-1,E192
+E118,Anjali Reddy,anjali.reddy118@nexora.com,Engineering,L4,Senior Manager,Delhi,2019-07-11,CC-ENG-2,E206
+E119,Farhan Pandey,farhan.pandey119@nexora.com,Engineering,L1,Associate,Kolkata,2016-07-20,CC-ENG-3,E234
+E120,Chitra Pandey,chitra.pandey120@nexora.com,Marketing,L4,Senior Manager,Gurugram,2024-07-02,CC-MAR-4,E042
+E121,Mohan Krishnan,mohan.krishnan121@nexora.com,Operations,L2,Senior Associate,Hyderabad,2022-03-07,CC-OPE-1,E198
+E122,Nikhil Kumar,nikhil.kumar122@nexora.com,Marketing,L1,Associate,Hyderabad,2019-08-15,CC-MAR-4,E195
+E123,Aditya Mehta,aditya.mehta123@nexora.com,Operations,L1,Associate,Gurugram,2020-12-02,CC-OPE-4,E288
+E124,Amit Gowda,amit.gowda124@nexora.com,Engineering,L1,Associate,Delhi,2019-07-20,CC-ENG-2,E106
+E125,Priya Bhat,priya.bhat125@nexora.com,Engineering,L4,Senior Manager,Hyderabad,2016-06-22,CC-ENG-3,E206
+E126,Pranav Gowda,pranav.gowda126@nexora.com,Engineering,L3,Manager,Bengaluru,2018-09-22,CC-ENG-1,E274
+E127,Kiran Reddy,kiran.reddy127@nexora.com,Operations,L3,Manager,Bengaluru,2023-02-03,CC-OPE-2,E044
+E128,Divya Chauhan,divya.chauhan128@nexora.com,Marketing,L2,Senior Associate,Chennai,2021-09-23,CC-MAR-1,E050
+E129,Ritu Jain,ritu.jain129@nexora.com,Marketing,L3,Manager,Bengaluru,2019-08-13,CC-MAR-4,E300
+E130,Chitra Pillai,chitra.pillai130@nexora.com,Sales,L4,Senior Manager,Mumbai,2020-06-12,CC-SAL-4,E161
+E131,Manoj Sinha,manoj.sinha131@nexora.com,Sales,L1,Associate,Pune,2019-08-03,CC-SAL-4,E133
+E132,Amit Bhat,amit.bhat132@nexora.com,Support,L1,Associate,Kolkata,2018-09-15,CC-SUP-4,E197
+E133,Sneha Verma,sneha.verma133@nexora.com,Sales,L2,Senior Associate,Hyderabad,2018-08-06,CC-SAL-1,E143
+E134,Varun Mukherjee,varun.mukherjee134@nexora.com,Support,L3,Manager,Pune,2021-11-28,CC-SUP-4,E265
+E135,Ashwin Kapoor,ashwin.kapoor135@nexora.com,Sales,L3,Manager,Kolkata,2021-09-13,CC-SAL-3,E175
+E136,Yash Krishnan,yash.krishnan136@nexora.com,Sales,L2,Senior Associate,Mumbai,2024-11-01,CC-SAL-1,E223
+E137,Pranav Patel,pranav.patel137@nexora.com,Operations,L3,Manager,Hyderabad,2024-06-20,CC-OPE-4,E174
+E138,Pranav Thakur,pranav.thakur138@nexora.com,Sales,L1,Associate,Hyderabad,2024-10-16,CC-SAL-4,E184
+E139,Arjun Yadav,arjun.yadav139@nexora.com,Operations,L1,Associate,Hyderabad,2022-10-17,CC-OPE-1,E266
+E140,Isha Chatterjee,isha.chatterjee140@nexora.com,Engineering,L2,Senior Associate,Gurugram,2021-02-10,CC-ENG-3,E233
+E141,Gaurav Malhotra,gaurav.malhotra141@nexora.com,HR,L2,Senior Associate,Kolkata,2017-08-24,CC-HR-1,E268
+E142,Ashwin Pandey,ashwin.pandey142@nexora.com,Engineering,L1,Associate,Mumbai,2019-02-19,CC-ENG-4,E062
+E143,Lakshmi Gupta,lakshmi.gupta143@nexora.com,Sales,L3,Manager,Gurugram,2017-06-27,CC-SAL-4,E099
+E144,Lakshmi Patel,lakshmi.patel144@nexora.com,Operations,L2,Senior Associate,Bengaluru,2025-02-17,CC-OPE-1,E076
+E145,Rahul Bhat,rahul.bhat145@nexora.com,Marketing,L4,Senior Manager,Hyderabad,2023-11-20,CC-MAR-2,E164
+E146,Amit Shetty,amit.shetty146@nexora.com,Sales,L2,Senior Associate,Bengaluru,2021-06-16,CC-SAL-4,E221
+E147,Aarav Pillai,aarav.pillai147@nexora.com,Marketing,L2,Senior Associate,Bengaluru,2017-09-26,CC-MAR-3,E050
+E148,Vivaan Kulkarni,vivaan.kulkarni148@nexora.com,Sales,L4,Senior Manager,Hyderabad,2016-12-05,CC-SAL-1,E164
+E149,Meera Mishra,meera.mishra149@nexora.com,Finance,L3,Manager,Delhi,2024-02-23,CC-FIN-4,E102
+E150,Vikram Jain,vikram.jain150@nexora.com,Operations,L1,Associate,Bengaluru,2022-10-06,CC-OPE-2,E121
+E151,Aditya Joshi,aditya.joshi151@nexora.com,Marketing,L1,Associate,Hyderabad,2015-05-08,CC-MAR-4,E095
+E152,Ananya Chauhan,ananya.chauhan152@nexora.com,Operations,L3,Manager,Gurugram,2016-08-09,CC-OPE-4,E101
+E153,Yash Das,yash.das153@nexora.com,HR,L1,Associate,Mumbai,2017-04-10,CC-HR-3,E141
+E154,Sandeep Sinha,sandeep.sinha154@nexora.com,HR,L1,Associate,Bengaluru,2025-01-21,CC-HR-1,E209
+E155,Manish Kulkarni,manish.kulkarni155@nexora.com,HR,L5,Director,Hyderabad,2024-05-25,CC-HR-3,E208
+E156,Ritu Verma,ritu.verma156@nexora.com,Engineering,L4,Senior Manager,Delhi,2016-12-05,CC-ENG-2,E113
+E157,Pranav Kumar,pranav.kumar157@nexora.com,Finance,L1,Associate,Mumbai,2024-11-14,CC-FIN-1,E070
+E158,Kiran Menon,kiran.menon158@nexora.com,Finance,L1,Associate,Mumbai,2018-06-07,CC-FIN-3,E093
+E159,Kunal Khan,kunal.khan159@nexora.com,Operations,L2,Senior Associate,Bengaluru,2022-12-31,CC-OPE-2,E076
+E160,Priya Sinha,priya.sinha160@nexora.com,Marketing,L1,Associate,Pune,2023-09-26,CC-MAR-4,E095
+E161,Sneha Nair,sneha.nair161@nexora.com,Sales,L5,Director,Chennai,2016-11-24,CC-SAL-2,E235
+E162,Vandana Joshi,vandana.joshi162@nexora.com,Engineering,L3,Manager,Delhi,2016-05-09,CC-ENG-2,E125
+E163,Kunal Singh,kunal.singh163@nexora.com,Operations,L3,Manager,Pune,2023-01-28,CC-OPE-2,E174
+E164,Nisha Pandey,nisha.pandey164@nexora.com,Sales,L5,Director,Bengaluru,2018-04-25,CC-SAL-3,E235
+E165,Pooja Pandey,pooja.pandey165@nexora.com,Sales,L3,Manager,Hyderabad,2020-11-17,CC-SAL-1,E148
+E166,Radhika Bhat,radhika.bhat166@nexora.com,Finance,L4,Senior Manager,Mumbai,2017-07-26,CC-FIN-3,E054
+E167,Sanjay Pandey,sanjay.pandey167@nexora.com,Operations,L2,Senior Associate,Chennai,2017-07-14,CC-OPE-3,E053
+E168,Suresh Varma,suresh.varma168@nexora.com,Engineering,L1,Associate,Pune,2022-06-28,CC-ENG-1,E105
+E169,Anjali Iyer,anjali.iyer169@nexora.com,Engineering,L1,Associate,Mumbai,2019-12-09,CC-ENG-1,E220
+E170,Isha Reddy,isha.reddy170@nexora.com,Operations,L1,Associate,Pune,2015-01-29,CC-OPE-3,E043
+E171,Aditi Banerjee,aditi.banerjee171@nexora.com,Marketing,L1,Associate,Chennai,2019-10-01,CC-MAR-1,E195
+E172,Nikhil Pillai,nikhil.pillai172@nexora.com,Sales,L4,Senior Manager,Mumbai,2023-06-23,CC-SAL-2,E042
+E173,Pranav Singh,pranav.singh173@nexora.com,Engineering,L1,Associate,Delhi,2018-02-17,CC-ENG-1,E073
+E174,Sanjay Mehta,sanjay.mehta174@nexora.com,Operations,L4,Senior Manager,Bengaluru,2025-01-25,CC-OPE-1,E271
+E175,Mohan Tiwari,mohan.tiwari175@nexora.com,Sales,L4,Senior Manager,Bengaluru,2025-04-11,CC-SAL-4,E161
+E176,Aarav Chauhan,aarav.chauhan176@nexora.com,Sales,L1,Associate,Bengaluru,2015-09-04,CC-SAL-2,E003
+E177,Rohan Hegde,rohan.hegde177@nexora.com,Marketing,L1,Associate,Bengaluru,2023-09-17,CC-MAR-3,E095
+E178,Ananya Pandey,ananya.pandey178@nexora.com,Engineering,L1,Associate,Bengaluru,2020-06-03,CC-ENG-1,E073
+E179,Isha Pillai,isha.pillai179@nexora.com,Operations,L5,Director,Chennai,2020-09-02,CC-OPE-2,E014
+E180,Sunita Bhatia,sunita.bhatia180@nexora.com,Operations,L1,Associate,Hyderabad,2023-08-25,CC-OPE-2,E257
+E181,Amit Subramanian,amit.subramanian181@nexora.com,HR,L1,Associate,Hyderabad,2019-11-20,CC-HR-2,E141
+E182,Gaurav Mishra,gaurav.mishra182@nexora.com,Sales,L2,Senior Associate,Hyderabad,2021-02-21,CC-SAL-3,E221
+E183,Farhan Roy,farhan.roy183@nexora.com,Support,L1,Associate,Chennai,2023-11-15,CC-SUP-2,E197
+E184,Harsh Chauhan,harsh.chauhan184@nexora.com,Sales,L2,Senior Associate,Chennai,2021-02-06,CC-SAL-2,E143
+E185,Sandeep Krishnan,sandeep.krishnan185@nexora.com,Engineering,L1,Associate,Bengaluru,2021-10-07,CC-ENG-4,E219
+E186,Harsh Reddy,harsh.reddy186@nexora.com,Operations,L6,Vice President,Pune,2017-04-09,CC-OPE-1,
+E187,Lakshmi Mishra,lakshmi.mishra187@nexora.com,Marketing,L4,Senior Manager,Hyderabad,2024-10-15,CC-MAR-2,E113
+E188,Ananya Mehta,ananya.mehta188@nexora.com,Finance,L2,Senior Associate,Gurugram,2021-10-27,CC-FIN-1,E297
+E189,Sunita Chauhan,sunita.chauhan189@nexora.com,HR,L5,Director,Bengaluru,2024-01-16,CC-HR-4,E208
+E190,Nisha Mishra,nisha.mishra190@nexora.com,Marketing,L2,Senior Associate,Gurugram,2023-02-09,CC-MAR-3,E082
+E191,Sandeep Verma,sandeep.verma191@nexora.com,Marketing,L1,Associate,Bengaluru,2015-10-25,CC-MAR-1,E147
+E192,Sanjay Gowda,sanjay.gowda192@nexora.com,Sales,L2,Senior Associate,Hyderabad,2022-03-05,CC-SAL-2,E017
+E193,Arjun Joshi,arjun.joshi193@nexora.com,Finance,L3,Manager,Hyderabad,2019-10-09,CC-FIN-1,E166
+E194,Naveen Kulkarni,naveen.kulkarni194@nexora.com,Operations,L4,Senior Manager,Pune,2024-03-11,CC-OPE-3,E179
+E195,Chitra Krishnan,chitra.krishnan195@nexora.com,Marketing,L2,Senior Associate,Hyderabad,2020-08-03,CC-MAR-1,E129
+E196,Kiran Thakur,kiran.thakur196@nexora.com,Sales,L1,Associate,Mumbai,2016-12-03,CC-SAL-4,E094
+E197,Harsh Chatterjee,harsh.chatterjee197@nexora.com,Support,L2,Senior Associate,Pune,2016-10-16,CC-SUP-4,E210
+E198,Naveen Pandey,naveen.pandey198@nexora.com,Operations,L3,Manager,Hyderabad,2024-04-26,CC-OPE-4,E044
+E199,Arjun Kulkarni,arjun.kulkarni199@nexora.com,Marketing,L2,Senior Associate,Bengaluru,2019-08-09,CC-MAR-4,E082
+E200,Pooja Sinha,pooja.sinha200@nexora.com,Support,L1,Associate,Bengaluru,2017-06-05,CC-SUP-1,E272
+E201,Suresh Chauhan,suresh.chauhan201@nexora.com,Engineering,L3,Manager,Kolkata,2023-06-22,CC-ENG-2,E281
+E202,Vikram Ghosh,vikram.ghosh202@nexora.com,Finance,L5,Director,Hyderabad,2020-02-08,CC-FIN-1,E011
+E203,Aarav Chatterjee,aarav.chatterjee203@nexora.com,Engineering,L3,Manager,Mumbai,2019-08-06,CC-ENG-2,E108
+E204,Karan Malhotra,karan.malhotra204@nexora.com,Operations,L2,Senior Associate,Hyderabad,2021-03-27,CC-OPE-3,E152
+E205,Ritu Ansari,ritu.ansari205@nexora.com,Sales,L1,Associate,Mumbai,2015-11-10,CC-SAL-1,E226
+E206,Tarun Roy,tarun.roy206@nexora.com,Engineering,L5,Director,Bengaluru,2023-07-24,CC-ENG-2,E230
+E207,Varun Banerjee,varun.banerjee207@nexora.com,Marketing,L2,Senior Associate,Bengaluru,2016-05-01,CC-MAR-2,E270
+E208,Sneha Tiwari,sneha.tiwari208@nexora.com,HR,L6,Vice President,Pune,2015-12-19,CC-HR-2,
+E209,Pooja Joshi,pooja.joshi209@nexora.com,HR,L2,Senior Associate,Hyderabad,2018-10-12,CC-HR-2,E268
+E210,Aditya Gupta,aditya.gupta210@nexora.com,Support,L3,Manager,Bengaluru,2019-07-09,CC-SUP-1,E064
+E211,Bhavna Deshmukh,bhavna.deshmukh211@nexora.com,Sales,L2,Senior Associate,Chennai,2021-05-13,CC-SAL-2,E280
+E212,Anjali Malhotra,anjali.malhotra212@nexora.com,Operations,L1,Associate,Bengaluru,2024-06-15,CC-OPE-2,E288
+E213,Kavya Kapoor,kavya.kapoor213@nexora.com,Sales,L4,Senior Manager,Chennai,2023-10-06,CC-SAL-1,E214
+E214,Deepak Khan,deepak.khan214@nexora.com,Sales,L5,Director,Mumbai,2018-11-23,CC-SAL-2,E276
+E215,Sanjay Hegde,sanjay.hegde215@nexora.com,HR,L5,Director,Hyderabad,2024-01-07,CC-HR-2,E208
+E216,Ritu Das,ritu.das216@nexora.com,Operations,L3,Manager,Bengaluru,2019-06-28,CC-OPE-2,E194
+E217,Sunita Tiwari,sunita.tiwari217@nexora.com,Engineering,L6,Vice President,Hyderabad,2023-07-09,CC-ENG-3,
+E218,Ritu Mishra,ritu.mishra218@nexora.com,Sales,L3,Manager,Mumbai,2020-06-30,CC-SAL-2,E148
+E219,Vandana Chauhan,vandana.chauhan219@nexora.com,Engineering,L2,Senior Associate,Hyderabad,2017-04-17,CC-ENG-4,E248
+E220,Sneha Iyer,sneha.iyer220@nexora.com,Engineering,L2,Senior Associate,Hyderabad,2015-07-13,CC-ENG-3,E075
+E221,Pooja Rao,pooja.rao221@nexora.com,Sales,L3,Manager,Hyderabad,2021-12-18,CC-SAL-1,E148
+E222,Isha Singh,isha.singh222@nexora.com,Engineering,L1,Associate,Mumbai,2023-04-26,CC-ENG-3,E291
+E223,Nisha Malhotra,nisha.malhotra223@nexora.com,Sales,L3,Manager,Mumbai,2021-05-12,CC-SAL-2,E175
+E224,Kunal Menon,kunal.menon224@nexora.com,Operations,L1,Associate,Bengaluru,2019-01-19,CC-OPE-1,E257
+E225,Vikram Mukherjee,vikram.mukherjee225@nexora.com,Operations,L1,Associate,Hyderabad,2023-09-18,CC-OPE-3,E043
+E226,Suresh Bhatia,suresh.bhatia226@nexora.com,Sales,L2,Senior Associate,Hyderabad,2017-09-13,CC-SAL-1,E218
+E227,Manoj Kapoor,manoj.kapoor227@nexora.com,Support,L3,Manager,Bengaluru,2020-01-17,CC-SUP-1,E064
+E228,Sandeep Kapoor,sandeep.kapoor228@nexora.com,Support,L1,Associate,Hyderabad,2018-08-25,CC-SUP-3,E292
+E229,Dinesh Bhat,dinesh.bhat229@nexora.com,Finance,L1,Associate,Bengaluru,2022-07-04,CC-FIN-1,E188
+E230,Siddharth Malhotra,siddharth.malhotra230@nexora.com,Engineering,L6,Vice President,Delhi,2021-10-26,CC-ENG-2,
+E231,Swati Reddy,swati.reddy231@nexora.com,Engineering,L1,Associate,Hyderabad,2017-02-07,CC-ENG-2,E140
+E232,Nisha Subramanian,nisha.subramanian232@nexora.com,Operations,L2,Senior Associate,Hyderabad,2016-06-06,CC-OPE-1,E137
+E233,Deepak Joshi,deepak.joshi233@nexora.com,Engineering,L3,Manager,Gurugram,2019-08-10,CC-ENG-4,E274
+E234,Ritu Shetty,ritu.shetty234@nexora.com,Engineering,L2,Senior Associate,Hyderabad,2022-10-13,CC-ENG-2,E023
+E235,Isha Roy,isha.roy235@nexora.com,Sales,L6,Vice President,Pune,2021-02-23,CC-SAL-3,
+E236,Ananya Mukherjee,ananya.mukherjee236@nexora.com,Marketing,L2,Senior Associate,Hyderabad,2020-01-25,CC-MAR-4,E050
+E237,Vikram Das,vikram.das237@nexora.com,Sales,L4,Senior Manager,Delhi,2024-05-11,CC-SAL-3,E164
+E238,Aditi Roy,aditi.roy238@nexora.com,Sales,L1,Associate,Bengaluru,2020-01-15,CC-SAL-4,E089
+E239,Suresh Kapoor,suresh.kapoor239@nexora.com,Sales,L2,Senior Associate,Delhi,2020-10-17,CC-SAL-3,E218
+E240,Rajesh Menon,rajesh.menon240@nexora.com,Operations,L1,Associate,Kolkata,2018-04-11,CC-OPE-3,E204
+E241,Neha Ramesh,neha.ramesh241@nexora.com,Support,L6,Vice President,Mumbai,2017-06-02,CC-SUP-2,
+E242,Aditya Verma,aditya.verma242@nexora.com,Sales,L1,Associate,Bengaluru,2023-05-19,CC-SAL-4,E182
+E243,Lakshmi Sharma,lakshmi.sharma243@nexora.com,Support,L3,Manager,Chennai,2024-01-26,CC-SUP-3,E265
+E244,Gaurav Pandey,gaurav.pandey244@nexora.com,Engineering,L1,Associate,Pune,2015-10-02,CC-ENG-2,E291
+E245,Tanvi Sinha,tanvi.sinha245@nexora.com,Engineering,L3,Manager,Chennai,2018-12-18,CC-ENG-1,E125
+E246,Dinesh Agarwal,dinesh.agarwal246@nexora.com,Marketing,L1,Associate,Hyderabad,2017-08-18,CC-MAR-3,E128
+E247,Karan Ansari,karan.ansari247@nexora.com,Support,L5,Director,Bengaluru,2016-05-05,CC-SUP-4,E241
+E248,Swati Naidu,swati.naidu248@nexora.com,Engineering,L3,Manager,Gurugram,2020-06-29,CC-ENG-4,E267
+E249,Priya Pillai,priya.pillai249@nexora.com,Sales,L5,Director,Gurugram,2020-07-29,CC-SAL-3,E276
+E250,Rajesh Gupta,rajesh.gupta250@nexora.com,Operations,L1,Associate,Hyderabad,2025-05-18,CC-OPE-4,E043
+E251,Manish Yadav,manish.yadav251@nexora.com,Engineering,L1,Associate,Delhi,2023-08-13,CC-ENG-2,E031
+E252,Neha Pandey,neha.pandey252@nexora.com,Sales,L2,Senior Associate,Pune,2022-12-27,CC-SAL-2,E290
+E253,Isha Nair,isha.nair253@nexora.com,HR,L2,Senior Associate,Delhi,2023-05-01,CC-HR-3,E268
+E254,Shruti Mehta,shruti.mehta254@nexora.com,Engineering,L1,Associate,Hyderabad,2020-05-13,CC-ENG-3,E022
+E255,Naveen Hegde,naveen.hegde255@nexora.com,Engineering,L4,Senior Manager,Chennai,2018-06-17,CC-ENG-1,E113
+E256,Divya Patel,divya.patel256@nexora.com,Engineering,L1,Associate,Bengaluru,2019-02-01,CC-ENG-1,E034
+E257,Divya Rao,divya.rao257@nexora.com,Operations,L2,Senior Associate,Bengaluru,2015-08-12,CC-OPE-4,E115
+E258,Swati Krishnan,swati.krishnan258@nexora.com,Engineering,L3,Manager,Mumbai,2018-05-13,CC-ENG-4,E059
+E259,Ashwin Kulkarni,ashwin.kulkarni259@nexora.com,Sales,L2,Senior Associate,Pune,2024-12-08,CC-SAL-3,E290
+E260,Rohan Verma,rohan.verma260@nexora.com,Marketing,L1,Associate,Kolkata,2015-05-25,CC-MAR-3,E065
+E261,Ananya Agarwal,ananya.agarwal261@nexora.com,Engineering,L2,Senior Associate,Pune,2021-05-06,CC-ENG-3,E248
+E262,Harsh Pandey,harsh.pandey262@nexora.com,Marketing,L1,Associate,Hyderabad,2024-12-12,CC-MAR-2,E147
+E263,Kiran Yadav,kiran.yadav263@nexora.com,Sales,L1,Associate,Mumbai,2019-04-24,CC-SAL-3,E136
+E264,Pooja Verma,pooja.verma264@nexora.com,Sales,L2,Senior Associate,Hyderabad,2021-06-17,CC-SAL-2,E017
+E265,Dinesh Iyer,dinesh.iyer265@nexora.com,Support,L4,Senior Manager,Pune,2022-01-13,CC-SUP-1,E247
+E266,Mohan Shetty,mohan.shetty266@nexora.com,Operations,L2,Senior Associate,Kolkata,2019-08-11,CC-OPE-4,E053
+E267,Rohan Rao,rohan.rao267@nexora.com,Engineering,L4,Senior Manager,Bengaluru,2015-10-07,CC-ENG-4,E206
+E268,Yash Mishra,yash.mishra268@nexora.com,HR,L4,Senior Manager,Bengaluru,2019-04-14,CC-HR-4,E189
+E269,Aditya Shah,aditya.shah269@nexora.com,Engineering,L3,Manager,Delhi,2022-08-31,CC-ENG-3,E267
+E270,Siddharth Chauhan,siddharth.chauhan270@nexora.com,Marketing,L3,Manager,Mumbai,2019-01-16,CC-MAR-4,E145
+E271,Vivaan Mehta,vivaan.mehta271@nexora.com,Operations,L5,Director,Mumbai,2021-10-15,CC-OPE-2,E186
+E272,Kunal Bose,kunal.bose272@nexora.com,Support,L2,Senior Associate,Chennai,2017-11-23,CC-SUP-2,E087
+E273,Pranav Bhat,pranav.bhat273@nexora.com,Sales,L4,Senior Manager,Delhi,2015-01-04,CC-SAL-4,E249
+E274,Tanvi Chauhan,tanvi.chauhan274@nexora.com,Engineering,L4,Senior Manager,Bengaluru,2024-07-09,CC-ENG-1,E113
+E275,Mohan Hegde,mohan.hegde275@nexora.com,Finance,L1,Associate,Bengaluru,2024-11-30,CC-FIN-3,E188
+E276,Harsh Jain,harsh.jain276@nexora.com,Sales,L6,Vice President,Hyderabad,2016-03-01,CC-SAL-1,
+E277,Ananya Roy,ananya.roy277@nexora.com,Sales,L2,Senior Associate,Hyderabad,2017-05-01,CC-SAL-4,E092
+E278,Manish Gupta,manish.gupta278@nexora.com,Sales,L1,Associate,Delhi,2016-10-15,CC-SAL-3,E239
+E279,Mohan Sinha,mohan.sinha279@nexora.com,HR,L1,Associate,Bengaluru,2020-07-02,CC-HR-3,E253
+E280,Pooja Khan,pooja.khan280@nexora.com,Sales,L3,Manager,Chennai,2018-03-16,CC-SAL-3,E237
+E281,Bhavna Pandey,bhavna.pandey281@nexora.com,Engineering,L4,Senior Manager,Mumbai,2020-12-27,CC-ENG-4,E113
+E282,Pranav Saxena,pranav.saxena282@nexora.com,Finance,L1,Associate,Pune,2017-10-18,CC-FIN-3,E051
+E283,Sanjay Thakur,sanjay.thakur283@nexora.com,Marketing,L1,Associate,Delhi,2023-04-09,CC-MAR-2,E065
+E284,Yash Iyer,yash.iyer284@nexora.com,Sales,L2,Senior Associate,Chennai,2015-10-09,CC-SAL-1,E218
+E285,Yash Roy,yash.roy285@nexora.com,HR,L2,Senior Associate,Delhi,2018-06-24,CC-HR-1,E268
+E286,Sandeep Mishra,sandeep.mishra286@nexora.com,Sales,L2,Senior Associate,Mumbai,2020-09-29,CC-SAL-4,E290
+E287,Mohan Khan,mohan.khan287@nexora.com,Engineering,L3,Manager,Hyderabad,2024-10-02,CC-ENG-4,E255
+E288,Arjun Jain,arjun.jain288@nexora.com,Operations,L2,Senior Associate,Hyderabad,2017-11-05,CC-OPE-4,E127
+E289,Nisha Ghosh,nisha.ghosh289@nexora.com,Marketing,L2,Senior Associate,Chennai,2023-12-07,CC-MAR-4,E050
+E290,Harsh Roy,harsh.roy290@nexora.com,Sales,L3,Manager,Hyderabad,2022-02-13,CC-SAL-3,E172
+E291,Pooja Roy,pooja.roy291@nexora.com,Engineering,L2,Senior Associate,Hyderabad,2022-08-28,CC-ENG-3,E023
+E292,Sanjay Deshmukh,sanjay.deshmukh292@nexora.com,Support,L2,Senior Associate,Hyderabad,2024-08-07,CC-SUP-2,E293
+E293,Manoj Gowda,manoj.gowda293@nexora.com,Support,L3,Manager,Bengaluru,2024-04-16,CC-SUP-2,E064
+E294,Lakshmi Khan,lakshmi.khan294@nexora.com,Engineering,L2,Senior Associate,Bengaluru,2022-03-11,CC-ENG-2,E057
+E295,Mohan Ghosh,mohan.ghosh295@nexora.com,Engineering,L2,Senior Associate,Bengaluru,2024-04-26,CC-ENG-3,E162
+E296,Imran Gupta,imran.gupta296@nexora.com,Support,L4,Senior Manager,Bengaluru,2016-05-27,CC-SUP-2,E247
+E297,Kavya Ramesh,kavya.ramesh297@nexora.com,Finance,L3,Manager,Hyderabad,2022-07-04,CC-FIN-3,E067
+E298,Rajesh Saxena,rajesh.saxena298@nexora.com,Support,L3,Manager,Bengaluru,2017-01-26,CC-SUP-1,E265
+E299,Ritu Krishnan,ritu.krishnan299@nexora.com,Finance,L1,Associate,Bengaluru,2022-10-12,CC-FIN-2,E051
+E300,Kunal Sinha,kunal.sinha300@nexora.com,Marketing,L4,Senior Manager,Hyderabad,2018-01-15,CC-MAR-4,E179

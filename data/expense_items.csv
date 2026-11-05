@@ -1,0 +1,1344 @@
+item_id,claim_id,category,item_date,vendor,description,amount,policy_limit,policy_flag,receipt_attached
+ITM00001,CLM10001,Airfare,2025-10-04,Air India,Return flight Hyderabad - Gurugram (economy),7668.31,22000,Within limit,Y
+ITM00002,CLM10001,Hotel,2025-10-04,Taj Vivanta,3 nights stay in Gurugram (Taj Vivanta),10974.13,13500,Within limit,Y
+ITM00003,CLM10001,Meals,2025-10-05,Multiple vendors,Meals for 4 days during project kickoff in Gurugram,4167.15,4800,Within limit,Y
+ITM00004,CLM10001,Local Cab,2025-10-04,Local taxi,3 cab rides during stay in Gurugram,3347.9,6000,Within limit,Y
+ITM00005,CLM10002,Airfare,2025-08-10,Akasa Air,Return flight Hyderabad - Pune (economy),17986.47,22000,Within limit,Y
+ITM00006,CLM10002,Hotel,2025-08-10,Lemon Tree Premier,2 nights stay in Pune (Lemon Tree Premier),6506.06,9000,Within limit,Y
+ITM00007,CLM10002,Meals,2025-08-11,Multiple vendors,Meals for 3 days during branch visit in Pune,4955.98,3600,Exceeds limit,Y
+ITM00008,CLM10002,Local Cab,2025-08-10,Local taxi,4 cab rides during stay in Pune,3279.36,4500,Within limit,Y
+ITM00009,CLM10003,Airfare,2025-07-07,Akasa Air,Return flight Gurugram - Bhubaneswar (economy),8090.49,22000,Within limit,Y
+ITM00010,CLM10003,Hotel,2025-07-07,Fortune Inn,1 nights stay in Bhubaneswar (Fortune Inn),5394.43,5500,Within limit,Y
+ITM00011,CLM10003,Meals,2025-07-08,Multiple vendors,Meals for 2 days during recruitment drive in Bhubaneswar,2352.62,3000,Within limit,Y
+ITM00012,CLM10003,Local Cab,2025-07-07,Ola,5 cab rides during stay in Bhubaneswar,4094.59,3000,Exceeds limit,Y
+ITM00013,CLM10004,Airfare,2025-04-13,Akasa Air,Return flight Bengaluru - Delhi (economy),17433.96,22000,Within limit,Y
+ITM00014,CLM10004,Hotel,2025-04-13,Taj Vivanta,2 nights stay in Delhi (Taj Vivanta),6797.14,9000,Within limit,Y
+ITM00015,CLM10004,Meals,2025-04-14,Multiple vendors,Meals for 3 days during client meeting in Delhi,2316.45,3600,Within limit,Y
+ITM00016,CLM10004,Local Cab,2025-04-13,Uber,2 cab rides during stay in Delhi,2476.17,4500,Within limit,Y
+ITM00017,CLM10005,Airfare,2025-04-24,IndiGo,Return flight Delhi - Bhubaneswar (economy),10423.99,22000,Within limit,Y
+ITM00018,CLM10005,Hotel,2025-04-24,Hotel Residency,3 nights stay in Bhubaneswar (Hotel Residency),14620.9,10500,Exceeds limit,Y
+ITM00019,CLM10005,Meals,2025-04-25,Multiple vendors,Meals for 4 days during branch visit in Bhubaneswar,2728.06,4000,Within limit,Y
+ITM00020,CLM10005,Local Cab,2025-04-24,Uber,3 cab rides during stay in Bhubaneswar,3644.87,6000,Within limit,Y
+ITM00021,CLM10006,Airfare,2026-04-14,Akasa Air,Return flight Hyderabad - Pune (economy),18195.93,22000,Within limit,Y
+ITM00022,CLM10006,Hotel,2026-04-14,Hyatt Regency,4 nights stay in Pune (Hyatt Regency),25026.56,18000,Exceeds limit,Y
+ITM00023,CLM10006,Meals,2026-04-15,Multiple vendors,Meals for 5 days during recruitment drive in Pune,4955.54,6000,Within limit,Y
+ITM00024,CLM10006,Local Cab,2026-04-14,Ola,2 cab rides during stay in Pune,3661.7,7500,Within limit,Y
+ITM00025,CLM10006,Client Entertainment,2026-04-15,Olive Bistro,Client dinner with 4 guests (recruitment drive),9305.87,10000,Within limit,Y
+ITM00026,CLM10007,Airfare,2025-06-09,Air India,Return flight Bengaluru - Kochi (economy),10868.43,22000,Within limit,Y
+ITM00027,CLM10007,Hotel,2025-06-09,Hotel Residency,1 nights stay in Kochi (Hotel Residency),3842.91,5500,Within limit,Y
+ITM00028,CLM10007,Meals,2025-06-10,Multiple vendors,Meals for 2 days during customer onsite deployment in Kochi,2087.62,3000,Within limit,Y
+ITM00029,CLM10007,Local Cab,2025-06-09,Ola,3 cab rides during stay in Kochi,1721.64,3000,Within limit,Y
+ITM00030,CLM10008,Airfare,2025-09-25,IndiGo,Return flight Hyderabad - Kochi (economy),8460.34,22000,Within limit,Y
+ITM00031,CLM10008,Hotel,2025-09-25,Hotel Residency,5 nights stay in Kochi (Hotel Residency),35751.0,40000,Within limit,Y
+ITM00032,CLM10008,Meals,2025-09-26,Multiple vendors,Meals for 6 days during customer onsite deployment in Kochi,6789.03,12000,Within limit,Y
+ITM00033,CLM10008,Local Cab,2025-09-25,Local taxi,2 cab rides during stay in Kochi,4254.53,9000,Within limit,Y
+ITM00034,CLM10009,Airfare,2025-07-24,Air India,Return flight Hyderabad - Pune (economy),18617.97,22000,Within limit,Y
+ITM00035,CLM10009,Hotel,2025-07-24,Courtyard by Marriott,2 nights stay in Pune (Courtyard by Marriott),7444.48,9000,Within limit,Y
+ITM00036,CLM10009,Meals,2025-07-25,Multiple vendors,Meals for 3 days during vendor audit in Pune,3201.73,3600,Within limit,Y
+ITM00037,CLM10009,Local Cab,2025-07-24,Meru Cabs,2 cab rides during stay in Pune,2101.26,4500,Within limit,Y
+ITM00038,CLM10010,Airfare,2026-03-08,Akasa Air,Return flight Bengaluru - Nagpur (economy),12987.26,22000,Within limit,Y
+ITM00039,CLM10010,Hotel,2026-03-08,ibis,3 nights stay in Nagpur (ibis),7978.91,10500,Within limit,Y
+ITM00040,CLM10010,Meals,2026-03-09,Multiple vendors,Meals for 4 days during conference in Nagpur,3134.07,4000,Within limit,Y
+ITM00041,CLM10010,Local Cab,2026-03-08,Meru Cabs,4 cab rides during stay in Nagpur,1606.93,6000,Within limit,Y
+ITM00042,CLM10010,Conference Registration,2026-03-08,Event organiser,Registration fee - Nagpur summit,8836.62,,Within limit,Y
+ITM00043,CLM10011,Airfare,2025-04-08,Akasa Air,Return flight Hyderabad - Coimbatore (economy),11063.62,22000,Within limit,Y
+ITM00044,CLM10011,Hotel,2025-04-08,Treebo Premium,1 nights stay in Coimbatore (Treebo Premium),2393.71,3500,Within limit,Y
+ITM00045,CLM10011,Meals,2025-04-09,Multiple vendors,Meals for 2 days during training workshop in Coimbatore,1047.08,2000,Within limit,Y
+ITM00046,CLM10011,Local Cab,2025-04-08,Meru Cabs,3 cab rides during stay in Coimbatore,1571.09,3000,Within limit,Y
+ITM00047,CLM10011,Client Entertainment,2025-04-09,The Table,Client dinner with 2 guests (training workshop),3373.28,5000,Within limit,Y
+ITM00048,CLM10012,Airfare,2025-06-27,Akasa Air,Return flight Bengaluru - Visakhapatnam (economy),16514.26,22000,Within limit,Y
+ITM00049,CLM10012,Hotel,2025-06-27,Fortune Inn,1 nights stay in Visakhapatnam (Fortune Inn),2999.18,3500,Within limit,Y
+ITM00050,CLM10012,Meals,2025-06-28,Multiple vendors,Meals for 2 days during conference in Visakhapatnam,1839.77,2000,Within limit,Y
+ITM00051,CLM10012,Local Cab,2025-06-27,Uber,5 cab rides during stay in Visakhapatnam,829.12,3000,Within limit,Y
+ITM00052,CLM10012,Conference Registration,2025-06-27,Event organiser,Registration fee - Visakhapatnam summit,23473.64,,Within limit,Y
+ITM00053,CLM10013,Airfare,2025-04-06,IndiGo,Return flight Bengaluru - Coimbatore (economy),17653.54,22000,Within limit,Y
+ITM00054,CLM10013,Hotel,2025-04-06,Fortune Inn,5 nights stay in Coimbatore (Fortune Inn),18397.29,27500,Within limit,Y
+ITM00055,CLM10013,Meals,2025-04-07,Multiple vendors,Meals for 6 days during recruitment drive in Coimbatore,6165.17,9000,Within limit,Y
+ITM00056,CLM10013,Local Cab,2025-04-06,Local taxi,3 cab rides during stay in Coimbatore,4120.29,9000,Within limit,Y
+ITM00057,CLM10014,Airfare,2025-07-31,Air India,Return flight Hyderabad - Jaipur (economy),10522.14,22000,Within limit,Y
+ITM00058,CLM10014,Hotel,2025-07-31,Lemon Tree,1 nights stay in Jaipur (Lemon Tree),3918.16,3500,Exceeds limit,Y
+ITM00059,CLM10014,Meals,2025-08-01,Multiple vendors,Meals for 2 days during sales pitch in Jaipur,1396.81,2000,Within limit,Y
+ITM00060,CLM10014,Local Cab,2025-07-31,Local taxi,2 cab rides during stay in Jaipur,2229.39,3000,Within limit,Y
+ITM00061,CLM10015,Airfare,2025-09-18,SpiceJet,Return flight Mumbai - Kolkata (economy),11161.76,22000,Within limit,Y
+ITM00062,CLM10015,Hotel,2025-09-18,Hyatt Regency,5 nights stay in Kolkata (Hyatt Regency),44394.64,35000,Exceeds limit,Y
+ITM00063,CLM10015,Meals,2025-09-19,Multiple vendors,Meals for 6 days during training workshop in Kolkata,7025.09,10800,Within limit,Y
+ITM00064,CLM10015,Local Cab,2025-09-18,Local taxi,3 cab rides during stay in Kolkata,4628.36,9000,Within limit,Y
+ITM00065,CLM10016,Airfare,2026-04-22,SpiceJet,Return flight Hyderabad - Chennai (economy),8774.54,22000,Within limit,Y
+ITM00066,CLM10016,Hotel,2026-04-22,Hyatt Regency,2 nights stay in Chennai (Hyatt Regency),8674.68,9000,Within limit,Y
+ITM00067,CLM10016,Meals,2026-04-23,Multiple vendors,Meals for 3 days during recruitment drive in Chennai,2384.73,3600,Within limit,Y
+ITM00068,CLM10016,Local Cab,2026-04-22,Uber,2 cab rides during stay in Chennai,1697.52,4500,Within limit,Y
+ITM00069,CLM10017,Airfare,2026-07-02,Akasa Air,Return flight Pune - Nagpur (economy),9011.09,22000,Within limit,Y
+ITM00070,CLM10017,Hotel,2026-07-02,Treebo Premium,2 nights stay in Nagpur (Treebo Premium),9273.35,7000,Exceeds limit,Y
+ITM00071,CLM10017,Meals,2026-07-03,Multiple vendors,Meals for 3 days during conference in Nagpur,1712.19,3000,Within limit,Y
+ITM00072,CLM10017,Local Cab,2026-07-02,Meru Cabs,4 cab rides during stay in Nagpur,2830.96,4500,Within limit,Y
+ITM00073,CLM10017,Client Entertainment,2026-07-03,The Table,Client dinner with 4 guests (conference),8128.75,10000,Within limit,Y
+ITM00074,CLM10017,Conference Registration,2026-07-02,Event organiser,Registration fee - Nagpur summit,6318.97,,Within limit,Y
+ITM00075,CLM10018,Train,2025-08-13,IRCTC,Return train Hyderabad - Mumbai (3A),1402.18,6000,Within limit,Y
+ITM00076,CLM10018,Hotel,2025-08-13,Courtyard by Marriott,5 nights stay in Mumbai (Courtyard by Marriott),17006.97,22500,Within limit,Y
+ITM00077,CLM10018,Meals,2025-08-14,Multiple vendors,Meals for 6 days during conference in Mumbai,9675.06,7200,Exceeds limit,Y
+ITM00078,CLM10018,Local Cab,2025-08-13,Meru Cabs,3 cab rides during stay in Mumbai,4896.04,9000,Within limit,Y
+ITM00079,CLM10018,Conference Registration,2025-08-13,Event organiser,Registration fee - Mumbai summit,12969.53,,Within limit,Y
+ITM00080,CLM10019,Train,2026-03-24,IRCTC,Return train Hyderabad - Bhubaneswar (3A),1897.69,6000,Within limit,Y
+ITM00081,CLM10019,Hotel,2026-03-24,Treebo Premium,2 nights stay in Bhubaneswar (Treebo Premium),4207.49,7000,Within limit,Y
+ITM00082,CLM10019,Meals,2026-03-25,Multiple vendors,Meals for 3 days during sales pitch in Bhubaneswar,1746.08,3000,Within limit,Y
+ITM00083,CLM10019,Local Cab,2026-03-24,Ola,4 cab rides during stay in Bhubaneswar,1890.57,4500,Receipt missing,N
+ITM00084,CLM10019,Client Entertainment,2026-03-25,Paradise Restaurant,Client dinner with 2 guests (sales pitch),3246.28,5000,Within limit,Y
+ITM00085,CLM10020,Airfare,2025-10-20,IndiGo,Return flight Bengaluru - Lucknow (economy),12492.1,22000,Within limit,Y
+ITM00086,CLM10020,Hotel,2025-10-20,Lemon Tree,4 nights stay in Lucknow (Lemon Tree),16464.97,14000,Exceeds limit,Y
+ITM00087,CLM10020,Meals,2025-10-21,Multiple vendors,Meals for 5 days during recruitment drive in Lucknow,2960.77,5000,Within limit,Y
+ITM00088,CLM10020,Local Cab,2025-10-20,Ola,4 cab rides during stay in Lucknow,5747.91,7500,Within limit,Y
+ITM00089,CLM10020,Phone & Internet,2025-10-24,Airtel,Data roaming and hotspot charges,642.78,1000,Within limit,Y
+ITM00090,CLM10021,Airfare,2025-07-24,IndiGo,Return flight Hyderabad - Bengaluru (economy),8855.26,22000,Within limit,Y
+ITM00091,CLM10021,Hotel,2025-07-24,Lemon Tree Premier,1 nights stay in Bengaluru (Lemon Tree Premier),2701.23,4500,Within limit,Y
+ITM00092,CLM10021,Meals,2025-07-25,Multiple vendors,Meals for 2 days during client meeting in Bengaluru,2165.85,2400,Within limit,Y
+ITM00093,CLM10021,Local Cab,2025-07-24,Ola,3 cab rides during stay in Bengaluru,2359.41,3000,Within limit,Y
+ITM00094,CLM10022,Airfare,2026-03-10,British Airways,Return flight Delhi - Dubai,73516.48,80000,Within limit,Y
+ITM00095,CLM10022,Visa & Forex,2026-03-10,VFS Global,Visa fees and forex card charges,4932.72,,Within limit,Y
+ITM00096,CLM10022,Hotel,2026-03-10,Taj Vivanta,7 nights stay in Dubai (Taj Vivanta),55438.9,84000,Within limit,Y
+ITM00097,CLM10022,Meals,2026-03-11,Multiple vendors,Meals for 8 days during branch visit in Dubai,24824.5,36000,Within limit,Y
+ITM00098,CLM10022,Local Cab,2026-03-10,Meru Cabs,3 cab rides during stay in Dubai,8172.15,12000,Within limit,Y
+ITM00099,CLM10023,Airfare,2026-02-03,Air India,Return flight Pune - Kolkata (economy),7550.75,22000,Within limit,Y
+ITM00100,CLM10023,Hotel,2026-02-03,Lemon Tree Premier,1 nights stay in Kolkata (Lemon Tree Premier),3494.9,4500,Within limit,Y
+ITM00101,CLM10023,Meals,2026-02-04,Multiple vendors,Meals for 2 days during client meeting in Kolkata,1617.68,2400,Within limit,Y
+ITM00102,CLM10023,Local Cab,2026-02-03,Meru Cabs,3 cab rides during stay in Kolkata,1361.71,3000,Within limit,Y
+ITM00103,CLM10023,Client Entertainment,2026-02-04,Paradise Restaurant,Client dinner with 2 guests (client meeting),4733.29,5000,Within limit,Y
+ITM00104,CLM10024,Airfare,2025-06-09,Air India,Return flight Delhi - Bengaluru (economy),7387.79,22000,Within limit,Y
+ITM00105,CLM10024,Hotel,2025-06-09,Novotel,5 nights stay in Bengaluru (Novotel),14791.21,22500,Within limit,Y
+ITM00106,CLM10024,Meals,2025-06-10,Multiple vendors,Meals for 6 days during client meeting in Bengaluru,4083.36,7200,Within limit,Y
+ITM00107,CLM10024,Local Cab,2025-06-09,Meru Cabs,5 cab rides during stay in Bengaluru,7004.43,9000,Within limit,Y
+ITM00108,CLM10025,Train,2026-07-09,IRCTC,Return train Pune - Mysuru (2A),3294.0,6000,Within limit,Y
+ITM00109,CLM10025,Hotel,2026-07-09,Hotel Grand Orchid,2 nights stay in Mysuru (Hotel Grand Orchid),8955.22,8000,Exceeds limit,Y
+ITM00110,CLM10025,Meals,2026-07-10,Multiple vendors,Meals for 3 days during conference in Mysuru,2076.46,3600,Within limit,Y
+ITM00111,CLM10025,Local Cab,2026-07-09,Local taxi,2 cab rides during stay in Mysuru,1802.86,4500,Within limit,Y
+ITM00112,CLM10025,Conference Registration,2026-07-09,Event organiser,Registration fee - Mysuru summit,15061.49,,Within limit,Y
+ITM00113,CLM10026,Train,2025-10-08,IRCTC,Return train Hyderabad - Guwahati (3A),4109.5,6000,Within limit,Y
+ITM00114,CLM10026,Hotel,2025-10-08,FabHotel Prime,5 nights stay in Guwahati (FabHotel Prime),9798.76,12500,Within limit,Y
+ITM00115,CLM10026,Meals,2025-10-09,Multiple vendors,Meals for 6 days during project kickoff in Guwahati,3337.53,4800,Within limit,Y
+ITM00116,CLM10026,Local Cab,2025-10-08,Local taxi,3 cab rides during stay in Guwahati,2979.56,9000,Within limit,Y
+ITM00117,CLM10026,Conference Registration,2025-10-08,Event organiser,Registration fee - Guwahati summit,20016.74,,Within limit,Y
+ITM00118,CLM10027,Airfare,2025-04-21,Singapore Airlines,Return flight Hyderabad - Dubai,62039.05,80000,Within limit,Y
+ITM00119,CLM10027,Visa & Forex,2025-04-21,VFS Global,Visa fees and forex card charges,8116.03,,Within limit,Y
+ITM00120,CLM10027,Hotel,2025-04-21,Lemon Tree Premier,4 nights stay in Dubai (Lemon Tree Premier),32305.23,48000,Within limit,Y
+ITM00121,CLM10027,Meals,2025-04-22,Multiple vendors,Meals for 5 days during branch visit in Dubai,12821.83,22500,Within limit,Y
+ITM00122,CLM10027,Local Cab,2025-04-21,Meru Cabs,2 cab rides during stay in Dubai,3263.49,7500,Within limit,Y
+ITM00123,CLM10028,Airfare,2026-07-16,Air India,Return flight Hyderabad - Coimbatore (economy),17382.29,22000,Within limit,Y
+ITM00124,CLM10028,Hotel,2026-07-16,Treebo Premium,5 nights stay in Coimbatore (Treebo Premium),13778.54,17500,Within limit,Y
+ITM00125,CLM10028,Meals,2026-07-17,Multiple vendors,Meals for 6 days during training workshop in Coimbatore,5481.06,6000,Within limit,Y
+ITM00126,CLM10028,Local Cab,2026-07-16,Meru Cabs,4 cab rides during stay in Coimbatore,6037.83,9000,Within limit,Y
+ITM00127,CLM10029,Train,2026-03-22,IRCTC,Return train Chennai - Visakhapatnam (2A),3046.98,6000,Within limit,Y
+ITM00128,CLM10029,Hotel,2026-03-22,Hotel Residency,1 nights stay in Visakhapatnam (Hotel Residency),4808.36,5500,Within limit,Y
+ITM00129,CLM10029,Meals,2026-03-23,Multiple vendors,Meals for 2 days during branch visit in Visakhapatnam,2005.14,3000,Within limit,Y
+ITM00130,CLM10029,Local Cab,2026-03-22,Local taxi,5 cab rides during stay in Visakhapatnam,1697.44,3000,Within limit,Y
+ITM00131,CLM10029,Client Entertainment,2026-03-23,Paradise Restaurant,Client dinner with 4 guests (branch visit),7741.26,10000,Within limit,Y
+ITM00132,CLM10030,Airfare,2025-05-22,IndiGo,Return flight Hyderabad - Pune (economy),11756.94,22000,Within limit,Y
+ITM00133,CLM10030,Hotel,2025-05-22,Hyatt Regency,2 nights stay in Pune (Hyatt Regency),8805.18,9000,Within limit,Y
+ITM00134,CLM10030,Meals,2025-05-23,Multiple vendors,Meals for 3 days during client meeting in Pune,2029.04,3600,Receipt missing,N
+ITM00135,CLM10030,Local Cab,2025-05-22,Meru Cabs,4 cab rides during stay in Pune,3206.84,4500,Within limit,Y
+ITM00136,CLM10031,Airfare,2026-01-30,IndiGo,Return flight Hyderabad - Madurai (economy),9553.47,22000,Within limit,Y
+ITM00137,CLM10031,Hotel,2026-01-30,Hotel Grand Orchid,2 nights stay in Madurai (Hotel Grand Orchid),7859.72,8000,Within limit,Y
+ITM00138,CLM10031,Meals,2026-01-31,Multiple vendors,Meals for 3 days during customer onsite deployment in Madurai,2512.01,3600,Within limit,Y
+ITM00139,CLM10031,Local Cab,2026-01-30,Uber,5 cab rides during stay in Madurai,3432.94,4500,Within limit,Y
+ITM00140,CLM10032,Airfare,2025-08-07,IndiGo,Return flight Pune - Lucknow (economy),11373.23,22000,Within limit,Y
+ITM00141,CLM10032,Hotel,2025-08-07,Hotel Residency,2 nights stay in Lucknow (Hotel Residency),9104.25,11000,Within limit,Y
+ITM00142,CLM10032,Meals,2025-08-08,Multiple vendors,Meals for 3 days during client meeting in Lucknow,3457.94,4500,Within limit,Y
+ITM00143,CLM10032,Local Cab,2025-08-07,Meru Cabs,5 cab rides during stay in Lucknow,1681.81,4500,Within limit,Y
+ITM00144,CLM10032,Client Entertainment,2025-08-08,Taj Dining,Client dinner with 3 guests (client meeting),5812.25,7500,Within limit,Y
+ITM00145,CLM10033,Train,2026-01-05,IRCTC,Return train Hyderabad - Chennai (2A),1990.94,6000,Within limit,Y
+ITM00146,CLM10033,Hotel,2026-01-05,Lemon Tree Premier,4 nights stay in Chennai (Lemon Tree Premier),27183.62,28000,Within limit,Y
+ITM00147,CLM10033,Meals,2026-01-06,Multiple vendors,Meals for 5 days during conference in Chennai,5598.24,9000,Within limit,Y
+ITM00148,CLM10033,Local Cab,2026-01-05,Uber,4 cab rides during stay in Chennai,5845.52,7500,Within limit,Y
+ITM00149,CLM10033,Conference Registration,2026-01-05,Event organiser,Registration fee - Chennai summit,9865.24,,Within limit,Y
+ITM00150,CLM10034,Train,2025-05-22,IRCTC,Return train Bengaluru - Vijayawada (2A),2102.0,6000,Within limit,Y
+ITM00151,CLM10034,Hotel,2025-05-22,FabHotel Prime,5 nights stay in Vijayawada (FabHotel Prime),15472.43,20000,Within limit,Y
+ITM00152,CLM10034,Meals,2025-05-23,Multiple vendors,Meals for 6 days during training workshop in Vijayawada,3811.58,7200,Within limit,Y
+ITM00153,CLM10034,Local Cab,2025-05-22,Meru Cabs,2 cab rides during stay in Vijayawada,6995.51,9000,Within limit,Y
+ITM00154,CLM10035,Train,2025-06-20,IRCTC,Return train Bengaluru - Dehradun (3A),2731.76,6000,Within limit,Y
+ITM00155,CLM10035,Hotel,2025-06-20,Hotel Grand Orchid,4 nights stay in Dehradun (Hotel Grand Orchid),8564.66,10000,Within limit,Y
+ITM00156,CLM10035,Meals,2025-06-21,Multiple vendors,Meals for 5 days during branch visit in Dehradun,2984.92,4000,Within limit,Y
+ITM00157,CLM10035,Local Cab,2025-06-20,Uber,5 cab rides during stay in Dehradun,5989.0,7500,Within limit,Y
+ITM00158,CLM10035,Phone & Internet,2025-06-24,Airtel,Data roaming and hotspot charges,405.22,1000,Within limit,Y
+ITM00159,CLM10036,Airfare,2025-05-13,Akasa Air,Return flight Bengaluru - Chennai (economy),12345.67,22000,Within limit,Y
+ITM00160,CLM10036,Hotel,2025-05-13,Lemon Tree Premier,2 nights stay in Chennai (Lemon Tree Premier),8598.41,9000,Within limit,Y
+ITM00161,CLM10036,Meals,2025-05-14,Multiple vendors,Meals for 3 days during client meeting in Chennai,2632.19,3600,Within limit,Y
+ITM00162,CLM10036,Local Cab,2025-05-13,Local taxi,2 cab rides during stay in Chennai,1791.82,4500,Within limit,Y
+ITM00163,CLM10037,Airfare,2025-05-18,IndiGo,Return flight Delhi - Lucknow (economy),6803.64,22000,Within limit,Y
+ITM00164,CLM10037,Hotel,2025-05-18,Hotel Residency,3 nights stay in Lucknow (Hotel Residency),9420.56,10500,Within limit,Y
+ITM00165,CLM10037,Meals,2025-05-19,Multiple vendors,Meals for 4 days during quarterly business review in Lucknow,3040.03,4000,Within limit,Y
+ITM00166,CLM10037,Local Cab,2025-05-18,Local taxi,3 cab rides during stay in Lucknow,9200.67,6000,Exceeds limit,Y
+ITM00167,CLM10038,Airfare,2025-10-14,SpiceJet,Return flight Mumbai - Raipur (economy),11885.92,22000,Within limit,Y
+ITM00168,CLM10038,Hotel,2025-10-14,Treebo Trend,3 nights stay in Raipur (Treebo Trend),5805.53,7500,Within limit,Y
+ITM00169,CLM10038,Meals,2025-10-15,Multiple vendors,Meals for 4 days during conference in Raipur,2438.44,3200,Within limit,Y
+ITM00170,CLM10038,Local Cab,2025-10-14,Uber,5 cab rides during stay in Raipur,4379.41,6000,Within limit,Y
+ITM00171,CLM10038,Conference Registration,2025-10-14,Event organiser,Registration fee - Raipur summit,13944.56,,Within limit,Y
+ITM00172,CLM10039,Train,2025-06-16,IRCTC,Return train Delhi - Bhubaneswar (2A),3064.04,6000,Within limit,Y
+ITM00173,CLM10039,Hotel,2025-06-16,Hotel Residency,3 nights stay in Bhubaneswar (Hotel Residency),14314.01,16500,Within limit,Y
+ITM00174,CLM10039,Meals,2025-06-17,Multiple vendors,Meals for 4 days during training workshop in Bhubaneswar,3536.01,6000,Within limit,Y
+ITM00175,CLM10039,Local Cab,2025-06-16,Uber,4 cab rides during stay in Bhubaneswar,2245.76,6000,Within limit,Y
+ITM00176,CLM10040,Train,2025-07-02,IRCTC,Return train Hyderabad - Coimbatore (3A),3366.5,6000,Within limit,Y
+ITM00177,CLM10040,Hotel,2025-07-02,Hotel Residency,2 nights stay in Coimbatore (Hotel Residency),5414.17,7000,Within limit,Y
+ITM00178,CLM10040,Meals,2025-07-03,Multiple vendors,Meals for 3 days during recruitment drive in Coimbatore,2234.56,3000,Within limit,Y
+ITM00179,CLM10040,Local Cab,2025-07-02,Local taxi,3 cab rides during stay in Coimbatore,3197.4,4500,Within limit,Y
+ITM00180,CLM10040,Client Entertainment,2025-07-03,Paradise Restaurant,Client dinner with 4 guests (recruitment drive),8613.25,10000,Within limit,Y
+ITM00181,CLM10041,Train,2026-09-04,IRCTC,Return train Delhi - Chennai (2A),1979.22,6000,Within limit,Y
+ITM00182,CLM10041,Hotel,2026-09-04,Hyatt Regency,3 nights stay in Chennai (Hyatt Regency),20348.65,21000,Within limit,Y
+ITM00183,CLM10041,Meals,2026-09-05,Multiple vendors,Meals for 4 days during project kickoff in Chennai,5605.74,7200,Within limit,Y
+ITM00184,CLM10041,Local Cab,2026-09-04,Local taxi,4 cab rides during stay in Chennai,4490.34,6000,Within limit,Y
+ITM00185,CLM10041,Phone & Internet,2026-09-07,Airtel,Data roaming and hotspot charges,623.98,1000,Within limit,Y
+ITM00186,CLM10042,Airfare,2026-06-17,Air India,Return flight Hyderabad - Dubai,64909.31,80000,Within limit,Y
+ITM00187,CLM10042,Visa & Forex,2026-06-17,VFS Global,Visa fees and forex card charges,12112.73,,Within limit,Y
+ITM00188,CLM10042,Hotel,2026-06-17,Taj Vivanta,5 nights stay in Dubai (Taj Vivanta),45124.16,60000,Within limit,Y
+ITM00189,CLM10042,Meals,2026-06-18,Multiple vendors,Meals for 6 days during client meeting in Dubai,15160.97,27000,Within limit,Y
+ITM00190,CLM10042,Local Cab,2026-06-17,Local taxi,2 cab rides during stay in Dubai,4920.52,9000,Within limit,Y
+ITM00191,CLM10043,Airfare,2025-10-13,Air India,Return flight Bengaluru - Singapore,41011.25,80000,Within limit,Y
+ITM00192,CLM10043,Visa & Forex,2025-10-13,VFS Global,Visa fees and forex card charges,12454.84,,Within limit,Y
+ITM00193,CLM10043,Hotel,2025-10-13,Radisson Blu,3 nights stay in Singapore (Radisson Blu),32857.0,48000,Within limit,Y
+ITM00194,CLM10043,Meals,2025-10-14,Multiple vendors,Meals for 4 days during client meeting in Singapore,15652.13,24000,Within limit,Y
+ITM00195,CLM10043,Local Cab,2025-10-13,Ola,4 cab rides during stay in Singapore,2612.3,6000,Within limit,Y
+ITM00196,CLM10043,Phone & Internet,2025-10-16,Airtel,Data roaming and hotspot charges,942.2,1000,Within limit,Y
+ITM00197,CLM10044,Train,2025-11-15,IRCTC,Return train Hyderabad - Kolkata (3A),3500.28,6000,Within limit,Y
+ITM00198,CLM10044,Hotel,2025-11-15,Novotel,5 nights stay in Kolkata (Novotel),21480.49,22500,Within limit,Y
+ITM00199,CLM10044,Meals,2025-11-16,Multiple vendors,Meals for 6 days during quarterly business review in Kolkata,6102.86,7200,Within limit,Y
+ITM00200,CLM10044,Local Cab,2025-11-15,Meru Cabs,3 cab rides during stay in Kolkata,4591.93,9000,Within limit,Y
+ITM00201,CLM10045,Airfare,2025-06-04,Akasa Air,Return flight Delhi - Nagpur (economy),10521.09,22000,Within limit,Y
+ITM00202,CLM10045,Hotel,2025-06-04,Hotel Residency,1 nights stay in Nagpur (Hotel Residency),4975.71,5500,Within limit,Y
+ITM00203,CLM10045,Meals,2025-06-05,Multiple vendors,Meals for 2 days during sales pitch in Nagpur,2256.13,3000,Within limit,Y
+ITM00204,CLM10045,Local Cab,2025-06-04,Uber,5 cab rides during stay in Nagpur,853.37,3000,Within limit,Y
+ITM00205,CLM10046,Airfare,2025-05-26,Air India,Return flight Bengaluru - Mysuru (economy),10956.0,22000,Within limit,Y
+ITM00206,CLM10046,Hotel,2025-05-26,Hotel Grand Orchid,3 nights stay in Mysuru (Hotel Grand Orchid),11634.34,12000,Within limit,Y
+ITM00207,CLM10046,Meals,2025-05-27,Multiple vendors,Meals for 4 days during training workshop in Mysuru,2926.06,4800,Within limit,Y
+ITM00208,CLM10046,Local Cab,2025-05-26,Local taxi,2 cab rides during stay in Mysuru,2702.05,6000,Within limit,Y
+ITM00209,CLM10046,Phone & Internet,2025-05-29,Airtel,Data roaming and hotspot charges,892.22,1000,Within limit,Y
+ITM00210,CLM10047,Airfare,2026-08-26,Air India,Return flight Mumbai - Ahmedabad (economy),12999.88,22000,Within limit,Y
+ITM00211,CLM10047,Hotel,2026-08-26,Lemon Tree,4 nights stay in Ahmedabad (Lemon Tree),15708.19,22000,Within limit,Y
+ITM00212,CLM10047,Meals,2026-08-27,Multiple vendors,Meals for 5 days during vendor audit in Ahmedabad,4698.27,7500,Within limit,Y
+ITM00213,CLM10047,Local Cab,2026-08-26,Uber,2 cab rides during stay in Ahmedabad,4547.63,7500,Within limit,Y
+ITM00214,CLM10048,Train,2025-07-02,IRCTC,Return train Kolkata - Raipur (2A),3926.08,6000,Within limit,Y
+ITM00215,CLM10048,Hotel,2025-07-02,Hotel Sai Residency,4 nights stay in Raipur (Hotel Sai Residency),14946.8,16000,Within limit,Y
+ITM00216,CLM10048,Meals,2025-07-03,Multiple vendors,Meals for 5 days during training workshop in Raipur,3275.98,6000,Within limit,Y
+ITM00217,CLM10048,Local Cab,2025-07-02,Meru Cabs,4 cab rides during stay in Raipur,4116.98,7500,Within limit,Y
+ITM00218,CLM10048,Client Entertainment,2025-07-03,Olive Bistro,Client dinner with 4 guests (training workshop),7808.83,10000,Within limit,Y
+ITM00219,CLM10048,Phone & Internet,2025-07-06,Airtel,Data roaming and hotspot charges,906.51,1000,Within limit,Y
+ITM00220,CLM10049,Airfare,2026-06-20,Air India,Return flight Chennai - Indore (economy),12214.24,22000,Within limit,Y
+ITM00221,CLM10049,Hotel,2026-06-20,ibis,5 nights stay in Indore (ibis),23916.03,27500,Within limit,Y
+ITM00222,CLM10049,Meals,2026-06-21,Multiple vendors,Meals for 6 days during project kickoff in Indore,8037.43,9000,Within limit,Y
+ITM00223,CLM10049,Local Cab,2026-06-20,Uber,4 cab rides during stay in Indore,7149.0,9000,Within limit,Y
+ITM00224,CLM10049,Client Entertainment,2026-06-21,Taj Dining,Client dinner with 2 guests (project kickoff),7227.55,5000,Exceeds limit,Y
+ITM00225,CLM10050,Airfare,2025-09-17,SpiceJet,Return flight Hyderabad - Dehradun (economy),15556.63,22000,Within limit,Y
+ITM00226,CLM10050,Hotel,2025-09-17,Hotel Grand Orchid,2 nights stay in Dehradun (Hotel Grand Orchid),10295.83,12000,Within limit,Y
+ITM00227,CLM10050,Meals,2025-09-18,Multiple vendors,Meals for 3 days during quarterly business review in Dehradun,4022.92,4800,Within limit,Y
+ITM00228,CLM10050,Local Cab,2025-09-17,Uber,3 cab rides during stay in Dehradun,1915.96,4500,Within limit,Y
+ITM00229,CLM10050,Phone & Internet,2025-09-19,Airtel,Data roaming and hotspot charges,694.22,1000,Within limit,Y
+ITM00230,CLM10051,Airfare,2026-05-31,IndiGo,Return flight Bengaluru - Nagpur (economy),9019.82,22000,Within limit,Y
+ITM00231,CLM10051,Hotel,2026-05-31,ibis,2 nights stay in Nagpur (ibis),6889.96,11000,Within limit,Y
+ITM00232,CLM10051,Meals,2026-06-01,Multiple vendors,Meals for 3 days during training workshop in Nagpur,3563.6,4500,Within limit,Y
+ITM00233,CLM10051,Local Cab,2026-05-31,Uber,5 cab rides during stay in Nagpur,1842.54,4500,Within limit,Y
+ITM00234,CLM10052,Train,2026-04-29,IRCTC,Return train Hyderabad - Lucknow (2A),2125.13,6000,Within limit,Y
+ITM00235,CLM10052,Hotel,2026-04-29,ibis,4 nights stay in Lucknow (ibis),16104.21,22000,Within limit,Y
+ITM00236,CLM10052,Meals,2026-04-30,Multiple vendors,Meals for 5 days during client meeting in Lucknow,10180.02,7500,Exceeds limit,Y
+ITM00237,CLM10052,Local Cab,2026-04-29,Uber,3 cab rides during stay in Lucknow,2716.24,7500,Within limit,Y
+ITM00238,CLM10053,Airfare,2026-04-28,IndiGo,Return flight Bengaluru - Chennai (economy),11003.98,22000,Within limit,Y
+ITM00239,CLM10053,Hotel,2026-04-28,Lemon Tree Premier,2 nights stay in Chennai (Lemon Tree Premier),10364.13,14000,Within limit,Y
+ITM00240,CLM10053,Meals,2026-04-29,Multiple vendors,Meals for 3 days during project kickoff in Chennai,3035.05,5400,Within limit,Y
+ITM00241,CLM10053,Local Cab,2026-04-28,Uber,3 cab rides during stay in Chennai,2647.49,4500,Within limit,Y
+ITM00242,CLM10054,Airfare,2026-01-19,IndiGo,Return flight Bengaluru - Hyderabad (economy),12920.83,22000,Within limit,Y
+ITM00243,CLM10054,Hotel,2026-01-19,Courtyard by Marriott,2 nights stay in Hyderabad (Courtyard by Marriott),6007.1,9000,Within limit,Y
+ITM00244,CLM10054,Meals,2026-01-20,Multiple vendors,Meals for 3 days during customer onsite deployment in Hyderabad,2996.94,3600,Within limit,Y
+ITM00245,CLM10054,Local Cab,2026-01-19,Uber,5 cab rides during stay in Hyderabad,1495.3,4500,Within limit,Y
+ITM00246,CLM10054,Phone & Internet,2026-01-21,Airtel,Data roaming and hotspot charges,730.55,1000,Within limit,Y
+ITM00247,CLM10055,Train,2026-01-22,IRCTC,Return train Hyderabad - Dehradun (3A),3951.07,6000,Within limit,Y
+ITM00248,CLM10055,Hotel,2026-01-22,Hotel Sai Residency,3 nights stay in Dehradun (Hotel Sai Residency),4823.06,7500,Within limit,Y
+ITM00249,CLM10055,Meals,2026-01-23,Multiple vendors,Meals for 4 days during quarterly business review in Dehradun,1954.56,3200,Within limit,Y
+ITM00250,CLM10055,Local Cab,2026-01-22,Uber,4 cab rides during stay in Dehradun,2466.29,6000,Within limit,Y
+ITM00251,CLM10055,Client Entertainment,2026-01-23,The Table,Client dinner with 3 guests (quarterly business review),11544.86,7500,Exceeds limit,Y
+ITM00252,CLM10055,Phone & Internet,2026-01-25,Airtel,Data roaming and hotspot charges,985.83,1000,Within limit,Y
+ITM00253,CLM10056,Airfare,2025-11-26,IndiGo,Return flight Mumbai - Kochi (economy),11484.73,22000,Within limit,Y
+ITM00254,CLM10056,Hotel,2025-11-26,Fortune Inn,2 nights stay in Kochi (Fortune Inn),7179.13,11000,Within limit,Y
+ITM00255,CLM10056,Meals,2025-11-27,Multiple vendors,Meals for 3 days during conference in Kochi,3070.87,4500,Within limit,Y
+ITM00256,CLM10056,Local Cab,2025-11-26,Local taxi,4 cab rides during stay in Kochi,1641.06,4500,Within limit,Y
+ITM00257,CLM10056,Conference Registration,2025-11-26,Event organiser,Registration fee - Kochi summit,13397.74,,Within limit,Y
+ITM00258,CLM10057,Airfare,2025-12-26,IndiGo,Return flight Mumbai - Mysuru (economy),6612.3,22000,Within limit,Y
+ITM00259,CLM10057,Hotel,2025-12-26,Hotel Grand Orchid,2 nights stay in Mysuru (Hotel Grand Orchid),6807.17,8000,Within limit,Y
+ITM00260,CLM10057,Meals,2025-12-27,Multiple vendors,Meals for 3 days during project kickoff in Mysuru,2509.29,3600,Within limit,Y
+ITM00261,CLM10057,Local Cab,2025-12-26,Ola,2 cab rides during stay in Mysuru,1286.49,4500,Within limit,Y
+ITM00262,CLM10058,Airfare,2025-12-04,Air India,Return flight Chennai - Jaipur (economy),16071.97,22000,Within limit,Y
+ITM00263,CLM10058,Hotel,2025-12-04,Treebo Premium,3 nights stay in Jaipur (Treebo Premium),6827.82,10500,Within limit,Y
+ITM00264,CLM10058,Meals,2025-12-05,Multiple vendors,Meals for 4 days during sales pitch in Jaipur,2272.3,4000,Within limit,Y
+ITM00265,CLM10058,Local Cab,2025-12-04,Ola,2 cab rides during stay in Jaipur,2891.85,6000,Within limit,Y
+ITM00266,CLM10059,Airfare,2025-12-19,IndiGo,Return flight Bengaluru - Chennai (economy),7966.82,22000,Within limit,Y
+ITM00267,CLM10059,Hotel,2025-12-19,Lemon Tree Premier,4 nights stay in Chennai (Lemon Tree Premier),14227.42,18000,Within limit,Y
+ITM00268,CLM10059,Meals,2025-12-20,Multiple vendors,Meals for 5 days during branch visit in Chennai,3075.09,6000,Within limit,Y
+ITM00269,CLM10059,Local Cab,2025-12-19,Ola,3 cab rides during stay in Chennai,5392.57,7500,Within limit,Y
+ITM00270,CLM10060,Airfare,2026-06-11,Akasa Air,Return flight Bengaluru - Madurai (economy),18396.05,22000,Within limit,Y
+ITM00271,CLM10060,Hotel,2026-06-11,Hotel Grand Orchid,3 nights stay in Madurai (Hotel Grand Orchid),5832.15,7500,Within limit,Y
+ITM00272,CLM10060,Meals,2026-06-12,Multiple vendors,Meals for 4 days during training workshop in Madurai,2450.53,3200,Within limit,Y
+ITM00273,CLM10060,Local Cab,2026-06-11,Local taxi,5 cab rides during stay in Madurai,2197.52,6000,Within limit,Y
+ITM00274,CLM10061,Train,2026-04-04,IRCTC,Return train Mumbai - Ahmedabad (3A),1857.24,6000,Within limit,Y
+ITM00275,CLM10061,Hotel,2026-04-04,Treebo Premium,2 nights stay in Ahmedabad (Treebo Premium),5475.92,7000,Within limit,Y
+ITM00276,CLM10061,Meals,2026-04-05,Multiple vendors,Meals for 3 days during customer onsite deployment in Ahmedabad,2029.25,3000,Within limit,Y
+ITM00277,CLM10061,Local Cab,2026-04-04,Local taxi,4 cab rides during stay in Ahmedabad,2101.44,4500,Within limit,Y
+ITM00278,CLM10062,Train,2025-09-02,IRCTC,Return train Hyderabad - Ahmedabad (3A),2366.85,6000,Within limit,Y
+ITM00279,CLM10062,Hotel,2025-09-02,ibis,1 nights stay in Ahmedabad (ibis),4192.01,3500,Exceeds limit,Y
+ITM00280,CLM10062,Meals,2025-09-03,Multiple vendors,Meals for 2 days during recruitment drive in Ahmedabad,1611.95,2000,Within limit,Y
+ITM00281,CLM10062,Local Cab,2025-09-02,Local taxi,2 cab rides during stay in Ahmedabad,2211.57,3000,Within limit,Y
+ITM00282,CLM10062,Client Entertainment,2025-09-03,Olive Bistro,Client dinner with 3 guests (recruitment drive),4857.09,7500,Within limit,Y
+ITM00283,CLM10063,Airfare,2026-06-09,Air India,Return flight Hyderabad - Pune (economy),11459.97,22000,Within limit,Y
+ITM00284,CLM10063,Hotel,2026-06-09,Courtyard by Marriott,2 nights stay in Pune (Courtyard by Marriott),8382.63,9000,Receipt missing,N
+ITM00285,CLM10063,Meals,2026-06-10,Multiple vendors,Meals for 3 days during sales pitch in Pune,2548.08,3600,Within limit,Y
+ITM00286,CLM10063,Local Cab,2026-06-09,Ola,4 cab rides during stay in Pune,3394.24,4500,Within limit,Y
+ITM00287,CLM10064,Train,2026-08-30,IRCTC,Return train Hyderabad - Dehradun (3A),1721.06,6000,Within limit,Y
+ITM00288,CLM10064,Hotel,2026-08-30,Hotel Grand Orchid,1 nights stay in Dehradun (Hotel Grand Orchid),2051.92,2500,Within limit,Y
+ITM00289,CLM10064,Meals,2026-08-31,Multiple vendors,Meals for 2 days during sales pitch in Dehradun,1387.8,1600,Within limit,Y
+ITM00290,CLM10064,Local Cab,2026-08-30,Meru Cabs,4 cab rides during stay in Dehradun,2002.91,3000,Within limit,Y
+ITM00291,CLM10065,Airfare,2025-09-21,IndiGo,Return flight Pune - Kolkata (economy),9001.23,22000,Within limit,Y
+ITM00292,CLM10065,Hotel,2025-09-21,Courtyard by Marriott,2 nights stay in Kolkata (Courtyard by Marriott),6033.69,9000,Within limit,Y
+ITM00293,CLM10065,Meals,2025-09-22,Multiple vendors,Meals for 3 days during branch visit in Kolkata,2715.56,3600,Within limit,Y
+ITM00294,CLM10065,Local Cab,2025-09-21,Local taxi,3 cab rides during stay in Kolkata,1347.4,4500,Within limit,Y
+ITM00295,CLM10066,Airfare,2026-03-27,Akasa Air,Return flight Chennai - Kolkata (economy),14376.14,22000,Within limit,Y
+ITM00296,CLM10066,Hotel,2026-03-27,Courtyard by Marriott,4 nights stay in Kolkata (Courtyard by Marriott),13568.25,18000,Within limit,Y
+ITM00297,CLM10066,Meals,2026-03-28,Multiple vendors,Meals for 5 days during quarterly business review in Kolkata,3253.62,6000,Within limit,Y
+ITM00298,CLM10066,Local Cab,2026-03-27,Meru Cabs,3 cab rides during stay in Kolkata,5675.33,7500,Within limit,Y
+ITM00299,CLM10067,Train,2025-11-18,IRCTC,Return train Hyderabad - Udaipur (2A),3541.65,6000,Within limit,Y
+ITM00300,CLM10067,Hotel,2025-11-18,Hotel Grand Orchid,4 nights stay in Udaipur (Hotel Grand Orchid),15568.84,16000,Within limit,Y
+ITM00301,CLM10067,Meals,2025-11-19,Multiple vendors,Meals for 5 days during vendor audit in Udaipur,3769.82,6000,Within limit,Y
+ITM00302,CLM10067,Local Cab,2025-11-18,Meru Cabs,5 cab rides during stay in Udaipur,1999.52,7500,Within limit,Y
+ITM00303,CLM10067,Conference Registration,2025-11-18,Event organiser,Registration fee - Udaipur summit,12805.84,,Within limit,Y
+ITM00304,CLM10067,Phone & Internet,2025-11-22,Airtel,Data roaming and hotspot charges,824.08,1000,Within limit,Y
+ITM00305,CLM10068,Airfare,2026-02-22,IndiGo,Return flight Hyderabad - Indore (economy),8212.82,22000,Within limit,Y
+ITM00306,CLM10068,Hotel,2026-02-22,Fortune Inn,4 nights stay in Indore (Fortune Inn),9105.41,14000,Within limit,Y
+ITM00307,CLM10068,Meals,2026-02-23,Multiple vendors,Meals for 5 days during recruitment drive in Indore,2870.14,5000,Within limit,Y
+ITM00308,CLM10068,Local Cab,2026-02-22,Ola,2 cab rides during stay in Indore,3953.61,7500,Within limit,Y
+ITM00309,CLM10069,Train,2025-05-07,IRCTC,Return train Bengaluru - Guwahati (2A),3559.31,6000,Within limit,Y
+ITM00310,CLM10069,Hotel,2025-05-07,FabHotel Prime,4 nights stay in Guwahati (FabHotel Prime),14367.63,16000,Within limit,Y
+ITM00311,CLM10069,Meals,2025-05-08,Multiple vendors,Meals for 5 days during customer onsite deployment in Guwahati,3232.78,6000,Within limit,Y
+ITM00312,CLM10069,Local Cab,2025-05-07,Meru Cabs,3 cab rides during stay in Guwahati,11532.84,7500,Exceeds limit,Y
+ITM00313,CLM10069,Client Entertainment,2025-05-08,The Table,Client dinner with 3 guests (customer onsite deployment),5721.53,7500,Within limit,Y
+ITM00314,CLM10070,Airfare,2025-11-03,Air India,Return flight Hyderabad - Ahmedabad (economy),10573.71,22000,Within limit,Y
+ITM00315,CLM10070,Hotel,2025-11-03,Fortune Inn,1 nights stay in Ahmedabad (Fortune Inn),2699.2,3500,Within limit,Y
+ITM00316,CLM10070,Meals,2025-11-04,Multiple vendors,Meals for 2 days during project kickoff in Ahmedabad,1216.1,2000,Within limit,Y
+ITM00317,CLM10070,Local Cab,2025-11-03,Ola,5 cab rides during stay in Ahmedabad,926.1,3000,Within limit,Y
+ITM00318,CLM10071,Train,2026-08-01,IRCTC,Return train Bengaluru - Ahmedabad (2A),2531.9,6000,Within limit,Y
+ITM00319,CLM10071,Hotel,2026-08-01,Fortune Inn,2 nights stay in Ahmedabad (Fortune Inn),9177.18,11000,Within limit,Y
+ITM00320,CLM10071,Meals,2026-08-02,Multiple vendors,Meals for 3 days during quarterly business review in Ahmedabad,2940.84,4500,Within limit,Y
+ITM00321,CLM10071,Local Cab,2026-08-01,Uber,5 cab rides during stay in Ahmedabad,1697.36,4500,Within limit,Y
+ITM00322,CLM10072,Airfare,2026-03-23,Akasa Air,Return flight Kolkata - Madurai (economy),12106.76,22000,Within limit,Y
+ITM00323,CLM10072,Hotel,2026-03-23,Treebo Trend,5 nights stay in Madurai (Treebo Trend),12358.36,12500,Within limit,Y
+ITM00324,CLM10072,Meals,2026-03-24,Multiple vendors,Meals for 6 days during client meeting in Madurai,2710.61,4800,Within limit,Y
+ITM00325,CLM10072,Local Cab,2026-03-23,Uber,5 cab rides during stay in Madurai,5034.86,9000,Within limit,Y
+ITM00326,CLM10073,Train,2025-07-26,IRCTC,Return train Delhi - Kolkata (3A),2159.6,6000,Within limit,Y
+ITM00327,CLM10073,Hotel,2025-07-26,Lemon Tree Premier,3 nights stay in Kolkata (Lemon Tree Premier),9052.3,13500,Within limit,Y
+ITM00328,CLM10073,Meals,2025-07-27,Multiple vendors,Meals for 4 days during client meeting in Kolkata,3087.89,4800,Within limit,Y
+ITM00329,CLM10073,Local Cab,2025-07-26,Ola,5 cab rides during stay in Kolkata,4025.58,6000,Within limit,Y
+ITM00330,CLM10074,Train,2026-02-05,IRCTC,Return train Delhi - Udaipur (2A),1763.68,6000,Within limit,Y
+ITM00331,CLM10074,Hotel,2026-02-05,Hotel Grand Orchid,1 nights stay in Udaipur (Hotel Grand Orchid),5497.6,4000,Exceeds limit,Y
+ITM00332,CLM10074,Meals,2026-02-06,Multiple vendors,Meals for 2 days during vendor audit in Udaipur,2166.84,2400,Within limit,Y
+ITM00333,CLM10074,Local Cab,2026-02-05,Meru Cabs,2 cab rides during stay in Udaipur,1032.38,3000,Within limit,Y
+ITM00334,CLM10075,Train,2026-05-31,IRCTC,Return train Bengaluru - Pune (3A),3561.65,6000,Within limit,Y
+ITM00335,CLM10075,Hotel,2026-05-31,Lemon Tree Premier,1 nights stay in Pune (Lemon Tree Premier),3417.47,4500,Within limit,Y
+ITM00336,CLM10075,Meals,2026-06-01,Multiple vendors,Meals for 2 days during client meeting in Pune,3426.82,2400,Exceeds limit,Y
+ITM00337,CLM10075,Local Cab,2026-05-31,Local taxi,2 cab rides during stay in Pune,1429.56,3000,Within limit,Y
+ITM00338,CLM10076,Airfare,2026-01-23,Akasa Air,Return flight Chennai - Bengaluru (economy),11170.26,22000,Within limit,Y
+ITM00339,CLM10076,Hotel,2026-01-23,Lemon Tree Premier,3 nights stay in Bengaluru (Lemon Tree Premier),25470.73,30000,Within limit,Y
+ITM00340,CLM10076,Meals,2026-01-24,Multiple vendors,Meals for 4 days during client meeting in Bengaluru,6245.63,10000,Within limit,Y
+ITM00341,CLM10076,Local Cab,2026-01-23,Ola,4 cab rides during stay in Bengaluru,2018.53,6000,Within limit,Y
+ITM00342,CLM10076,Client Entertainment,2026-01-24,Olive Bistro,Client dinner with 5 guests (client meeting),10103.28,12500,Within limit,Y
+ITM00343,CLM10077,Train,2026-08-19,IRCTC,Return train Hyderabad - Dehradun (3A),3657.77,6000,Within limit,Y
+ITM00344,CLM10077,Hotel,2026-08-19,Treebo Trend,5 nights stay in Dehradun (Treebo Trend),11969.36,12500,Within limit,Y
+ITM00345,CLM10077,Meals,2026-08-20,Multiple vendors,Meals for 6 days during conference in Dehradun,3758.64,4800,Within limit,Y
+ITM00346,CLM10077,Local Cab,2026-08-19,Uber,5 cab rides during stay in Dehradun,6993.09,9000,Within limit,Y
+ITM00347,CLM10077,Conference Registration,2026-08-19,Event organiser,Registration fee - Dehradun summit,21353.72,,Within limit,Y
+ITM00348,CLM10078,Train,2025-09-16,IRCTC,Return train Hyderabad - Ahmedabad (3A),1271.21,6000,Within limit,Y
+ITM00349,CLM10078,Hotel,2025-09-16,Hotel Residency,1 nights stay in Ahmedabad (Hotel Residency),2987.35,3500,Within limit,Y
+ITM00350,CLM10078,Meals,2025-09-17,Multiple vendors,Meals for 2 days during quarterly business review in Ahmedabad,1005.91,2000,Within limit,Y
+ITM00351,CLM10078,Local Cab,2025-09-16,Local taxi,3 cab rides during stay in Ahmedabad,2225.37,3000,Within limit,Y
+ITM00352,CLM10079,Airfare,2025-06-18,SpiceJet,Return flight Bengaluru - Hyderabad (economy),7862.49,22000,Within limit,Y
+ITM00353,CLM10079,Hotel,2025-06-18,Lemon Tree Premier,5 nights stay in Hyderabad (Lemon Tree Premier),21911.61,22500,Within limit,Y
+ITM00354,CLM10079,Meals,2025-06-19,Multiple vendors,Meals for 6 days during training workshop in Hyderabad,6039.32,7200,Within limit,Y
+ITM00355,CLM10079,Local Cab,2025-06-18,Uber,3 cab rides during stay in Hyderabad,3603.33,9000,Within limit,Y
+ITM00356,CLM10080,Airfare,2026-07-15,IndiGo,Return flight Hyderabad - Gurugram (economy),10163.47,22000,Within limit,Y
+ITM00357,CLM10080,Hotel,2026-07-15,Novotel,2 nights stay in Gurugram (Novotel),5866.25,9000,Within limit,Y
+ITM00358,CLM10080,Meals,2026-07-16,Multiple vendors,Meals for 3 days during project kickoff in Gurugram,3297.37,3600,Within limit,Y
+ITM00359,CLM10080,Local Cab,2026-07-15,Uber,2 cab rides during stay in Gurugram,2754.43,4500,Within limit,Y
+ITM00360,CLM10081,Airfare,2025-08-10,Air India,Return flight Hyderabad - Delhi (economy),15074.94,22000,Within limit,Y
+ITM00361,CLM10081,Hotel,2025-08-10,Novotel,4 nights stay in Delhi (Novotel),18443.36,28000,Within limit,Y
+ITM00362,CLM10081,Meals,2025-08-11,Multiple vendors,Meals for 5 days during conference in Delhi,5157.16,9000,Within limit,Y
+ITM00363,CLM10081,Local Cab,2025-08-10,Local taxi,2 cab rides during stay in Delhi,5793.9,7500,Within limit,Y
+ITM00364,CLM10081,Conference Registration,2025-08-10,Event organiser,Registration fee - Delhi summit,21243.89,,Within limit,Y
+ITM00365,CLM10082,Airfare,2026-08-13,Air India,Return flight Bengaluru - Singapore,47177.06,80000,Within limit,Y
+ITM00366,CLM10082,Visa & Forex,2026-08-13,VFS Global,Visa fees and forex card charges,10630.47,,Within limit,Y
+ITM00367,CLM10082,Hotel,2026-08-13,Radisson Blu,7 nights stay in Singapore (Radisson Blu),62751.15,84000,Within limit,Y
+ITM00368,CLM10082,Meals,2026-08-14,Multiple vendors,Meals for 8 days during branch visit in Singapore,32894.89,36000,Within limit,Y
+ITM00369,CLM10082,Local Cab,2026-08-13,Local taxi,5 cab rides during stay in Singapore,7775.34,12000,Within limit,Y
+ITM00370,CLM10083,Airfare,2025-08-19,Air India,Return flight Mumbai - Gurugram (economy),6850.52,22000,Within limit,Y
+ITM00371,CLM10083,Hotel,2025-08-19,Courtyard by Marriott,2 nights stay in Gurugram (Courtyard by Marriott),12497.88,14000,Within limit,Y
+ITM00372,CLM10083,Meals,2025-08-20,Multiple vendors,Meals for 3 days during project kickoff in Gurugram,3097.13,5400,Within limit,Y
+ITM00373,CLM10083,Local Cab,2025-08-19,Uber,2 cab rides during stay in Gurugram,1964.61,4500,Within limit,Y
+ITM00374,CLM10084,Airfare,2026-07-17,Akasa Air,Return flight Hyderabad - Nagpur (economy),17042.96,22000,Within limit,Y
+ITM00375,CLM10084,Hotel,2026-07-17,Fortune Inn,1 nights stay in Nagpur (Fortune Inn),2608.69,3500,Within limit,Y
+ITM00376,CLM10084,Meals,2026-07-18,Multiple vendors,Meals for 2 days during project kickoff in Nagpur,1541.79,2000,Within limit,Y
+ITM00377,CLM10084,Local Cab,2026-07-17,Local taxi,4 cab rides during stay in Nagpur,1780.75,3000,Within limit,Y
+ITM00378,CLM10085,Airfare,2026-02-28,IndiGo,Return flight Delhi - Mumbai (economy),14957.79,22000,Within limit,Y
+ITM00379,CLM10085,Hotel,2026-02-28,Radisson Blu,5 nights stay in Mumbai (Radisson Blu),18681.86,22500,Within limit,Y
+ITM00380,CLM10085,Meals,2026-03-01,Multiple vendors,Meals for 6 days during project kickoff in Mumbai,4794.51,7200,Within limit,Y
+ITM00381,CLM10085,Local Cab,2026-02-28,Local taxi,2 cab rides during stay in Mumbai,2703.94,9000,Within limit,Y
+ITM00382,CLM10085,Conference Registration,2026-02-28,Event organiser,Registration fee - Mumbai summit,17054.91,,Within limit,Y
+ITM00383,CLM10086,Airfare,2026-01-24,Singapore Airlines,Return flight Hyderabad - Dubai,59254.41,80000,Within limit,Y
+ITM00384,CLM10086,Visa & Forex,2026-01-24,VFS Global,Visa fees and forex card charges,7489.23,,Within limit,Y
+ITM00385,CLM10086,Hotel,2026-01-24,Radisson Blu,6 nights stay in Dubai (Radisson Blu),68941.85,72000,Within limit,Y
+ITM00386,CLM10086,Meals,2026-01-25,Multiple vendors,Meals for 7 days during project kickoff in Dubai,28921.45,31500,Within limit,Y
+ITM00387,CLM10086,Local Cab,2026-01-24,Local taxi,3 cab rides during stay in Dubai,7628.98,10500,Within limit,Y
+ITM00388,CLM10086,Client Entertainment,2026-01-25,Olive Bistro,Client dinner with 3 guests (project kickoff),5150.44,7500,Within limit,Y
+ITM00389,CLM10087,Airfare,2025-08-16,IndiGo,Return flight Delhi - Indore (economy),11927.71,22000,Within limit,Y
+ITM00390,CLM10087,Hotel,2025-08-16,Fortune Inn,4 nights stay in Indore (Fortune Inn),12514.98,14000,Within limit,Y
+ITM00391,CLM10087,Meals,2025-08-17,Multiple vendors,Meals for 5 days during sales pitch in Indore,3045.37,5000,Within limit,Y
+ITM00392,CLM10087,Local Cab,2025-08-16,Local taxi,3 cab rides during stay in Indore,2578.48,7500,Within limit,Y
+ITM00393,CLM10088,Airfare,2025-06-17,Air India,Return flight Bengaluru - Kolkata (economy),6614.73,22000,Within limit,Y
+ITM00394,CLM10088,Hotel,2025-06-17,Radisson Blu,1 nights stay in Kolkata (Radisson Blu),4370.04,7000,Within limit,Y
+ITM00395,CLM10088,Meals,2025-06-18,Multiple vendors,Meals for 2 days during quarterly business review in Kolkata,2550.36,3600,Within limit,Y
+ITM00396,CLM10088,Local Cab,2025-06-17,Local taxi,5 cab rides during stay in Kolkata,1567.33,3000,Within limit,Y
+ITM00397,CLM10088,Client Entertainment,2025-06-18,Paradise Restaurant,Client dinner with 4 guests (quarterly business review),13867.36,10000,Exceeds limit,Y
+ITM00398,CLM10088,Phone & Internet,2025-06-18,Airtel,Data roaming and hotspot charges,804.73,1000,Within limit,Y
+ITM00399,CLM10089,Airfare,2026-01-26,SpiceJet,Return flight Hyderabad - Delhi (economy),7702.59,22000,Within limit,Y
+ITM00400,CLM10089,Hotel,2026-01-26,Lemon Tree Premier,2 nights stay in Delhi (Lemon Tree Premier),10190.3,9000,Exceeds limit,Y
+ITM00401,CLM10089,Meals,2026-01-27,Multiple vendors,Meals for 3 days during vendor audit in Delhi,2867.28,3600,Within limit,Y
+ITM00402,CLM10089,Local Cab,2026-01-26,Meru Cabs,4 cab rides during stay in Delhi,2664.46,4500,Within limit,Y
+ITM00403,CLM10089,Phone & Internet,2026-01-28,Airtel,Data roaming and hotspot charges,893.37,1000,Within limit,Y
+ITM00404,CLM10090,Airfare,2025-10-11,Air India,Return flight Mumbai - Chennai (economy),12827.75,22000,Within limit,Y
+ITM00405,CLM10090,Hotel,2025-10-11,Novotel,2 nights stay in Chennai (Novotel),7927.41,9000,Within limit,N
+ITM00406,CLM10090,Meals,2025-10-12,Multiple vendors,Meals for 3 days during branch visit in Chennai,3086.23,3600,Within limit,Y
+ITM00407,CLM10090,Local Cab,2025-10-11,Ola,3 cab rides during stay in Chennai,1730.35,4500,Within limit,Y
+ITM00408,CLM10090,Phone & Internet,2025-10-13,Airtel,Data roaming and hotspot charges,451.34,1000,Receipt missing,N
+ITM00409,CLM10091,Airfare,2025-04-03,Air India,Return flight Bengaluru - Visakhapatnam (economy),18071.42,22000,Within limit,Y
+ITM00410,CLM10091,Hotel,2025-04-03,ibis,1 nights stay in Visakhapatnam (ibis),2962.53,3500,Within limit,Y
+ITM00411,CLM10091,Meals,2025-04-04,Multiple vendors,Meals for 2 days during customer onsite deployment in Visakhapatnam,1081.02,2000,Within limit,Y
+ITM00412,CLM10091,Local Cab,2025-04-03,Local taxi,4 cab rides during stay in Visakhapatnam,842.61,3000,Within limit,Y
+ITM00413,CLM10091,Client Entertainment,2025-04-04,Olive Bistro,Client dinner with 4 guests (customer onsite deployment),7540.76,10000,Within limit,Y
+ITM00414,CLM10092,Airfare,2026-07-04,Air India,Return flight Delhi - Ahmedabad (economy),16886.45,22000,Within limit,Y
+ITM00415,CLM10092,Hotel,2026-07-04,Lemon Tree,2 nights stay in Ahmedabad (Lemon Tree),12195.47,11000,Exceeds limit,Y
+ITM00416,CLM10092,Meals,2026-07-05,Multiple vendors,Meals for 3 days during branch visit in Ahmedabad,3037.45,4500,Within limit,Y
+ITM00417,CLM10092,Local Cab,2026-07-04,Uber,2 cab rides during stay in Ahmedabad,2433.87,4500,Within limit,Y
+ITM00418,CLM10093,Airfare,2025-10-31,SpiceJet,Return flight Kolkata - Indore (economy),16853.42,22000,Within limit,Y
+ITM00419,CLM10093,Hotel,2025-10-31,Fortune Inn,5 nights stay in Indore (Fortune Inn),21078.95,27500,Within limit,Y
+ITM00420,CLM10093,Meals,2025-11-01,Multiple vendors,Meals for 6 days during quarterly business review in Indore,5017.47,9000,Within limit,Y
+ITM00421,CLM10093,Local Cab,2025-10-31,Meru Cabs,3 cab rides during stay in Indore,2369.3,9000,Within limit,Y
+ITM00422,CLM10094,Train,2026-09-17,IRCTC,Return train Pune - Jaipur (3A),1517.53,6000,Within limit,Y
+ITM00423,CLM10094,Hotel,2026-09-17,ibis,4 nights stay in Jaipur (ibis),11160.1,14000,Within limit,Y
+ITM00424,CLM10094,Meals,2026-09-18,Multiple vendors,Meals for 5 days during branch visit in Jaipur,3165.84,5000,Within limit,Y
+ITM00425,CLM10094,Local Cab,2026-09-17,Local taxi,3 cab rides during stay in Jaipur,2107.23,7500,Within limit,Y
+ITM00426,CLM10095,Airfare,2026-08-31,SpiceJet,Return flight Gurugram - Jaipur (economy),18609.42,22000,Within limit,Y
+ITM00427,CLM10095,Hotel,2026-08-31,ibis,1 nights stay in Jaipur (ibis),2771.91,3500,Within limit,Y
+ITM00428,CLM10095,Meals,2026-09-01,Multiple vendors,Meals for 2 days during project kickoff in Jaipur,1621.08,2000,Within limit,Y
+ITM00429,CLM10095,Local Cab,2026-08-31,Local taxi,5 cab rides during stay in Jaipur,1504.69,3000,Within limit,Y
+ITM00430,CLM10096,Train,2025-08-19,IRCTC,Return train Kolkata - Madurai (3A),2912.95,6000,Within limit,Y
+ITM00431,CLM10096,Hotel,2025-08-19,Treebo Trend,1 nights stay in Madurai (Treebo Trend),3142.78,2500,Exceeds limit,Y
+ITM00432,CLM10096,Meals,2025-08-20,Multiple vendors,Meals for 2 days during recruitment drive in Madurai,1352.16,1600,Within limit,Y
+ITM00433,CLM10096,Local Cab,2025-08-19,Meru Cabs,2 cab rides during stay in Madurai,787.09,3000,Within limit,Y
+ITM00434,CLM10097,Airfare,2026-07-25,Air India,Return flight Pune - Bhubaneswar (economy),28450.94,22000,Exceeds limit,Y
+ITM00435,CLM10097,Hotel,2026-07-25,ibis,2 nights stay in Bhubaneswar (ibis),4720.38,7000,Within limit,Y
+ITM00436,CLM10097,Meals,2026-07-26,Multiple vendors,Meals for 3 days during recruitment drive in Bhubaneswar,2648.87,3000,Within limit,Y
+ITM00437,CLM10097,Local Cab,2026-07-25,Meru Cabs,4 cab rides during stay in Bhubaneswar,2926.77,4500,Within limit,Y
+ITM00438,CLM10098,Train,2025-12-20,IRCTC,Return train Mumbai - Coimbatore (2A),2821.32,6000,Within limit,Y
+ITM00439,CLM10098,Hotel,2025-12-20,Fortune Inn,1 nights stay in Coimbatore (Fortune Inn),3845.03,5500,Within limit,Y
+ITM00440,CLM10098,Meals,2025-12-21,Multiple vendors,Meals for 2 days during conference in Coimbatore,1626.07,3000,Within limit,Y
+ITM00441,CLM10098,Local Cab,2025-12-20,Local taxi,3 cab rides during stay in Coimbatore,2227.93,3000,Within limit,Y
+ITM00442,CLM10098,Conference Registration,2025-12-20,Event organiser,Registration fee - Coimbatore summit,11631.17,,Within limit,Y
+ITM00443,CLM10099,Train,2026-02-26,IRCTC,Return train Hyderabad - Lucknow (3A),2195.36,6000,Within limit,Y
+ITM00444,CLM10099,Hotel,2026-02-26,ibis,2 nights stay in Lucknow (ibis),4665.31,7000,Within limit,Y
+ITM00445,CLM10099,Meals,2026-02-27,Multiple vendors,Meals for 3 days during project kickoff in Lucknow,2337.93,3000,Within limit,Y
+ITM00446,CLM10099,Local Cab,2026-02-26,Local taxi,3 cab rides during stay in Lucknow,2033.15,4500,Within limit,Y
+ITM00447,CLM10099,Client Entertainment,2026-02-27,Olive Bistro,Client dinner with 6 guests (project kickoff),10549.6,15000,Within limit,Y
+ITM00448,CLM10100,Airfare,2026-02-14,Air India,Return flight Hyderabad - Kochi (economy),12093.95,22000,Within limit,Y
+ITM00449,CLM10100,Hotel,2026-02-14,Treebo Premium,4 nights stay in Kochi (Treebo Premium),21618.09,22000,Within limit,Y
+ITM00450,CLM10100,Meals,2026-02-15,Multiple vendors,Meals for 5 days during client meeting in Kochi,4018.73,7500,Within limit,Y
+ITM00451,CLM10100,Local Cab,2026-02-14,Ola,3 cab rides during stay in Kochi,4689.58,7500,Within limit,Y
+ITM00452,CLM10100,Client Entertainment,2026-02-15,Taj Dining,Client dinner with 2 guests (client meeting),3313.46,5000,Within limit,Y
+ITM00453,CLM10101,Airfare,2026-07-20,Akasa Air,Return flight Hyderabad - Bengaluru (economy),17877.38,22000,Within limit,Y
+ITM00454,CLM10101,Hotel,2026-07-20,Courtyard by Marriott,5 nights stay in Bengaluru (Courtyard by Marriott),19046.58,22500,Within limit,Y
+ITM00455,CLM10101,Meals,2026-07-21,Multiple vendors,Meals for 6 days during training workshop in Bengaluru,5880.7,7200,Within limit,Y
+ITM00456,CLM10101,Local Cab,2026-07-20,Meru Cabs,3 cab rides during stay in Bengaluru,3677.68,9000,Within limit,Y
+ITM00457,CLM10102,Airfare,2026-09-14,Air India,Return flight Hyderabad - Bhubaneswar (economy),6810.06,22000,Within limit,Y
+ITM00458,CLM10102,Hotel,2026-09-14,Hotel Residency,4 nights stay in Bhubaneswar (Hotel Residency),12783.75,14000,Within limit,Y
+ITM00459,CLM10102,Meals,2026-09-15,Multiple vendors,Meals for 5 days during quarterly business review in Bhubaneswar,4584.79,5000,Within limit,Y
+ITM00460,CLM10102,Local Cab,2026-09-14,Meru Cabs,5 cab rides during stay in Bhubaneswar,4366.28,7500,Within limit,Y
+ITM00461,CLM10102,Phone & Internet,2026-09-18,Airtel,Data roaming and hotspot charges,772.49,1000,Within limit,Y
+ITM00462,CLM10103,Airfare,2025-09-18,Air India,Return flight Chennai - Madurai (economy),8460.4,22000,Within limit,Y
+ITM00463,CLM10103,Hotel,2025-09-18,Treebo Trend,4 nights stay in Madurai (Treebo Trend),10688.64,16000,Within limit,Y
+ITM00464,CLM10103,Meals,2025-09-19,Multiple vendors,Meals for 5 days during vendor audit in Madurai,5511.89,6000,Within limit,Y
+ITM00465,CLM10103,Local Cab,2025-09-18,Local taxi,2 cab rides during stay in Madurai,4561.54,7500,Within limit,Y
+ITM00466,CLM10103,Client Entertainment,2025-09-19,Paradise Restaurant,Client dinner with 3 guests (vendor audit),6884.8,7500,Within limit,Y
+ITM00467,CLM10104,Airfare,2026-07-27,Akasa Air,Return flight Mumbai - Dehradun (economy),18151.77,22000,Within limit,Y
+ITM00468,CLM10104,Hotel,2026-07-27,Hotel Sai Residency,1 nights stay in Dehradun (Hotel Sai Residency),1841.19,2500,Within limit,Y
+ITM00469,CLM10104,Meals,2026-07-28,Multiple vendors,Meals for 2 days during project kickoff in Dehradun,1417.84,1600,Within limit,Y
+ITM00470,CLM10104,Local Cab,2026-07-27,Meru Cabs,3 cab rides during stay in Dehradun,1554.49,3000,Within limit,Y
+ITM00471,CLM10105,Airfare,2025-09-29,SpiceJet,Return flight Delhi - Chandigarh (economy),11856.56,22000,Within limit,Y
+ITM00472,CLM10105,Hotel,2025-09-29,Lemon Tree,4 nights stay in Chandigarh (Lemon Tree),17571.57,22000,Within limit,Y
+ITM00473,CLM10105,Meals,2025-09-30,Multiple vendors,Meals for 5 days during sales pitch in Chandigarh,5664.11,7500,Within limit,Y
+ITM00474,CLM10105,Local Cab,2025-09-29,Local taxi,4 cab rides during stay in Chandigarh,3453.62,7500,Within limit,Y
+ITM00475,CLM10106,Train,2025-07-04,IRCTC,Return train Chennai - Delhi (2A),3895.93,6000,Within limit,Y
+ITM00476,CLM10106,Hotel,2025-07-04,Novotel,2 nights stay in Delhi (Novotel),13828.31,14000,Within limit,Y
+ITM00477,CLM10106,Meals,2025-07-05,Multiple vendors,Meals for 3 days during client meeting in Delhi,4801.61,5400,Within limit,Y
+ITM00478,CLM10106,Local Cab,2025-07-04,Uber,2 cab rides during stay in Delhi,3213.27,4500,Within limit,Y
+ITM00479,CLM10107,Airfare,2025-07-19,SpiceJet,Return flight Bengaluru - Lucknow (economy),15322.67,22000,Within limit,Y
+ITM00480,CLM10107,Hotel,2025-07-19,Hotel Residency,2 nights stay in Lucknow (Hotel Residency),15514.69,16000,Within limit,Y
+ITM00481,CLM10107,Meals,2025-07-20,Multiple vendors,Meals for 3 days during project kickoff in Lucknow,6979.98,6000,Exceeds limit,Y
+ITM00482,CLM10107,Local Cab,2025-07-19,Uber,5 cab rides during stay in Lucknow,1801.67,4500,Within limit,Y
+ITM00483,CLM10107,Client Entertainment,2025-07-20,The Table,Client dinner with 3 guests (project kickoff),4644.22,7500,Within limit,Y
+ITM00484,CLM10108,Train,2025-10-18,IRCTC,Return train Hyderabad - Chandigarh (3A),3722.45,6000,Within limit,Y
+ITM00485,CLM10108,Hotel,2025-10-18,Fortune Inn,4 nights stay in Chandigarh (Fortune Inn),9014.3,14000,Within limit,Y
+ITM00486,CLM10108,Meals,2025-10-19,Multiple vendors,Meals for 5 days during conference in Chandigarh,2911.51,5000,Within limit,Y
+ITM00487,CLM10108,Local Cab,2025-10-18,Local taxi,4 cab rides during stay in Chandigarh,5154.19,7500,Receipt missing,N
+ITM00488,CLM10108,Conference Registration,2025-10-18,Event organiser,Registration fee - Chandigarh summit,13706.96,,Within limit,Y
+ITM00489,CLM10109,Airfare,2025-08-10,Akasa Air,Return flight Gurugram - Mumbai (economy),6693.31,22000,Within limit,Y
+ITM00490,CLM10109,Hotel,2025-08-10,Radisson Blu,1 nights stay in Mumbai (Radisson Blu),3479.91,4500,Within limit,Y
+ITM00491,CLM10109,Meals,2025-08-11,Multiple vendors,Meals for 2 days during quarterly business review in Mumbai,2152.36,2400,Within limit,Y
+ITM00492,CLM10109,Local Cab,2025-08-10,Uber,5 cab rides during stay in Mumbai,1176.67,3000,Within limit,Y
+ITM00493,CLM10110,Airfare,2026-05-06,SpiceJet,Return flight Bengaluru - Visakhapatnam (economy),16631.71,22000,Within limit,Y
+ITM00494,CLM10110,Hotel,2026-05-06,Lemon Tree,3 nights stay in Visakhapatnam (Lemon Tree),9375.1,10500,Within limit,Y
+ITM00495,CLM10110,Meals,2026-05-07,Multiple vendors,Meals for 4 days during client meeting in Visakhapatnam,3480.4,4000,Within limit,Y
+ITM00496,CLM10110,Local Cab,2026-05-06,Local taxi,2 cab rides during stay in Visakhapatnam,2317.84,6000,Within limit,Y
+ITM00497,CLM10111,Airfare,2026-01-31,IndiGo,Return flight Chennai - Indore (economy),14217.93,22000,Within limit,Y
+ITM00498,CLM10111,Hotel,2026-01-31,ibis,2 nights stay in Indore (ibis),5307.16,7000,Within limit,Y
+ITM00499,CLM10111,Meals,2026-02-01,Multiple vendors,Meals for 3 days during branch visit in Indore,3463.87,3000,Exceeds limit,Y
+ITM00500,CLM10111,Local Cab,2026-01-31,Uber,4 cab rides during stay in Indore,2035.52,4500,Within limit,Y
+ITM00501,CLM10112,Airfare,2026-09-03,Air India,Return flight Hyderabad - Kolkata (economy),7422.69,22000,Within limit,Y
+ITM00502,CLM10112,Hotel,2026-09-03,Courtyard by Marriott,4 nights stay in Kolkata (Courtyard by Marriott),12869.68,18000,Within limit,Y
+ITM00503,CLM10112,Meals,2026-09-04,Multiple vendors,Meals for 5 days during sales pitch in Kolkata,4246.59,6000,Within limit,Y
+ITM00504,CLM10112,Local Cab,2026-09-03,Local taxi,5 cab rides during stay in Kolkata,4498.81,7500,Within limit,Y
+ITM00505,CLM10113,Airfare,2026-09-23,SpiceJet,Return flight Bengaluru - Udaipur (economy),14009.69,22000,Within limit,Y
+ITM00506,CLM10113,Hotel,2026-09-23,FabHotel Prime,5 nights stay in Udaipur (FabHotel Prime),16857.48,20000,Within limit,Y
+ITM00507,CLM10113,Meals,2026-09-24,Multiple vendors,Meals for 6 days during customer onsite deployment in Udaipur,6323.4,7200,Within limit,Y
+ITM00508,CLM10113,Local Cab,2026-09-23,Uber,3 cab rides during stay in Udaipur,3753.07,9000,Within limit,Y
+ITM00509,CLM10114,Airfare,2026-05-22,SpiceJet,Return flight Hyderabad - Guwahati (economy),16635.49,22000,Within limit,Y
+ITM00510,CLM10114,Hotel,2026-05-22,FabHotel Prime,1 nights stay in Guwahati (FabHotel Prime),2772.1,4000,Within limit,Y
+ITM00511,CLM10114,Meals,2026-05-23,Multiple vendors,Meals for 2 days during sales pitch in Guwahati,1567.06,2400,Within limit,Y
+ITM00512,CLM10114,Local Cab,2026-05-22,Local taxi,2 cab rides during stay in Guwahati,2086.37,3000,Within limit,Y
+ITM00513,CLM10114,Phone & Internet,2026-05-23,Airtel,Data roaming and hotspot charges,997.68,1000,Within limit,Y
+ITM00514,CLM10115,Train,2025-06-10,IRCTC,Return train Hyderabad - Nagpur (3A),1488.07,6000,Within limit,Y
+ITM00515,CLM10115,Hotel,2025-06-10,Fortune Inn,2 nights stay in Nagpur (Fortune Inn),5612.44,7000,Within limit,Y
+ITM00516,CLM10115,Meals,2025-06-11,Multiple vendors,Meals for 3 days during sales pitch in Nagpur,2452.2,3000,Within limit,Y
+ITM00517,CLM10115,Local Cab,2025-06-10,Meru Cabs,3 cab rides during stay in Nagpur,2352.12,4500,Within limit,Y
+ITM00518,CLM10116,Train,2026-08-05,IRCTC,Return train Mumbai - Vijayawada (3A),2621.61,6000,Within limit,Y
+ITM00519,CLM10116,Hotel,2026-08-05,Hotel Sai Residency,3 nights stay in Vijayawada (Hotel Sai Residency),6747.26,7500,Within limit,Y
+ITM00520,CLM10116,Meals,2026-08-06,Multiple vendors,Meals for 4 days during project kickoff in Vijayawada,2405.57,3200,Within limit,Y
+ITM00521,CLM10116,Local Cab,2026-08-05,Uber,4 cab rides during stay in Vijayawada,3741.22,6000,Within limit,Y
+ITM00522,CLM10117,Airfare,2025-12-18,Akasa Air,Return flight Mumbai - Jaipur (economy),8405.38,22000,Within limit,Y
+ITM00523,CLM10117,Hotel,2025-12-18,Hotel Residency,2 nights stay in Jaipur (Hotel Residency),4734.28,7000,Within limit,Y
+ITM00524,CLM10117,Meals,2025-12-19,Multiple vendors,Meals for 3 days during branch visit in Jaipur,1534.15,3000,Within limit,Y
+ITM00525,CLM10117,Local Cab,2025-12-18,Ola,5 cab rides during stay in Jaipur,5990.29,4500,Exceeds limit,Y
+ITM00526,CLM10118,Airfare,2025-09-30,Akasa Air,Return flight Delhi - Coimbatore (economy),9577.7,22000,Within limit,Y
+ITM00527,CLM10118,Hotel,2025-09-30,ibis,3 nights stay in Coimbatore (ibis),7819.72,10500,Within limit,Y
+ITM00528,CLM10118,Meals,2025-10-01,Multiple vendors,Meals for 4 days during quarterly business review in Coimbatore,2264.94,4000,Within limit,Y
+ITM00529,CLM10118,Local Cab,2025-09-30,Meru Cabs,2 cab rides during stay in Coimbatore,2457.76,6000,Within limit,Y
+ITM00530,CLM10119,Airfare,2026-05-29,IndiGo,Return flight Bengaluru - Ahmedabad (economy),14128.41,22000,Within limit,Y
+ITM00531,CLM10119,Hotel,2026-05-29,Hotel Residency,4 nights stay in Ahmedabad (Hotel Residency),21727.95,22000,Within limit,Y
+ITM00532,CLM10119,Meals,2026-05-30,Multiple vendors,Meals for 5 days during customer onsite deployment in Ahmedabad,3984.43,7500,Within limit,Y
+ITM00533,CLM10119,Local Cab,2026-05-29,Uber,5 cab rides during stay in Ahmedabad,11071.24,7500,Exceeds limit,Y
+ITM00534,CLM10120,Airfare,2025-12-05,IndiGo,Return flight Hyderabad - Raipur (economy),13074.18,22000,Within limit,Y
+ITM00535,CLM10120,Hotel,2025-12-05,FabHotel Prime,4 nights stay in Raipur (FabHotel Prime),9295.66,10000,Within limit,Y
+ITM00536,CLM10120,Meals,2025-12-06,Multiple vendors,Meals for 5 days during vendor audit in Raipur,3381.62,4000,Within limit,Y
+ITM00537,CLM10120,Local Cab,2025-12-05,Ola,2 cab rides during stay in Raipur,4441.62,7500,Within limit,Y
+ITM00538,CLM10121,Airfare,2025-07-06,SpiceJet,Return flight Chennai - Guwahati (economy),8531.66,22000,Within limit,Y
+ITM00539,CLM10121,Hotel,2025-07-06,Hotel Grand Orchid,2 nights stay in Guwahati (Hotel Grand Orchid),4569.94,5000,Within limit,Y
+ITM00540,CLM10121,Meals,2025-07-07,Multiple vendors,Meals for 3 days during customer onsite deployment in Guwahati,1577.13,2400,Within limit,Y
+ITM00541,CLM10121,Local Cab,2025-07-06,Uber,2 cab rides during stay in Guwahati,2830.24,4500,Within limit,Y
+ITM00542,CLM10121,Phone & Internet,2025-07-08,Airtel,Data roaming and hotspot charges,602.51,1000,Within limit,Y
+ITM00543,CLM10122,Airfare,2025-08-17,SpiceJet,Return flight Pune - Mumbai (economy),14368.33,22000,Within limit,Y
+ITM00544,CLM10122,Hotel,2025-08-17,Courtyard by Marriott,3 nights stay in Mumbai (Courtyard by Marriott),13492.64,13500,Within limit,Y
+ITM00545,CLM10122,Meals,2025-08-18,Multiple vendors,Meals for 4 days during quarterly business review in Mumbai,2484.68,4800,Within limit,Y
+ITM00546,CLM10122,Local Cab,2025-08-17,Local taxi,4 cab rides during stay in Mumbai,3381.48,6000,Within limit,Y
+ITM00547,CLM10123,Train,2025-06-01,IRCTC,Return train Bengaluru - Mumbai (3A),2680.06,6000,Within limit,Y
+ITM00548,CLM10123,Hotel,2025-06-01,Lemon Tree Premier,3 nights stay in Mumbai (Lemon Tree Premier),11780.49,13500,Within limit,Y
+ITM00549,CLM10123,Meals,2025-06-02,Multiple vendors,Meals for 4 days during conference in Mumbai,3565.31,4800,Within limit,Y
+ITM00550,CLM10123,Local Cab,2025-06-01,Meru Cabs,5 cab rides during stay in Mumbai,1820.94,6000,Within limit,Y
+ITM00551,CLM10123,Conference Registration,2025-06-01,Event organiser,Registration fee - Mumbai summit,18186.86,,Within limit,Y
+ITM00552,CLM10124,Train,2025-09-18,IRCTC,Return train Bengaluru - Hyderabad (2A),4095.57,6000,Within limit,Y
+ITM00553,CLM10124,Hotel,2025-09-18,Hyatt Regency,2 nights stay in Hyderabad (Hyatt Regency),10570.67,14000,Within limit,Y
+ITM00554,CLM10124,Meals,2025-09-19,Multiple vendors,Meals for 3 days during vendor audit in Hyderabad,4412.28,5400,Within limit,Y
+ITM00555,CLM10124,Local Cab,2025-09-18,Local taxi,5 cab rides during stay in Hyderabad,1188.12,4500,Within limit,Y
+ITM00556,CLM10124,Client Entertainment,2025-09-19,Taj Dining,Client dinner with 6 guests (vendor audit),12679.17,15000,Within limit,Y
+ITM00557,CLM10125,Airfare,2026-01-20,British Airways,Return flight Hyderabad - London,72839.15,80000,Within limit,Y
+ITM00558,CLM10125,Visa & Forex,2026-01-20,VFS Global,Visa fees and forex card charges,8673.13,,Within limit,Y
+ITM00559,CLM10125,Hotel,2026-01-20,Courtyard by Marriott,6 nights stay in London (Courtyard by Marriott),44307.78,72000,Within limit,Y
+ITM00560,CLM10125,Meals,2026-01-21,Multiple vendors,Meals for 7 days during quarterly business review in London,25145.28,31500,Within limit,Y
+ITM00561,CLM10125,Local Cab,2026-01-20,Ola,5 cab rides during stay in London,6385.28,10500,Within limit,Y
+ITM00562,CLM10126,Airfare,2025-10-08,SpiceJet,Return flight Bengaluru - Delhi (economy),9159.89,22000,Within limit,Y
+ITM00563,CLM10126,Hotel,2025-10-08,Novotel,4 nights stay in Delhi (Novotel),17478.68,18000,Within limit,Y
+ITM00564,CLM10126,Meals,2025-10-09,Multiple vendors,Meals for 5 days during client meeting in Delhi,5336.91,6000,Within limit,Y
+ITM00565,CLM10126,Local Cab,2025-10-08,Meru Cabs,5 cab rides during stay in Delhi,5850.48,7500,Within limit,Y
+ITM00566,CLM10126,Phone & Internet,2025-10-12,Airtel,Data roaming and hotspot charges,779.97,1000,Within limit,Y
+ITM00567,CLM10127,Airfare,2025-06-16,Air India,Return flight Hyderabad - Delhi (economy),8088.06,22000,Within limit,Y
+ITM00568,CLM10127,Hotel,2025-06-16,Hyatt Regency,2 nights stay in Delhi (Hyatt Regency),9844.34,14000,Within limit,Y
+ITM00569,CLM10127,Meals,2025-06-17,Multiple vendors,Meals for 3 days during customer onsite deployment in Delhi,4290.32,5400,Within limit,Y
+ITM00570,CLM10127,Local Cab,2025-06-16,Local taxi,3 cab rides during stay in Delhi,2091.17,4500,Within limit,Y
+ITM00571,CLM10127,Client Entertainment,2025-06-17,Olive Bistro,Client dinner with 3 guests (customer onsite deployment),6960.48,7500,Within limit,Y
+ITM00572,CLM10128,Train,2025-12-20,IRCTC,Return train Delhi - Lucknow (2A),2765.15,6000,Within limit,Y
+ITM00573,CLM10128,Hotel,2025-12-20,Hotel Residency,1 nights stay in Lucknow (Hotel Residency),5164.5,5500,Within limit,Y
+ITM00574,CLM10128,Meals,2025-12-21,Multiple vendors,Meals for 2 days during customer onsite deployment in Lucknow,2133.48,3000,Within limit,Y
+ITM00575,CLM10128,Local Cab,2025-12-20,Local taxi,2 cab rides during stay in Lucknow,1512.0,3000,Within limit,Y
+ITM00576,CLM10128,Client Entertainment,2025-12-21,Taj Dining,Client dinner with 4 guests (customer onsite deployment),8056.65,10000,Within limit,Y
+ITM00577,CLM10129,Train,2026-09-21,IRCTC,Return train Chennai - Lucknow (3A),4104.94,6000,Within limit,Y
+ITM00578,CLM10129,Hotel,2026-09-21,Lemon Tree,5 nights stay in Lucknow (Lemon Tree),16907.98,17500,Within limit,Y
+ITM00579,CLM10129,Meals,2026-09-22,Multiple vendors,Meals for 6 days during branch visit in Lucknow,4391.2,6000,Within limit,Y
+ITM00580,CLM10129,Local Cab,2026-09-21,Ola,4 cab rides during stay in Lucknow,6938.37,9000,Within limit,Y
+ITM00581,CLM10130,Airfare,2026-04-03,IndiGo,Return flight Chennai - Pune (economy),13138.17,22000,Within limit,Y
+ITM00582,CLM10130,Hotel,2026-04-03,Hyatt Regency,1 nights stay in Pune (Hyatt Regency),3581.67,4500,Within limit,Y
+ITM00583,CLM10130,Meals,2026-04-04,Multiple vendors,Meals for 2 days during training workshop in Pune,1506.9,2400,Receipt missing,N
+ITM00584,CLM10130,Local Cab,2026-04-03,Local taxi,3 cab rides during stay in Pune,1667.53,3000,Within limit,Y
+ITM00585,CLM10131,Airfare,2026-09-26,Air India,Return flight Pune - Bhubaneswar (economy),14180.19,22000,Within limit,Y
+ITM00586,CLM10131,Hotel,2026-09-26,Fortune Inn,3 nights stay in Bhubaneswar (Fortune Inn),10380.14,10500,Within limit,Y
+ITM00587,CLM10131,Meals,2026-09-27,Multiple vendors,Meals for 4 days during vendor audit in Bhubaneswar,3131.2,4000,Within limit,Y
+ITM00588,CLM10131,Local Cab,2026-09-26,Local taxi,5 cab rides during stay in Bhubaneswar,4011.39,6000,Within limit,Y
+ITM00589,CLM10131,Phone & Internet,2026-09-29,Airtel,Data roaming and hotspot charges,377.62,1000,Within limit,Y
+ITM00590,CLM10132,Train,2026-02-09,IRCTC,Return train Hyderabad - Mumbai (3A),1883.77,6000,Within limit,Y
+ITM00591,CLM10132,Hotel,2026-02-09,Taj Vivanta,3 nights stay in Mumbai (Taj Vivanta),8408.89,13500,Within limit,Y
+ITM00592,CLM10132,Meals,2026-02-10,Multiple vendors,Meals for 4 days during branch visit in Mumbai,2449.29,4800,Within limit,Y
+ITM00593,CLM10132,Local Cab,2026-02-09,Uber,4 cab rides during stay in Mumbai,1814.99,6000,Within limit,Y
+ITM00594,CLM10133,Airfare,2026-09-02,IndiGo,Return flight Hyderabad - Bengaluru (economy),8329.21,22000,Within limit,Y
+ITM00595,CLM10133,Hotel,2026-09-02,Hyatt Regency,1 nights stay in Bengaluru (Hyatt Regency),3406.53,4500,Within limit,Y
+ITM00596,CLM10133,Meals,2026-09-03,Multiple vendors,Meals for 2 days during branch visit in Bengaluru,1491.26,2400,Within limit,Y
+ITM00597,CLM10133,Local Cab,2026-09-02,Uber,2 cab rides during stay in Bengaluru,1410.03,3000,Within limit,Y
+ITM00598,CLM10133,Client Entertainment,2026-09-03,Paradise Restaurant,Client dinner with 2 guests (branch visit),3828.93,5000,Within limit,Y
+ITM00599,CLM10134,Airfare,2026-04-16,IndiGo,Return flight Mumbai - Dehradun (economy),14181.22,22000,Within limit,Y
+ITM00600,CLM10134,Hotel,2026-04-16,FabHotel Prime,2 nights stay in Dehradun (FabHotel Prime),7782.88,8000,Within limit,Y
+ITM00601,CLM10134,Meals,2026-04-17,Multiple vendors,Meals for 3 days during customer onsite deployment in Dehradun,2097.85,3600,Within limit,Y
+ITM00602,CLM10134,Local Cab,2026-04-16,Meru Cabs,5 cab rides during stay in Dehradun,1482.54,4500,Within limit,Y
+ITM00603,CLM10134,Client Entertainment,2026-04-17,Taj Dining,Client dinner with 3 guests (customer onsite deployment),5545.14,7500,Within limit,Y
+ITM00604,CLM10135,Airfare,2026-01-23,IndiGo,Return flight Pune - Hyderabad (economy),15026.86,22000,Within limit,Y
+ITM00605,CLM10135,Hotel,2026-01-23,Novotel,3 nights stay in Hyderabad (Novotel),11540.25,13500,Within limit,Y
+ITM00606,CLM10135,Meals,2026-01-24,Multiple vendors,Meals for 4 days during customer onsite deployment in Hyderabad,4338.45,4800,Within limit,Y
+ITM00607,CLM10135,Local Cab,2026-01-23,Meru Cabs,3 cab rides during stay in Hyderabad,3095.03,6000,Within limit,Y
+ITM00608,CLM10136,Airfare,2026-02-03,Akasa Air,Return flight Kolkata - Ahmedabad (economy),12725.13,22000,Within limit,Y
+ITM00609,CLM10136,Hotel,2026-02-03,ibis,2 nights stay in Ahmedabad (ibis),5748.61,7000,Within limit,Y
+ITM00610,CLM10136,Meals,2026-02-04,Multiple vendors,Meals for 3 days during conference in Ahmedabad,2003.82,3000,Within limit,Y
+ITM00611,CLM10136,Local Cab,2026-02-03,Uber,5 cab rides during stay in Ahmedabad,1334.39,4500,Within limit,Y
+ITM00612,CLM10136,Conference Registration,2026-02-03,Event organiser,Registration fee - Ahmedabad summit,13813.99,,Within limit,Y
+ITM00613,CLM10137,Airfare,2026-06-08,IndiGo,Return flight Kolkata - Bhubaneswar (economy),9545.3,22000,Within limit,Y
+ITM00614,CLM10137,Hotel,2026-06-08,Treebo Premium,1 nights stay in Bhubaneswar (Treebo Premium),2106.93,3500,Within limit,Y
+ITM00615,CLM10137,Meals,2026-06-09,Multiple vendors,Meals for 2 days during quarterly business review in Bhubaneswar,1404.6,2000,Within limit,Y
+ITM00616,CLM10137,Local Cab,2026-06-08,Local taxi,3 cab rides during stay in Bhubaneswar,1959.69,3000,Within limit,Y
+ITM00617,CLM10138,Airfare,2026-03-26,IndiGo,Return flight Mumbai - Raipur (economy),12381.86,22000,Within limit,Y
+ITM00618,CLM10138,Hotel,2026-03-26,Hotel Sai Residency,2 nights stay in Raipur (Hotel Sai Residency),4196.74,5000,Within limit,Y
+ITM00619,CLM10138,Meals,2026-03-27,Multiple vendors,Meals for 3 days during recruitment drive in Raipur,1931.58,2400,Within limit,Y
+ITM00620,CLM10138,Local Cab,2026-03-26,Local taxi,5 cab rides during stay in Raipur,2958.52,4500,Within limit,Y
+ITM00621,CLM10138,Client Entertainment,2026-03-27,Paradise Restaurant,Client dinner with 6 guests (recruitment drive),23499.56,15000,Exceeds limit,Y
+ITM00622,CLM10139,Airfare,2026-08-21,SpiceJet,Return flight Delhi - Vijayawada (economy),11394.19,22000,Within limit,Y
+ITM00623,CLM10139,Hotel,2026-08-21,FabHotel Prime,3 nights stay in Vijayawada (FabHotel Prime),5539.29,7500,Within limit,Y
+ITM00624,CLM10139,Meals,2026-08-22,Multiple vendors,Meals for 4 days during quarterly business review in Vijayawada,2908.41,3200,Within limit,Y
+ITM00625,CLM10139,Local Cab,2026-08-21,Local taxi,2 cab rides during stay in Vijayawada,3285.74,6000,Within limit,Y
+ITM00626,CLM10140,Train,2025-12-23,IRCTC,Return train Hyderabad - Mysuru (2A),1135.54,6000,Within limit,Y
+ITM00627,CLM10140,Hotel,2025-12-23,Treebo Trend,3 nights stay in Mysuru (Treebo Trend),8218.4,12000,Within limit,Y
+ITM00628,CLM10140,Meals,2025-12-24,Multiple vendors,Meals for 4 days during branch visit in Mysuru,3160.48,4800,Within limit,Y
+ITM00629,CLM10140,Local Cab,2025-12-23,Ola,3 cab rides during stay in Mysuru,3460.63,6000,Within limit,Y
+ITM00630,CLM10141,Train,2026-08-12,IRCTC,Return train Kolkata - Lucknow (2A),4122.56,6000,Within limit,Y
+ITM00631,CLM10141,Hotel,2026-08-12,Lemon Tree,1 nights stay in Lucknow (Lemon Tree),3506.25,5500,Within limit,Y
+ITM00632,CLM10141,Meals,2026-08-13,Multiple vendors,Meals for 2 days during conference in Lucknow,2431.84,3000,Within limit,Y
+ITM00633,CLM10141,Local Cab,2026-08-12,Ola,4 cab rides during stay in Lucknow,1245.71,3000,Within limit,Y
+ITM00634,CLM10141,Conference Registration,2026-08-12,Event organiser,Registration fee - Lucknow summit,18270.38,,Within limit,Y
+ITM00635,CLM10142,Airfare,2025-11-04,IndiGo,Return flight Hyderabad - Visakhapatnam (economy),13069.22,22000,Within limit,Y
+ITM00636,CLM10142,Hotel,2025-11-04,Treebo Premium,4 nights stay in Visakhapatnam (Treebo Premium),8532.55,14000,Within limit,Y
+ITM00637,CLM10142,Meals,2025-11-05,Multiple vendors,Meals for 5 days during client meeting in Visakhapatnam,4126.12,5000,Within limit,Y
+ITM00638,CLM10142,Local Cab,2025-11-04,Uber,4 cab rides during stay in Visakhapatnam,2485.86,7500,Within limit,Y
+ITM00639,CLM10143,Airfare,2026-01-28,IndiGo,Return flight Pune - Bengaluru (economy),14919.37,22000,Within limit,Y
+ITM00640,CLM10143,Hotel,2026-01-28,Novotel,2 nights stay in Bengaluru (Novotel),5621.38,9000,Within limit,Y
+ITM00641,CLM10143,Meals,2026-01-29,Multiple vendors,Meals for 3 days during project kickoff in Bengaluru,2426.78,3600,Within limit,Y
+ITM00642,CLM10143,Local Cab,2026-01-28,Uber,4 cab rides during stay in Bengaluru,6360.47,4500,Exceeds limit,Y
+ITM00643,CLM10144,Train,2025-08-19,IRCTC,Return train Delhi - Guwahati (2A),949.39,6000,Within limit,Y
+ITM00644,CLM10144,Hotel,2025-08-19,Hotel Sai Residency,2 nights stay in Guwahati (Hotel Sai Residency),7506.1,8000,Within limit,Y
+ITM00645,CLM10144,Meals,2025-08-20,Multiple vendors,Meals for 3 days during customer onsite deployment in Guwahati,2434.15,3600,Within limit,Y
+ITM00646,CLM10144,Local Cab,2025-08-19,Ola,3 cab rides during stay in Guwahati,1408.9,4500,Within limit,Y
+ITM00647,CLM10145,Airfare,2025-07-05,Akasa Air,Return flight Bengaluru - Visakhapatnam (economy),17816.3,22000,Within limit,Y
+ITM00648,CLM10145,Hotel,2025-07-05,Treebo Premium,5 nights stay in Visakhapatnam (Treebo Premium),24854.93,27500,Within limit,Y
+ITM00649,CLM10145,Meals,2025-07-06,Multiple vendors,Meals for 6 days during sales pitch in Visakhapatnam,5290.85,9000,Within limit,Y
+ITM00650,CLM10145,Local Cab,2025-07-05,Uber,4 cab rides during stay in Visakhapatnam,2457.08,9000,Within limit,Y
+ITM00651,CLM10146,Airfare,2026-05-25,IndiGo,Return flight Delhi - Coimbatore (economy),7911.47,22000,Within limit,Y
+ITM00652,CLM10146,Hotel,2026-05-25,ibis,2 nights stay in Coimbatore (ibis),5146.73,7000,Within limit,Y
+ITM00653,CLM10146,Meals,2026-05-26,Multiple vendors,Meals for 3 days during customer onsite deployment in Coimbatore,1933.32,3000,Within limit,Y
+ITM00654,CLM10146,Local Cab,2026-05-25,Ola,5 cab rides during stay in Coimbatore,1225.16,4500,Within limit,Y
+ITM00655,CLM10147,Train,2026-02-15,IRCTC,Return train Hyderabad - Chennai (3A),957.28,6000,Within limit,Y
+ITM00656,CLM10147,Hotel,2026-02-15,Taj Vivanta,1 nights stay in Chennai (Taj Vivanta),2749.21,4500,Within limit,Y
+ITM00657,CLM10147,Meals,2026-02-16,Multiple vendors,Meals for 2 days during quarterly business review in Chennai,1384.77,2400,Within limit,Y
+ITM00658,CLM10147,Local Cab,2026-02-15,Meru Cabs,4 cab rides during stay in Chennai,760.4,3000,Within limit,Y
+ITM00659,CLM10147,Conference Registration,2026-02-15,Event organiser,Registration fee - Chennai summit,15972.21,,Within limit,Y
+ITM00660,CLM10148,Airfare,2026-06-25,Akasa Air,Return flight Kolkata - Gurugram (economy),15510.43,22000,Within limit,Y
+ITM00661,CLM10148,Hotel,2026-06-25,Courtyard by Marriott,2 nights stay in Gurugram (Courtyard by Marriott),5641.68,9000,Within limit,Y
+ITM00662,CLM10148,Meals,2026-06-26,Multiple vendors,Meals for 3 days during customer onsite deployment in Gurugram,2761.02,3600,Within limit,Y
+ITM00663,CLM10148,Local Cab,2026-06-25,Local taxi,3 cab rides during stay in Gurugram,2431.81,4500,Within limit,Y
+ITM00664,CLM10149,Airfare,2025-05-10,Akasa Air,Return flight Bengaluru - Lucknow (economy),17934.87,22000,Within limit,Y
+ITM00665,CLM10149,Hotel,2025-05-10,Treebo Premium,1 nights stay in Lucknow (Treebo Premium),2541.03,3500,Within limit,Y
+ITM00666,CLM10149,Meals,2025-05-11,Multiple vendors,Meals for 2 days during conference in Lucknow,1418.64,2000,Within limit,Y
+ITM00667,CLM10149,Local Cab,2025-05-10,Uber,2 cab rides during stay in Lucknow,1618.32,3000,Within limit,Y
+ITM00668,CLM10149,Conference Registration,2025-05-10,Event organiser,Registration fee - Lucknow summit,21901.98,,Within limit,Y
+ITM00669,CLM10150,Train,2025-04-03,IRCTC,Return train Hyderabad - Dehradun (2A),3766.85,6000,Within limit,Y
+ITM00670,CLM10150,Hotel,2025-04-03,FabHotel Prime,3 nights stay in Dehradun (FabHotel Prime),11487.53,12000,Within limit,Y
+ITM00671,CLM10150,Meals,2025-04-04,Multiple vendors,Meals for 4 days during branch visit in Dehradun,6390.12,4800,Exceeds limit,Y
+ITM00672,CLM10150,Local Cab,2025-04-03,Meru Cabs,3 cab rides during stay in Dehradun,3157.28,6000,Within limit,Y
+ITM00673,CLM10151,Train,2025-09-25,IRCTC,Return train Pune - Mumbai (2A),2074.0,6000,Within limit,Y
+ITM00674,CLM10151,Hotel,2025-09-25,Radisson Blu,5 nights stay in Mumbai (Radisson Blu),32066.77,35000,Within limit,Y
+ITM00675,CLM10151,Meals,2025-09-26,Multiple vendors,Meals for 6 days during training workshop in Mumbai,8021.59,10800,Within limit,Y
+ITM00676,CLM10151,Local Cab,2025-09-25,Meru Cabs,4 cab rides during stay in Mumbai,4084.32,9000,Receipt missing,N
+ITM00677,CLM10151,Phone & Internet,2025-09-30,Airtel,Data roaming and hotspot charges,699.04,1000,Within limit,Y
+ITM00678,CLM10152,Train,2025-07-05,IRCTC,Return train Delhi - Pune (2A),2984.2,6000,Within limit,Y
+ITM00679,CLM10152,Hotel,2025-07-05,Novotel,4 nights stay in Pune (Novotel),38141.16,40000,Within limit,Y
+ITM00680,CLM10152,Meals,2025-07-06,Multiple vendors,Meals for 5 days during recruitment drive in Pune,6980.89,12500,Within limit,Y
+ITM00681,CLM10152,Local Cab,2025-07-05,Local taxi,2 cab rides during stay in Pune,3080.47,7500,Within limit,Y
+ITM00682,CLM10153,Airfare,2025-06-02,Air India,Return flight Mumbai - Pune (economy),7590.2,22000,Within limit,Y
+ITM00683,CLM10153,Hotel,2025-06-02,Lemon Tree Premier,3 nights stay in Pune (Lemon Tree Premier),15428.05,21000,Within limit,Y
+ITM00684,CLM10153,Meals,2025-06-03,Multiple vendors,Meals for 4 days during quarterly business review in Pune,5518.19,7200,Within limit,Y
+ITM00685,CLM10153,Local Cab,2025-06-02,Local taxi,5 cab rides during stay in Pune,4515.91,6000,Within limit,Y
+ITM00686,CLM10153,Client Entertainment,2025-06-03,Paradise Restaurant,Client dinner with 4 guests (quarterly business review),8142.18,10000,Within limit,Y
+ITM00687,CLM10154,Train,2026-03-06,IRCTC,Return train Bengaluru - Lucknow (3A),1820.82,6000,Within limit,Y
+ITM00688,CLM10154,Hotel,2026-03-06,Lemon Tree,3 nights stay in Lucknow (Lemon Tree),6522.53,10500,Within limit,Y
+ITM00689,CLM10154,Meals,2026-03-07,Multiple vendors,Meals for 4 days during conference in Lucknow,3135.62,4000,Within limit,Y
+ITM00690,CLM10154,Local Cab,2026-03-06,Uber,3 cab rides during stay in Lucknow,2671.42,6000,Within limit,Y
+ITM00691,CLM10154,Conference Registration,2026-03-06,Event organiser,Registration fee - Lucknow summit,7473.84,,Within limit,Y
+ITM00692,CLM10155,Airfare,2025-11-24,Akasa Air,Return flight Chennai - Delhi (economy),12264.13,22000,Within limit,Y
+ITM00693,CLM10155,Hotel,2025-11-24,Radisson Blu,2 nights stay in Delhi (Radisson Blu),7522.87,9000,Within limit,Y
+ITM00694,CLM10155,Meals,2025-11-25,Multiple vendors,Meals for 3 days during customer onsite deployment in Delhi,3082.74,3600,Within limit,Y
+ITM00695,CLM10155,Local Cab,2025-11-24,Uber,4 cab rides during stay in Delhi,2649.87,4500,Within limit,Y
+ITM00696,CLM10156,Airfare,2025-12-21,SpiceJet,Return flight Kolkata - Indore (economy),8513.73,22000,Within limit,Y
+ITM00697,CLM10156,Hotel,2025-12-21,Lemon Tree,3 nights stay in Indore (Lemon Tree),13636.34,10500,Exceeds limit,Y
+ITM00698,CLM10156,Meals,2025-12-22,Multiple vendors,Meals for 4 days during customer onsite deployment in Indore,2247.51,4000,Within limit,Y
+ITM00699,CLM10156,Local Cab,2025-12-21,Meru Cabs,4 cab rides during stay in Indore,2283.62,6000,Within limit,Y
+ITM00700,CLM10156,Phone & Internet,2025-12-24,Airtel,Data roaming and hotspot charges,552.12,1000,Within limit,Y
+ITM00701,CLM10157,Train,2026-04-18,IRCTC,Return train Mumbai - Gurugram (2A),1985.05,6000,Within limit,Y
+ITM00702,CLM10157,Hotel,2026-04-18,Courtyard by Marriott,4 nights stay in Gurugram (Courtyard by Marriott),22317.39,28000,Within limit,Y
+ITM00703,CLM10157,Meals,2026-04-19,Multiple vendors,Meals for 5 days during conference in Gurugram,6379.43,9000,Within limit,Y
+ITM00704,CLM10157,Local Cab,2026-04-18,Ola,3 cab rides during stay in Gurugram,4934.13,7500,Within limit,Y
+ITM00705,CLM10157,Conference Registration,2026-04-18,Event organiser,Registration fee - Gurugram summit,4847.53,,Within limit,Y
+ITM00706,CLM10158,Train,2025-06-19,IRCTC,Return train Hyderabad - Kolkata (2A),3915.3,6000,Within limit,Y
+ITM00707,CLM10158,Hotel,2025-06-19,Novotel,4 nights stay in Kolkata (Novotel),32047.42,28000,Exceeds limit,Y
+ITM00708,CLM10158,Meals,2025-06-20,Multiple vendors,Meals for 5 days during client meeting in Kolkata,4558.62,9000,Within limit,Y
+ITM00709,CLM10158,Local Cab,2025-06-19,Local taxi,3 cab rides during stay in Kolkata,3737.82,7500,Within limit,Y
+ITM00710,CLM10159,Airfare,2026-06-08,Akasa Air,Return flight Bengaluru - Guwahati (economy),17139.6,22000,Within limit,Y
+ITM00711,CLM10159,Hotel,2026-06-08,Treebo Trend,1 nights stay in Guwahati (Treebo Trend),5515.69,4000,Exceeds limit,Y
+ITM00712,CLM10159,Meals,2026-06-09,Multiple vendors,Meals for 2 days during project kickoff in Guwahati,1970.79,2400,Within limit,Y
+ITM00713,CLM10159,Local Cab,2026-06-08,Uber,2 cab rides during stay in Guwahati,1478.68,3000,Within limit,Y
+ITM00714,CLM10159,Phone & Internet,2026-06-09,Airtel,Data roaming and hotspot charges,523.93,1000,Within limit,Y
+ITM00715,CLM10160,Airfare,2026-05-16,IndiGo,Return flight Bengaluru - Gurugram (economy),15548.11,22000,Within limit,Y
+ITM00716,CLM10160,Hotel,2026-05-16,Taj Vivanta,2 nights stay in Gurugram (Taj Vivanta),13179.52,14000,Within limit,Y
+ITM00717,CLM10160,Meals,2026-05-17,Multiple vendors,Meals for 3 days during customer onsite deployment in Gurugram,3056.66,5400,Within limit,Y
+ITM00718,CLM10160,Local Cab,2026-05-16,Ola,2 cab rides during stay in Gurugram,3456.44,4500,Within limit,Y
+ITM00719,CLM10161,Train,2026-08-03,IRCTC,Return train Hyderabad - Gurugram (2A),1298.61,6000,Within limit,Y
+ITM00720,CLM10161,Hotel,2026-08-03,Courtyard by Marriott,2 nights stay in Gurugram (Courtyard by Marriott),17606.85,20000,Within limit,Y
+ITM00721,CLM10161,Meals,2026-08-04,Multiple vendors,Meals for 3 days during branch visit in Gurugram,5099.23,7500,Within limit,Y
+ITM00722,CLM10161,Local Cab,2026-08-03,Local taxi,2 cab rides during stay in Gurugram,2223.46,4500,Within limit,Y
+ITM00723,CLM10161,Phone & Internet,2026-08-05,Airtel,Data roaming and hotspot charges,732.13,1000,Within limit,Y
+ITM00724,CLM10162,Airfare,2026-02-24,British Airways,Return flight Bengaluru - London,60058.66,80000,Within limit,Y
+ITM00725,CLM10162,Visa & Forex,2026-02-24,VFS Global,Visa fees and forex card charges,8430.25,,Within limit,Y
+ITM00726,CLM10162,Hotel,2026-02-24,Lemon Tree Premier,3 nights stay in London (Lemon Tree Premier),33144.66,36000,Within limit,Y
+ITM00727,CLM10162,Meals,2026-02-25,Multiple vendors,Meals for 4 days during recruitment drive in London,12492.32,18000,Within limit,Y
+ITM00728,CLM10162,Local Cab,2026-02-24,Ola,2 cab rides during stay in London,2258.95,6000,Within limit,Y
+ITM00729,CLM10162,Client Entertainment,2026-02-25,Olive Bistro,Client dinner with 2 guests (recruitment drive),3824.36,5000,Within limit,Y
+ITM00730,CLM10163,Airfare,2025-06-11,Akasa Air,Return flight Pune - Udaipur (economy),12215.65,22000,Within limit,Y
+ITM00731,CLM10163,Hotel,2025-06-11,FabHotel Prime,3 nights stay in Udaipur (FabHotel Prime),5706.67,7500,Within limit,Y
+ITM00732,CLM10163,Meals,2025-06-12,Multiple vendors,Meals for 4 days during recruitment drive in Udaipur,2711.93,3200,Within limit,Y
+ITM00733,CLM10163,Local Cab,2025-06-11,Ola,5 cab rides during stay in Udaipur,2137.68,6000,Within limit,Y
+ITM00734,CLM10163,Client Entertainment,2025-06-12,Paradise Restaurant,Client dinner with 3 guests (recruitment drive),6997.0,7500,Within limit,Y
+ITM00735,CLM10164,Airfare,2026-08-27,Air India,Return flight Mumbai - Ahmedabad (economy),13148.17,22000,Within limit,Y
+ITM00736,CLM10164,Hotel,2026-08-27,Fortune Inn,5 nights stay in Ahmedabad (Fortune Inn),16005.41,17500,Within limit,Y
+ITM00737,CLM10164,Meals,2026-08-28,Multiple vendors,Meals for 6 days during quarterly business review in Ahmedabad,3645.74,6000,Within limit,Y
+ITM00738,CLM10164,Local Cab,2026-08-27,Meru Cabs,5 cab rides during stay in Ahmedabad,3542.31,9000,Within limit,Y
+ITM00739,CLM10165,Airfare,2026-08-14,Akasa Air,Return flight Delhi - Lucknow (economy),7695.01,22000,Within limit,Y
+ITM00740,CLM10165,Hotel,2026-08-14,Treebo Premium,1 nights stay in Lucknow (Treebo Premium),3693.45,5500,Within limit,Y
+ITM00741,CLM10165,Meals,2026-08-15,Multiple vendors,Meals for 2 days during branch visit in Lucknow,2620.89,3000,Within limit,Y
+ITM00742,CLM10165,Local Cab,2026-08-14,Meru Cabs,5 cab rides during stay in Lucknow,2279.25,3000,Within limit,Y
+ITM00743,CLM10165,Conference Registration,2026-08-14,Event organiser,Registration fee - Lucknow summit,14409.38,,Within limit,Y
+ITM00744,CLM10166,Airfare,2026-09-02,IndiGo,Return flight Kolkata - Ahmedabad (economy),6662.24,22000,Within limit,Y
+ITM00745,CLM10166,Hotel,2026-09-02,Treebo Premium,3 nights stay in Ahmedabad (Treebo Premium),15597.35,16500,Within limit,Y
+ITM00746,CLM10166,Meals,2026-09-03,Multiple vendors,Meals for 4 days during branch visit in Ahmedabad,7978.35,6000,Exceeds limit,Y
+ITM00747,CLM10166,Local Cab,2026-09-02,Meru Cabs,4 cab rides during stay in Ahmedabad,3032.19,6000,Within limit,Y
+ITM00748,CLM10167,Airfare,2026-01-01,SpiceJet,Return flight Bengaluru - Raipur (economy),6915.23,22000,Within limit,Y
+ITM00749,CLM10167,Hotel,2026-01-01,Hotel Grand Orchid,5 nights stay in Raipur (Hotel Grand Orchid),10553.38,12500,Within limit,Y
+ITM00750,CLM10167,Meals,2026-01-02,Multiple vendors,Meals for 6 days during vendor audit in Raipur,4237.91,4800,Within limit,Y
+ITM00751,CLM10167,Local Cab,2026-01-01,Ola,2 cab rides during stay in Raipur,13724.17,9000,Exceeds limit,Y
+ITM00752,CLM10168,Train,2026-06-06,IRCTC,Return train Hyderabad - Raipur (2A),3838.58,6000,Within limit,Y
+ITM00753,CLM10168,Hotel,2026-06-06,FabHotel Prime,2 nights stay in Raipur (FabHotel Prime),12673.85,16000,Within limit,Y
+ITM00754,CLM10168,Meals,2026-06-07,Multiple vendors,Meals for 3 days during sales pitch in Raipur,3175.91,6000,Within limit,Y
+ITM00755,CLM10168,Local Cab,2026-06-06,Meru Cabs,2 cab rides during stay in Raipur,1360.61,4500,Within limit,Y
+ITM00756,CLM10169,Train,2025-05-10,IRCTC,Return train Hyderabad - Guwahati (3A),1187.3,6000,Within limit,Y
+ITM00757,CLM10169,Hotel,2025-05-10,Hotel Sai Residency,3 nights stay in Guwahati (Hotel Sai Residency),4526.85,7500,Within limit,Y
+ITM00758,CLM10169,Meals,2025-05-11,Multiple vendors,Meals for 4 days during recruitment drive in Guwahati,2783.79,3200,Within limit,Y
+ITM00759,CLM10169,Local Cab,2025-05-10,Ola,2 cab rides during stay in Guwahati,3636.1,6000,Within limit,Y
+ITM00760,CLM10170,Train,2026-09-06,IRCTC,Return train Pune - Ahmedabad (2A),2451.61,6000,Within limit,Y
+ITM00761,CLM10170,Hotel,2026-09-06,Fortune Inn,2 nights stay in Ahmedabad (Fortune Inn),9414.45,11000,Within limit,Y
+ITM00762,CLM10170,Meals,2026-09-07,Multiple vendors,Meals for 3 days during recruitment drive in Ahmedabad,3170.45,4500,Within limit,Y
+ITM00763,CLM10170,Local Cab,2026-09-06,Uber,2 cab rides during stay in Ahmedabad,2245.3,4500,Within limit,Y
+ITM00764,CLM10171,Airfare,2025-12-14,IndiGo,Return flight Hyderabad - Delhi (economy),27359.72,22000,Exceeds limit,Y
+ITM00765,CLM10171,Hotel,2025-12-14,Taj Vivanta,3 nights stay in Delhi (Taj Vivanta),9424.33,13500,Within limit,Y
+ITM00766,CLM10171,Meals,2025-12-15,Multiple vendors,Meals for 4 days during vendor audit in Delhi,2613.41,4800,Within limit,Y
+ITM00767,CLM10171,Local Cab,2025-12-14,Ola,2 cab rides during stay in Delhi,1681.6,6000,Within limit,Y
+ITM00768,CLM10172,Airfare,2025-12-22,Air India,Return flight Chennai - Bengaluru (economy),12275.89,22000,Within limit,Y
+ITM00769,CLM10172,Hotel,2025-12-22,Courtyard by Marriott,3 nights stay in Bengaluru (Courtyard by Marriott),15092.33,13500,Exceeds limit,Y
+ITM00770,CLM10172,Meals,2025-12-23,Multiple vendors,Meals for 4 days during recruitment drive in Bengaluru,2690.45,4800,Within limit,Y
+ITM00771,CLM10172,Local Cab,2025-12-22,Ola,2 cab rides during stay in Bengaluru,2995.25,6000,Within limit,Y
+ITM00772,CLM10173,Airfare,2025-05-31,SpiceJet,Return flight Bengaluru - Coimbatore (economy),13162.42,22000,Within limit,Y
+ITM00773,CLM10173,Hotel,2025-05-31,Fortune Inn,2 nights stay in Coimbatore (Fortune Inn),6591.68,7000,Within limit,Y
+ITM00774,CLM10173,Meals,2025-06-01,Multiple vendors,Meals for 3 days during customer onsite deployment in Coimbatore,2686.76,3000,Within limit,Y
+ITM00775,CLM10173,Local Cab,2025-05-31,Meru Cabs,2 cab rides during stay in Coimbatore,2774.16,4500,Within limit,Y
+ITM00776,CLM10174,Airfare,2025-05-03,IndiGo,Return flight Bengaluru - Mysuru (economy),12847.68,22000,Within limit,Y
+ITM00777,CLM10174,Hotel,2025-05-03,FabHotel Prime,2 nights stay in Mysuru (FabHotel Prime),3720.32,5000,Within limit,Y
+ITM00778,CLM10174,Meals,2025-05-04,Multiple vendors,Meals for 3 days during quarterly business review in Mysuru,2051.12,2400,Within limit,Y
+ITM00779,CLM10174,Local Cab,2025-05-03,Uber,3 cab rides during stay in Mysuru,1720.75,4500,Within limit,Y
+ITM00780,CLM10175,Train,2026-01-10,IRCTC,Return train Kolkata - Raipur (3A),1781.95,6000,Within limit,Y
+ITM00781,CLM10175,Hotel,2026-01-10,Hotel Grand Orchid,2 nights stay in Raipur (Hotel Grand Orchid),3236.66,5000,Within limit,Y
+ITM00782,CLM10175,Meals,2026-01-11,Multiple vendors,Meals for 3 days during training workshop in Raipur,1525.96,2400,Within limit,Y
+ITM00783,CLM10175,Local Cab,2026-01-10,Uber,5 cab rides during stay in Raipur,2407.89,4500,Within limit,Y
+ITM00784,CLM10176,Airfare,2026-03-28,IndiGo,Return flight Gurugram - Mumbai (economy),15527.45,22000,Within limit,Y
+ITM00785,CLM10176,Hotel,2026-03-28,Taj Vivanta,2 nights stay in Mumbai (Taj Vivanta),10381.42,14000,Within limit,Y
+ITM00786,CLM10176,Meals,2026-03-29,Multiple vendors,Meals for 3 days during client meeting in Mumbai,3069.71,5400,Within limit,Y
+ITM00787,CLM10176,Local Cab,2026-03-28,Meru Cabs,3 cab rides during stay in Mumbai,3257.89,4500,Within limit,Y
+ITM00788,CLM10177,Train,2025-04-16,IRCTC,Return train Bengaluru - Kochi (3A),3101.9,6000,Within limit,Y
+ITM00789,CLM10177,Hotel,2025-04-16,Treebo Premium,2 nights stay in Kochi (Treebo Premium),4714.64,7000,Within limit,Y
+ITM00790,CLM10177,Meals,2025-04-17,Multiple vendors,Meals for 3 days during conference in Kochi,2387.75,3000,Within limit,Y
+ITM00791,CLM10177,Local Cab,2025-04-16,Ola,2 cab rides during stay in Kochi,1465.39,4500,Within limit,Y
+ITM00792,CLM10177,Conference Registration,2025-04-16,Event organiser,Registration fee - Kochi summit,14626.52,,Within limit,Y
+ITM00793,CLM10178,Airfare,2026-03-13,IndiGo,Return flight Pune - Raipur (economy),18445.81,22000,Within limit,Y
+ITM00794,CLM10178,Hotel,2026-03-13,FabHotel Prime,4 nights stay in Raipur (FabHotel Prime),6626.35,10000,Within limit,Y
+ITM00795,CLM10178,Meals,2026-03-14,Multiple vendors,Meals for 5 days during sales pitch in Raipur,2006.79,4000,Within limit,Y
+ITM00796,CLM10178,Local Cab,2026-03-13,Meru Cabs,5 cab rides during stay in Raipur,3044.03,7500,Within limit,Y
+ITM00797,CLM10179,Train,2026-04-08,IRCTC,Return train Gurugram - Hyderabad (2A),3414.4,6000,Within limit,Y
+ITM00798,CLM10179,Hotel,2026-04-08,Radisson Blu,5 nights stay in Hyderabad (Radisson Blu),24683.62,35000,Within limit,Y
+ITM00799,CLM10179,Meals,2026-04-09,Multiple vendors,Meals for 6 days during conference in Hyderabad,5523.76,10800,Within limit,Y
+ITM00800,CLM10179,Local Cab,2026-04-08,Meru Cabs,5 cab rides during stay in Hyderabad,2719.9,9000,Within limit,Y
+ITM00801,CLM10179,Conference Registration,2026-04-08,Event organiser,Registration fee - Hyderabad summit,9701.34,,Within limit,Y
+ITM00802,CLM10180,Airfare,2025-11-26,IndiGo,Return flight Hyderabad - Ahmedabad (economy),10960.0,22000,Within limit,Y
+ITM00803,CLM10180,Hotel,2025-11-26,Treebo Premium,1 nights stay in Ahmedabad (Treebo Premium),2484.79,3500,Within limit,Y
+ITM00804,CLM10180,Meals,2025-11-27,Multiple vendors,Meals for 2 days during training workshop in Ahmedabad,1275.51,2000,Within limit,Y
+ITM00805,CLM10180,Local Cab,2025-11-26,Meru Cabs,3 cab rides during stay in Ahmedabad,2146.22,3000,Within limit,Y
+ITM00806,CLM10181,Airfare,2025-07-10,SpiceJet,Return flight Pune - Visakhapatnam (economy),16249.65,22000,Within limit,Y
+ITM00807,CLM10181,Hotel,2025-07-10,Fortune Inn,3 nights stay in Visakhapatnam (Fortune Inn),13320.54,16500,Within limit,Y
+ITM00808,CLM10181,Meals,2025-07-11,Multiple vendors,Meals for 4 days during project kickoff in Visakhapatnam,3659.55,6000,Within limit,Y
+ITM00809,CLM10181,Local Cab,2025-07-10,Ola,5 cab rides during stay in Visakhapatnam,3916.78,6000,Within limit,Y
+ITM00810,CLM10182,Airfare,2025-08-29,Akasa Air,Return flight Mumbai - Kolkata (economy),16348.38,22000,Within limit,Y
+ITM00811,CLM10182,Hotel,2025-08-29,Lemon Tree Premier,3 nights stay in Kolkata (Lemon Tree Premier),17101.13,21000,Within limit,Y
+ITM00812,CLM10182,Meals,2025-08-30,Multiple vendors,Meals for 4 days during recruitment drive in Kolkata,6482.57,7200,Within limit,Y
+ITM00813,CLM10182,Local Cab,2025-08-29,Uber,2 cab rides during stay in Kolkata,8437.26,6000,Exceeds limit,Y
+ITM00814,CLM10182,Conference Registration,2025-08-29,Event organiser,Registration fee - Kolkata summit,23698.63,,Within limit,Y
+ITM00815,CLM10183,Airfare,2026-04-21,Air India,Return flight Delhi - Visakhapatnam (economy),14157.49,22000,Within limit,Y
+ITM00816,CLM10183,Hotel,2026-04-21,Hotel Residency,1 nights stay in Visakhapatnam (Hotel Residency),2611.3,3500,Within limit,Y
+ITM00817,CLM10183,Meals,2026-04-22,Multiple vendors,Meals for 2 days during recruitment drive in Visakhapatnam,1149.63,2000,Within limit,Y
+ITM00818,CLM10183,Local Cab,2026-04-21,Uber,2 cab rides during stay in Visakhapatnam,1485.24,3000,Within limit,Y
+ITM00819,CLM10183,Client Entertainment,2026-04-22,Olive Bistro,Client dinner with 2 guests (recruitment drive),3598.43,5000,Within limit,Y
+ITM00820,CLM10184,Airfare,2026-07-18,SpiceJet,Return flight Chennai - Bhubaneswar (economy),15636.46,22000,Within limit,Y
+ITM00821,CLM10184,Hotel,2026-07-18,Lemon Tree,4 nights stay in Bhubaneswar (Lemon Tree),11498.87,14000,Within limit,Y
+ITM00822,CLM10184,Meals,2026-07-19,Multiple vendors,Meals for 5 days during quarterly business review in Bhubaneswar,4174.67,5000,Within limit,Y
+ITM00823,CLM10184,Local Cab,2026-07-18,Meru Cabs,5 cab rides during stay in Bhubaneswar,5476.61,7500,Within limit,Y
+ITM00824,CLM10185,Airfare,2025-05-27,Emirates,Return flight Bengaluru - Dubai,52892.95,80000,Within limit,Y
+ITM00825,CLM10185,Visa & Forex,2025-05-27,VFS Global,Visa fees and forex card charges,4683.27,,Within limit,Y
+ITM00826,CLM10185,Hotel,2025-05-27,Radisson Blu,6 nights stay in Dubai (Radisson Blu),95000.78,72000,Exceeds limit,Y
+ITM00827,CLM10185,Meals,2025-05-28,Multiple vendors,Meals for 7 days during branch visit in Dubai,17477.44,31500,Within limit,Y
+ITM00828,CLM10185,Local Cab,2025-05-27,Local taxi,2 cab rides during stay in Dubai,4086.41,10500,Within limit,Y
+ITM00829,CLM10186,Train,2026-01-14,IRCTC,Return train Hyderabad - Madurai (3A),3054.64,6000,Within limit,Y
+ITM00830,CLM10186,Hotel,2026-01-14,FabHotel Prime,4 nights stay in Madurai (FabHotel Prime),7522.05,10000,Within limit,Y
+ITM00831,CLM10186,Meals,2026-01-15,Multiple vendors,Meals for 5 days during sales pitch in Madurai,2154.13,4000,Within limit,Y
+ITM00832,CLM10186,Local Cab,2026-01-14,Uber,4 cab rides during stay in Madurai,3828.93,7500,Within limit,Y
+ITM00833,CLM10187,Airfare,2026-08-09,IndiGo,Return flight Bengaluru - Udaipur (economy),17602.53,22000,Within limit,Y
+ITM00834,CLM10187,Hotel,2026-08-09,Hotel Sai Residency,3 nights stay in Udaipur (Hotel Sai Residency),7004.24,7500,Within limit,Y
+ITM00835,CLM10187,Meals,2026-08-10,Multiple vendors,Meals for 4 days during sales pitch in Udaipur,2034.98,3200,Within limit,Y
+ITM00836,CLM10187,Local Cab,2026-08-09,Meru Cabs,4 cab rides during stay in Udaipur,4250.75,6000,Within limit,Y
+ITM00837,CLM10188,Train,2025-09-29,IRCTC,Return train Delhi - Indore (3A),3003.99,6000,Within limit,Y
+ITM00838,CLM10188,Hotel,2025-09-29,Treebo Premium,2 nights stay in Indore (Treebo Premium),6945.31,7000,Within limit,Y
+ITM00839,CLM10188,Meals,2025-09-30,Multiple vendors,Meals for 3 days during sales pitch in Indore,1581.29,3000,Within limit,Y
+ITM00840,CLM10188,Local Cab,2025-09-29,Local taxi,5 cab rides during stay in Indore,2713.08,4500,Within limit,Y
+ITM00841,CLM10188,Phone & Internet,2025-10-01,Airtel,Data roaming and hotspot charges,614.17,1000,Within limit,Y
+ITM00842,CLM10189,Airfare,2025-11-19,Singapore Airlines,Return flight Pune - Dubai,64478.36,80000,Within limit,Y
+ITM00843,CLM10189,Visa & Forex,2025-11-19,VFS Global,Visa fees and forex card charges,12045.78,,Within limit,Y
+ITM00844,CLM10189,Hotel,2025-11-19,Radisson Blu,6 nights stay in Dubai (Radisson Blu),54391.92,72000,Within limit,Y
+ITM00845,CLM10189,Meals,2025-11-20,Multiple vendors,Meals for 7 days during vendor audit in Dubai,25743.38,31500,Within limit,Y
+ITM00846,CLM10189,Local Cab,2025-11-19,Meru Cabs,2 cab rides during stay in Dubai,7277.89,10500,Within limit,Y
+ITM00847,CLM10189,Client Entertainment,2025-11-20,Paradise Restaurant,Client dinner with 2 guests (vendor audit),6156.64,5000,Exceeds limit,Y
+ITM00848,CLM10190,Airfare,2025-10-29,Akasa Air,Return flight Mumbai - Gurugram (economy),10392.84,22000,Within limit,Y
+ITM00849,CLM10190,Hotel,2025-10-29,Lemon Tree Premier,3 nights stay in Gurugram (Lemon Tree Premier),12308.18,13500,Within limit,Y
+ITM00850,CLM10190,Meals,2025-10-30,Multiple vendors,Meals for 4 days during client meeting in Gurugram,4293.08,4800,Within limit,Y
+ITM00851,CLM10190,Local Cab,2025-10-29,Meru Cabs,3 cab rides during stay in Gurugram,9572.46,6000,Exceeds limit,Y
+ITM00852,CLM10191,Airfare,2025-07-29,Akasa Air,Return flight Mumbai - Bhubaneswar (economy),16406.85,22000,Within limit,Y
+ITM00853,CLM10191,Hotel,2025-07-29,ibis,5 nights stay in Bhubaneswar (ibis),16403.11,17500,Within limit,Y
+ITM00854,CLM10191,Meals,2025-07-30,Multiple vendors,Meals for 6 days during branch visit in Bhubaneswar,4898.77,6000,Within limit,Y
+ITM00855,CLM10191,Local Cab,2025-07-29,Local taxi,3 cab rides during stay in Bhubaneswar,4852.54,9000,Within limit,Y
+ITM00856,CLM10192,Airfare,2025-06-28,Air India,Return flight Hyderabad - Kochi (economy),10652.5,22000,Within limit,Y
+ITM00857,CLM10192,Hotel,2025-06-28,Treebo Premium,3 nights stay in Kochi (Treebo Premium),6854.86,10500,Within limit,Y
+ITM00858,CLM10192,Meals,2025-06-29,Multiple vendors,Meals for 4 days during vendor audit in Kochi,2628.09,4000,Within limit,Y
+ITM00859,CLM10192,Local Cab,2025-06-28,Meru Cabs,5 cab rides during stay in Kochi,2982.81,6000,Within limit,Y
+ITM00860,CLM10193,Airfare,2025-05-19,IndiGo,Return flight Delhi - Bengaluru (economy),12070.18,22000,Within limit,Y
+ITM00861,CLM10193,Hotel,2025-05-19,Lemon Tree Premier,5 nights stay in Bengaluru (Lemon Tree Premier),19572.83,22500,Within limit,Y
+ITM00862,CLM10193,Meals,2025-05-20,Multiple vendors,Meals for 6 days during client meeting in Bengaluru,4043.74,7200,Within limit,Y
+ITM00863,CLM10193,Local Cab,2025-05-19,Local taxi,2 cab rides during stay in Bengaluru,4346.49,9000,Within limit,Y
+ITM00864,CLM10193,Client Entertainment,2025-05-20,The Table,Client dinner with 4 guests (client meeting),6455.17,10000,Within limit,Y
+ITM00865,CLM10194,Airfare,2025-08-24,Akasa Air,Return flight Hyderabad - Chennai (economy),16892.38,22000,Within limit,Y
+ITM00866,CLM10194,Hotel,2025-08-24,Lemon Tree Premier,1 nights stay in Chennai (Lemon Tree Premier),3159.41,4500,Within limit,Y
+ITM00867,CLM10194,Meals,2025-08-25,Multiple vendors,Meals for 2 days during conference in Chennai,1990.8,2400,Within limit,Y
+ITM00868,CLM10194,Local Cab,2025-08-24,Uber,3 cab rides during stay in Chennai,1772.85,3000,Within limit,Y
+ITM00869,CLM10194,Conference Registration,2025-08-24,Event organiser,Registration fee - Chennai summit,22407.99,,Within limit,Y
+ITM00870,CLM10195,Train,2025-10-19,IRCTC,Return train Mumbai - Bhubaneswar (3A),1540.49,6000,Within limit,Y
+ITM00871,CLM10195,Hotel,2025-10-19,Fortune Inn,4 nights stay in Bhubaneswar (Fortune Inn),9506.77,14000,Within limit,Y
+ITM00872,CLM10195,Meals,2025-10-20,Multiple vendors,Meals for 5 days during sales pitch in Bhubaneswar,3414.79,5000,Within limit,Y
+ITM00873,CLM10195,Local Cab,2025-10-19,Meru Cabs,2 cab rides during stay in Bhubaneswar,5488.82,7500,Within limit,Y
+ITM00874,CLM10195,Client Entertainment,2025-10-20,Taj Dining,Client dinner with 4 guests (sales pitch),8211.48,10000,Within limit,Y
+ITM00875,CLM10196,Train,2026-09-19,IRCTC,Return train Pune - Kolkata (2A),1404.31,6000,Within limit,Y
+ITM00876,CLM10196,Hotel,2026-09-19,Lemon Tree Premier,4 nights stay in Kolkata (Lemon Tree Premier),21436.75,28000,Within limit,N
+ITM00877,CLM10196,Meals,2026-09-20,Multiple vendors,Meals for 5 days during quarterly business review in Kolkata,7503.68,9000,Receipt missing,N
+ITM00878,CLM10196,Local Cab,2026-09-19,Local taxi,4 cab rides during stay in Kolkata,2694.96,7500,Within limit,Y
+ITM00879,CLM10197,Airfare,2025-09-29,SpiceJet,Return flight Mumbai - Delhi (economy),17402.94,22000,Within limit,Y
+ITM00880,CLM10197,Hotel,2025-09-29,Courtyard by Marriott,1 nights stay in Delhi (Courtyard by Marriott),5733.59,7000,Within limit,Y
+ITM00881,CLM10197,Meals,2025-09-30,Multiple vendors,Meals for 2 days during conference in Delhi,3279.9,3600,Within limit,Y
+ITM00882,CLM10197,Local Cab,2025-09-29,Local taxi,3 cab rides during stay in Delhi,1985.53,3000,Within limit,Y
+ITM00883,CLM10197,Conference Registration,2025-09-29,Event organiser,Registration fee - Delhi summit,17980.57,,Within limit,Y
+ITM00884,CLM10198,Airfare,2026-03-31,IndiGo,Return flight Bengaluru - Delhi (economy),12962.45,22000,Within limit,Y
+ITM00885,CLM10198,Hotel,2026-03-31,Courtyard by Marriott,3 nights stay in Delhi (Courtyard by Marriott),9118.14,13500,Within limit,Y
+ITM00886,CLM10198,Meals,2026-04-01,Multiple vendors,Meals for 4 days during client meeting in Delhi,4197.4,4800,Within limit,Y
+ITM00887,CLM10198,Local Cab,2026-03-31,Uber,2 cab rides during stay in Delhi,3991.61,6000,Within limit,Y
+ITM00888,CLM10199,Airfare,2026-01-02,Air India,Return flight Pune - Visakhapatnam (economy),10186.74,22000,Within limit,Y
+ITM00889,CLM10199,Hotel,2026-01-02,Hotel Residency,2 nights stay in Visakhapatnam (Hotel Residency),7997.08,7000,Exceeds limit,Y
+ITM00890,CLM10199,Meals,2026-01-03,Multiple vendors,Meals for 3 days during customer onsite deployment in Visakhapatnam,2716.72,3000,Within limit,Y
+ITM00891,CLM10199,Local Cab,2026-01-02,Meru Cabs,3 cab rides during stay in Visakhapatnam,1916.4,4500,Within limit,Y
+ITM00892,CLM10199,Phone & Internet,2026-01-04,Airtel,Data roaming and hotspot charges,948.36,1000,Within limit,Y
+ITM00893,CLM10200,Airfare,2025-08-13,Akasa Air,Return flight Bengaluru - Chandigarh (economy),10950.41,22000,Within limit,Y
+ITM00894,CLM10200,Hotel,2025-08-13,Treebo Premium,4 nights stay in Chandigarh (Treebo Premium),11022.15,14000,Within limit,Y
+ITM00895,CLM10200,Meals,2025-08-14,Multiple vendors,Meals for 5 days during project kickoff in Chandigarh,4580.01,5000,Within limit,Y
+ITM00896,CLM10200,Local Cab,2025-08-13,Local taxi,4 cab rides during stay in Chandigarh,3918.19,7500,Within limit,Y
+ITM00897,CLM10200,Conference Registration,2025-08-13,Event organiser,Registration fee - Chandigarh summit,12394.1,,Within limit,Y
+ITM00898,CLM10201,Airfare,2025-09-19,British Airways,Return flight Hyderabad - London,64470.54,80000,Within limit,Y
+ITM00899,CLM10201,Visa & Forex,2025-09-19,VFS Global,Visa fees and forex card charges,10533.31,,Within limit,Y
+ITM00900,CLM10201,Hotel,2025-09-19,Novotel,5 nights stay in London (Novotel),38532.27,60000,Within limit,Y
+ITM00901,CLM10201,Meals,2025-09-20,Multiple vendors,Meals for 6 days during quarterly business review in London,13851.58,27000,Within limit,Y
+ITM00902,CLM10201,Local Cab,2025-09-19,Ola,3 cab rides during stay in London,4829.33,9000,Within limit,Y
+ITM00903,CLM10201,Client Entertainment,2025-09-20,Olive Bistro,Client dinner with 6 guests (quarterly business review),11964.19,15000,Within limit,Y
+ITM00904,CLM10202,Airfare,2025-11-23,Air India,Return flight Bengaluru - Hyderabad (economy),7238.4,22000,Within limit,Y
+ITM00905,CLM10202,Hotel,2025-11-23,Hyatt Regency,2 nights stay in Hyderabad (Hyatt Regency),5803.01,9000,Within limit,Y
+ITM00906,CLM10202,Meals,2025-11-24,Multiple vendors,Meals for 3 days during training workshop in Hyderabad,2453.73,3600,Within limit,Y
+ITM00907,CLM10202,Local Cab,2025-11-23,Ola,3 cab rides during stay in Hyderabad,3422.09,4500,Within limit,Y
+ITM00908,CLM10202,Client Entertainment,2025-11-24,Taj Dining,Client dinner with 3 guests (training workshop),4741.32,7500,Within limit,Y
+ITM00909,CLM10203,Airfare,2025-11-23,SpiceJet,Return flight Hyderabad - Coimbatore (economy),8330.44,22000,Within limit,Y
+ITM00910,CLM10203,Hotel,2025-11-23,Lemon Tree,3 nights stay in Coimbatore (Lemon Tree),6980.43,10500,Within limit,Y
+ITM00911,CLM10203,Meals,2025-11-24,Multiple vendors,Meals for 4 days during branch visit in Coimbatore,2739.25,4000,Within limit,Y
+ITM00912,CLM10203,Local Cab,2025-11-23,Ola,5 cab rides during stay in Coimbatore,2663.48,6000,Within limit,Y
+ITM00913,CLM10204,Airfare,2025-12-09,Air India,Return flight Delhi - Raipur (economy),10516.05,22000,Within limit,Y
+ITM00914,CLM10204,Hotel,2025-12-09,Treebo Trend,5 nights stay in Raipur (Treebo Trend),13887.75,20000,Within limit,Y
+ITM00915,CLM10204,Meals,2025-12-10,Multiple vendors,Meals for 6 days during client meeting in Raipur,9046.38,7200,Exceeds limit,Y
+ITM00916,CLM10204,Local Cab,2025-12-09,Uber,4 cab rides during stay in Raipur,7134.95,9000,Within limit,Y
+ITM00917,CLM10205,Airfare,2026-02-16,Air India,Return flight Hyderabad - Bengaluru (economy),18520.8,22000,Within limit,Y
+ITM00918,CLM10205,Hotel,2026-02-16,Hyatt Regency,1 nights stay in Bengaluru (Hyatt Regency),3281.46,4500,Within limit,Y
+ITM00919,CLM10205,Meals,2026-02-17,Multiple vendors,Meals for 2 days during sales pitch in Bengaluru,1854.12,2400,Within limit,Y
+ITM00920,CLM10205,Local Cab,2026-02-16,Meru Cabs,2 cab rides during stay in Bengaluru,2118.27,3000,Within limit,Y
+ITM00921,CLM10205,Phone & Internet,2026-02-17,Airtel,Data roaming and hotspot charges,809.19,1000,Within limit,Y
+ITM00922,CLM10206,Train,2025-09-13,IRCTC,Return train Bengaluru - Pune (2A),1377.57,6000,Within limit,Y
+ITM00923,CLM10206,Hotel,2025-09-13,Lemon Tree Premier,1 nights stay in Pune (Lemon Tree Premier),7618.39,7000,Exceeds limit,Y
+ITM00924,CLM10206,Meals,2025-09-14,Multiple vendors,Meals for 2 days during vendor audit in Pune,2276.65,3600,Within limit,Y
+ITM00925,CLM10206,Local Cab,2025-09-13,Local taxi,4 cab rides during stay in Pune,1112.36,3000,Within limit,Y
+ITM00926,CLM10206,Client Entertainment,2025-09-14,Taj Dining,Client dinner with 2 guests (vendor audit),3030.96,5000,Within limit,Y
+ITM00927,CLM10207,Airfare,2026-03-20,Air India,Return flight Hyderabad - Chennai (economy),11905.24,22000,Within limit,Y
+ITM00928,CLM10207,Hotel,2026-03-20,Lemon Tree Premier,3 nights stay in Chennai (Lemon Tree Premier),9134.01,13500,Within limit,Y
+ITM00929,CLM10207,Meals,2026-03-21,Multiple vendors,Meals for 4 days during branch visit in Chennai,3768.92,4800,Within limit,Y
+ITM00930,CLM10207,Local Cab,2026-03-20,Local taxi,3 cab rides during stay in Chennai,1774.11,6000,Within limit,Y
+ITM00931,CLM10208,Train,2025-05-12,IRCTC,Return train Bengaluru - Kolkata (2A),3396.88,6000,Within limit,Y
+ITM00932,CLM10208,Hotel,2025-05-12,Radisson Blu,2 nights stay in Kolkata (Radisson Blu),9431.88,14000,Within limit,Y
+ITM00933,CLM10208,Meals,2025-05-13,Multiple vendors,Meals for 3 days during vendor audit in Kolkata,3460.13,5400,Within limit,Y
+ITM00934,CLM10208,Local Cab,2025-05-12,Meru Cabs,2 cab rides during stay in Kolkata,2115.43,4500,Within limit,Y
+ITM00935,CLM10209,Airfare,2026-07-22,Akasa Air,Return flight Bengaluru - Hyderabad (economy),17110.7,22000,Within limit,Y
+ITM00936,CLM10209,Hotel,2026-07-22,Novotel,3 nights stay in Hyderabad (Novotel),16073.06,21000,Within limit,Y
+ITM00937,CLM10209,Meals,2026-07-23,Multiple vendors,Meals for 4 days during client meeting in Hyderabad,4236.48,7200,Within limit,Y
+ITM00938,CLM10209,Local Cab,2026-07-22,Uber,3 cab rides during stay in Hyderabad,2792.73,6000,Within limit,Y
+ITM00939,CLM10209,Conference Registration,2026-07-22,Event organiser,Registration fee - Hyderabad summit,4181.06,,Within limit,Y
+ITM00940,CLM10210,Train,2025-12-25,IRCTC,Return train Mumbai - Bengaluru (2A),2724.42,6000,Within limit,Y
+ITM00941,CLM10210,Hotel,2025-12-25,Lemon Tree Premier,2 nights stay in Bengaluru (Lemon Tree Premier),22174.25,28000,Within limit,Y
+ITM00942,CLM10210,Meals,2025-12-26,Multiple vendors,Meals for 3 days during branch visit in Bengaluru,6994.12,9600,Within limit,Y
+ITM00943,CLM10210,Local Cab,2025-12-25,Uber,4 cab rides during stay in Bengaluru,3216.83,4500,Within limit,Y
+ITM00944,CLM10210,Client Entertainment,2025-12-26,Paradise Restaurant,Client dinner with 2 guests (branch visit),3767.37,5000,Within limit,Y
+ITM00945,CLM10211,Airfare,2026-08-11,Singapore Airlines,Return flight Hyderabad - Dubai,65262.84,80000,Within limit,Y
+ITM00946,CLM10211,Visa & Forex,2026-08-11,VFS Global,Visa fees and forex card charges,13927.71,,Within limit,Y
+ITM00947,CLM10211,Hotel,2026-08-11,Hyatt Regency,6 nights stay in Dubai (Hyatt Regency),48221.75,72000,Within limit,Y
+ITM00948,CLM10211,Meals,2026-08-12,Multiple vendors,Meals for 7 days during sales pitch in Dubai,18373.7,31500,Within limit,Y
+ITM00949,CLM10211,Local Cab,2026-08-11,Uber,2 cab rides during stay in Dubai,5486.15,10500,Within limit,Y
+ITM00950,CLM10212,Airfare,2026-06-14,Air India,Return flight Bengaluru - Jaipur (economy),13422.25,22000,Within limit,Y
+ITM00951,CLM10212,Hotel,2026-06-14,Hotel Residency,4 nights stay in Jaipur (Hotel Residency),19615.91,22000,Within limit,Y
+ITM00952,CLM10212,Meals,2026-06-15,Multiple vendors,Meals for 5 days during branch visit in Jaipur,8644.67,7500,Exceeds limit,Y
+ITM00953,CLM10212,Local Cab,2026-06-14,Meru Cabs,2 cab rides during stay in Jaipur,3975.14,7500,Within limit,Y
+ITM00954,CLM10213,Airfare,2026-02-02,IndiGo,Return flight Hyderabad - Indore (economy),16433.67,22000,Within limit,Y
+ITM00955,CLM10213,Hotel,2026-02-02,ibis,4 nights stay in Indore (ibis),15952.62,14000,Exceeds limit,Y
+ITM00956,CLM10213,Meals,2026-02-03,Multiple vendors,Meals for 5 days during customer onsite deployment in Indore,3964.4,5000,Within limit,Y
+ITM00957,CLM10213,Local Cab,2026-02-02,Local taxi,2 cab rides during stay in Indore,3704.6,7500,Within limit,Y
+ITM00958,CLM10213,Client Entertainment,2026-02-03,Paradise Restaurant,Client dinner with 6 guests (customer onsite deployment),10928.69,15000,Within limit,Y
+ITM00959,CLM10214,Airfare,2026-07-31,Air India,Return flight Hyderabad - Bhubaneswar (economy),15427.63,22000,Within limit,Y
+ITM00960,CLM10214,Hotel,2026-07-31,Treebo Premium,5 nights stay in Bhubaneswar (Treebo Premium),22067.17,27500,Within limit,Y
+ITM00961,CLM10214,Meals,2026-08-01,Multiple vendors,Meals for 6 days during vendor audit in Bhubaneswar,6845.5,9000,Within limit,Y
+ITM00962,CLM10214,Local Cab,2026-07-31,Meru Cabs,3 cab rides during stay in Bhubaneswar,3447.08,9000,Within limit,Y
+ITM00963,CLM10215,Airfare,2025-05-01,IndiGo,Return flight Hyderabad - Bengaluru (economy),11678.41,22000,Within limit,Y
+ITM00964,CLM10215,Hotel,2025-05-01,Hyatt Regency,3 nights stay in Bengaluru (Hyatt Regency),12896.62,13500,Within limit,Y
+ITM00965,CLM10215,Meals,2025-05-02,Multiple vendors,Meals for 4 days during branch visit in Bengaluru,2512.15,4800,Within limit,Y
+ITM00966,CLM10215,Local Cab,2025-05-01,Uber,2 cab rides during stay in Bengaluru,1538.2,6000,Within limit,Y
+ITM00967,CLM10216,Airfare,2025-08-08,SpiceJet,Return flight Bengaluru - Indore (economy),13895.9,22000,Within limit,Y
+ITM00968,CLM10216,Hotel,2025-08-08,ibis,5 nights stay in Indore (ibis),12400.82,17500,Within limit,Y
+ITM00969,CLM10216,Meals,2025-08-09,Multiple vendors,Meals for 6 days during sales pitch in Indore,7312.94,6000,Exceeds limit,Y
+ITM00970,CLM10216,Local Cab,2025-08-08,Ola,3 cab rides during stay in Indore,3829.22,9000,Within limit,Y
+ITM00971,CLM10216,Phone & Internet,2025-08-13,Airtel,Data roaming and hotspot charges,686.08,1000,Within limit,Y
+ITM00972,CLM10217,Airfare,2025-07-24,Air India,Return flight Bengaluru - Singapore,59943.93,80000,Within limit,Y
+ITM00973,CLM10217,Visa & Forex,2025-07-24,VFS Global,Visa fees and forex card charges,4676.0,,Within limit,Y
+ITM00974,CLM10217,Hotel,2025-07-24,Taj Vivanta,5 nights stay in Singapore (Taj Vivanta),55468.37,80000,Within limit,Y
+ITM00975,CLM10217,Meals,2025-07-25,Multiple vendors,Meals for 6 days during customer onsite deployment in Singapore,29892.98,36000,Within limit,Y
+ITM00976,CLM10217,Local Cab,2025-07-24,Uber,3 cab rides during stay in Singapore,4971.54,9000,Within limit,Y
+ITM00977,CLM10218,Airfare,2026-01-11,IndiGo,Return flight Hyderabad - Vijayawada (economy),12633.07,22000,Within limit,Y
+ITM00978,CLM10218,Hotel,2026-01-11,Treebo Trend,2 nights stay in Vijayawada (Treebo Trend),4616.65,5000,Within limit,Y
+ITM00979,CLM10218,Meals,2026-01-12,Multiple vendors,Meals for 3 days during branch visit in Vijayawada,2123.58,2400,Within limit,Y
+ITM00980,CLM10218,Local Cab,2026-01-11,Uber,5 cab rides during stay in Vijayawada,1880.55,4500,Within limit,Y
+ITM00981,CLM10218,Client Entertainment,2026-01-12,The Table,Client dinner with 3 guests (branch visit),5000.66,7500,Within limit,Y
+ITM00982,CLM10219,Airfare,2025-11-09,SpiceJet,Return flight Pune - Kochi (economy),9094.14,22000,Within limit,Y
+ITM00983,CLM10219,Hotel,2025-11-09,Fortune Inn,2 nights stay in Kochi (Fortune Inn),5342.01,7000,Within limit,Y
+ITM00984,CLM10219,Meals,2025-11-10,Multiple vendors,Meals for 3 days during vendor audit in Kochi,2685.6,3000,Within limit,Y
+ITM00985,CLM10219,Local Cab,2025-11-09,Uber,4 cab rides during stay in Kochi,2506.99,4500,Within limit,Y
+ITM00986,CLM10220,Airfare,2026-01-02,Air India,Return flight Pune - Bengaluru (economy),14632.42,22000,Within limit,Y
+ITM00987,CLM10220,Hotel,2026-01-02,Novotel,1 nights stay in Bengaluru (Novotel),3684.03,4500,Within limit,Y
+ITM00988,CLM10220,Meals,2026-01-03,Multiple vendors,Meals for 2 days during recruitment drive in Bengaluru,1235.2,2400,Within limit,Y
+ITM00989,CLM10220,Local Cab,2026-01-02,Uber,4 cab rides during stay in Bengaluru,863.24,3000,Within limit,Y
+ITM00990,CLM10221,Airfare,2025-09-01,Akasa Air,Return flight Pune - Madurai (economy),11862.14,22000,Within limit,Y
+ITM00991,CLM10221,Hotel,2025-09-01,Hotel Sai Residency,4 nights stay in Madurai (Hotel Sai Residency),8836.26,10000,Within limit,Y
+ITM00992,CLM10221,Meals,2025-09-02,Multiple vendors,Meals for 5 days during training workshop in Madurai,3369.24,4000,Within limit,Y
+ITM00993,CLM10221,Local Cab,2025-09-01,Uber,3 cab rides during stay in Madurai,4770.71,7500,Within limit,Y
+ITM00994,CLM10221,Client Entertainment,2025-09-02,The Table,Client dinner with 2 guests (training workshop),3297.8,5000,Within limit,Y
+ITM00995,CLM10222,Airfare,2026-08-15,Akasa Air,Return flight Delhi - Gurugram (economy),8387.69,22000,Within limit,Y
+ITM00996,CLM10222,Hotel,2026-08-15,Lemon Tree Premier,4 nights stay in Gurugram (Lemon Tree Premier),27495.8,28000,Within limit,Y
+ITM00997,CLM10222,Meals,2026-08-16,Multiple vendors,Meals for 5 days during sales pitch in Gurugram,8199.98,9000,Within limit,Y
+ITM00998,CLM10222,Local Cab,2026-08-15,Local taxi,3 cab rides during stay in Gurugram,2907.17,7500,Within limit,Y
+ITM00999,CLM10223,Airfare,2025-07-06,Akasa Air,Return flight Gurugram - Bengaluru (economy),30786.4,22000,Exceeds limit,Y
+ITM01000,CLM10223,Hotel,2025-07-06,Radisson Blu,1 nights stay in Bengaluru (Radisson Blu),4440.2,7000,Within limit,Y
+ITM01001,CLM10223,Meals,2025-07-07,Multiple vendors,Meals for 2 days during recruitment drive in Bengaluru,2300.6,3600,Within limit,Y
+ITM01002,CLM10223,Local Cab,2025-07-06,Ola,3 cab rides during stay in Bengaluru,929.92,3000,Within limit,Y
+ITM01003,CLM10223,Phone & Internet,2025-07-07,Airtel,Data roaming and hotspot charges,660.35,1000,Within limit,Y
+ITM01004,CLM10224,Train,2025-09-22,IRCTC,Return train Hyderabad - Nagpur (2A),2233.23,6000,Within limit,Y
+ITM01005,CLM10224,Hotel,2025-09-22,Treebo Premium,2 nights stay in Nagpur (Treebo Premium),7729.89,11000,Within limit,Y
+ITM01006,CLM10224,Meals,2025-09-23,Multiple vendors,Meals for 3 days during quarterly business review in Nagpur,4095.46,4500,Within limit,Y
+ITM01007,CLM10224,Local Cab,2025-09-22,Meru Cabs,3 cab rides during stay in Nagpur,2215.77,4500,Within limit,Y
+ITM01008,CLM10225,Airfare,2026-04-29,IndiGo,Return flight Bengaluru - Visakhapatnam (economy),16312.42,22000,Within limit,Y
+ITM01009,CLM10225,Hotel,2026-04-29,Treebo Premium,2 nights stay in Visakhapatnam (Treebo Premium),4808.77,7000,Within limit,Y
+ITM01010,CLM10225,Meals,2026-04-30,Multiple vendors,Meals for 3 days during conference in Visakhapatnam,3603.3,3000,Exceeds limit,Y
+ITM01011,CLM10225,Local Cab,2026-04-29,Ola,5 cab rides during stay in Visakhapatnam,1972.34,4500,Within limit,Y
+ITM01012,CLM10225,Conference Registration,2026-04-29,Event organiser,Registration fee - Visakhapatnam summit,10222.49,,Within limit,Y
+ITM01013,CLM10226,Airfare,2026-08-24,SpiceJet,Return flight Mumbai - Bengaluru (economy),9723.12,22000,Within limit,Y
+ITM01014,CLM10226,Hotel,2026-08-24,Radisson Blu,2 nights stay in Bengaluru (Radisson Blu),11466.43,14000,Within limit,Y
+ITM01015,CLM10226,Meals,2026-08-25,Multiple vendors,Meals for 3 days during customer onsite deployment in Bengaluru,4037.82,5400,Within limit,Y
+ITM01016,CLM10226,Local Cab,2026-08-24,Uber,3 cab rides during stay in Bengaluru,2843.32,4500,Within limit,Y
+ITM01017,CLM10227,Airfare,2026-07-27,IndiGo,Return flight Chennai - Chandigarh (economy),30223.06,22000,Exceeds limit,Y
+ITM01018,CLM10227,Hotel,2026-07-27,Lemon Tree,3 nights stay in Chandigarh (Lemon Tree),7198.13,10500,Within limit,Y
+ITM01019,CLM10227,Meals,2026-07-28,Multiple vendors,Meals for 4 days during recruitment drive in Chandigarh,2747.65,4000,Within limit,Y
+ITM01020,CLM10227,Local Cab,2026-07-27,Uber,2 cab rides during stay in Chandigarh,4747.47,6000,Within limit,Y
+ITM01021,CLM10228,Train,2025-05-01,IRCTC,Return train Gurugram - Nagpur (2A),2745.92,6000,Within limit,Y
+ITM01022,CLM10228,Hotel,2025-05-01,Fortune Inn,5 nights stay in Nagpur (Fortune Inn),20387.52,27500,Within limit,Y
+ITM01023,CLM10228,Meals,2025-05-02,Multiple vendors,Meals for 6 days during vendor audit in Nagpur,13050.52,9000,Exceeds limit,Y
+ITM01024,CLM10228,Local Cab,2025-05-01,Ola,2 cab rides during stay in Nagpur,3240.12,9000,Within limit,Y
+ITM01025,CLM10229,Airfare,2026-04-12,Air India,Return flight Hyderabad - Chennai (economy),8865.08,22000,Within limit,Y
+ITM01026,CLM10229,Hotel,2026-04-12,Novotel,3 nights stay in Chennai (Novotel),18647.54,21000,Within limit,Y
+ITM01027,CLM10229,Meals,2026-04-13,Multiple vendors,Meals for 4 days during customer onsite deployment in Chennai,5302.37,7200,Within limit,Y
+ITM01028,CLM10229,Local Cab,2026-04-12,Uber,4 cab rides during stay in Chennai,2857.25,6000,Within limit,Y
+ITM01029,CLM10230,Airfare,2025-07-02,Akasa Air,Return flight Gurugram - Kochi (economy),17598.94,22000,Within limit,Y
+ITM01030,CLM10230,Hotel,2025-07-02,Lemon Tree,5 nights stay in Kochi (Lemon Tree),12443.78,17500,Within limit,Y
+ITM01031,CLM10230,Meals,2025-07-03,Multiple vendors,Meals for 6 days during client meeting in Kochi,3239.47,6000,Within limit,Y
+ITM01032,CLM10230,Local Cab,2025-07-02,Ola,3 cab rides during stay in Kochi,7139.6,9000,Within limit,Y
+ITM01033,CLM10231,Airfare,2025-08-16,Singapore Airlines,Return flight Mumbai - Singapore,74288.12,80000,Within limit,Y
+ITM01034,CLM10231,Visa & Forex,2025-08-16,VFS Global,Visa fees and forex card charges,8354.31,,Within limit,Y
+ITM01035,CLM10231,Hotel,2025-08-16,Radisson Blu,4 nights stay in Singapore (Radisson Blu),58166.36,64000,Within limit,Y
+ITM01036,CLM10231,Meals,2025-08-17,Multiple vendors,Meals for 5 days during customer onsite deployment in Singapore,24855.31,30000,Within limit,Y
+ITM01037,CLM10231,Local Cab,2025-08-16,Local taxi,4 cab rides during stay in Singapore,4973.45,7500,Within limit,Y
+ITM01038,CLM10232,Train,2026-08-29,IRCTC,Return train Hyderabad - Gurugram (3A),1513.82,6000,Within limit,Y
+ITM01039,CLM10232,Hotel,2026-08-29,Courtyard by Marriott,1 nights stay in Gurugram (Courtyard by Marriott),3540.02,4500,Within limit,Y
+ITM01040,CLM10232,Meals,2026-08-30,Multiple vendors,Meals for 2 days during training workshop in Gurugram,1479.78,2400,Within limit,Y
+ITM01041,CLM10232,Local Cab,2026-08-29,Meru Cabs,3 cab rides during stay in Gurugram,1383.61,3000,Within limit,Y
+ITM01042,CLM10233,Train,2026-08-13,IRCTC,Return train Mumbai - Coimbatore (3A),2172.37,6000,Within limit,Y
+ITM01043,CLM10233,Hotel,2026-08-13,Lemon Tree,5 nights stay in Coimbatore (Lemon Tree),16224.42,17500,Within limit,Y
+ITM01044,CLM10233,Meals,2026-08-14,Multiple vendors,Meals for 6 days during client meeting in Coimbatore,3198.11,6000,Within limit,Y
+ITM01045,CLM10233,Local Cab,2026-08-13,Local taxi,4 cab rides during stay in Coimbatore,3126.2,9000,Within limit,Y
+ITM01046,CLM10234,Airfare,2026-05-16,SpiceJet,Return flight Bengaluru - Guwahati (economy),11103.3,22000,Within limit,Y
+ITM01047,CLM10234,Hotel,2026-05-16,Hotel Sai Residency,5 nights stay in Guwahati (Hotel Sai Residency),9051.34,12500,Within limit,Y
+ITM01048,CLM10234,Meals,2026-05-17,Multiple vendors,Meals for 6 days during training workshop in Guwahati,2976.4,4800,Within limit,Y
+ITM01049,CLM10234,Local Cab,2026-05-16,Local taxi,5 cab rides during stay in Guwahati,2550.83,9000,Within limit,Y
+ITM01050,CLM10234,Client Entertainment,2026-05-17,Taj Dining,Client dinner with 5 guests (training workshop),18984.99,12500,Exceeds limit,Y
+ITM01051,CLM10235,Airfare,2026-07-20,Air India,Return flight Bengaluru - London,76760.24,160000,Within limit,Y
+ITM01052,CLM10235,Visa & Forex,2026-07-20,VFS Global,Visa fees and forex card charges,6058.35,,Within limit,Y
+ITM01053,CLM10235,Hotel,2026-07-20,Novotel,7 nights stay in London (Novotel),186272.36,210000,Within limit,Y
+ITM01054,CLM10235,Meals,2026-07-21,Multiple vendors,Meals for 8 days during client meeting in London,48332.9,80000,Within limit,Y
+ITM01055,CLM10235,Local Cab,2026-07-20,Meru Cabs,5 cab rides during stay in London,3038.04,12000,Within limit,Y
+ITM01056,CLM10236,Airfare,2025-10-10,Akasa Air,Return flight Hyderabad - Gurugram (economy),7524.01,22000,Within limit,Y
+ITM01057,CLM10236,Hotel,2025-10-10,Taj Vivanta,2 nights stay in Gurugram (Taj Vivanta),8862.26,9000,Within limit,Y
+ITM01058,CLM10236,Meals,2025-10-11,Multiple vendors,Meals for 3 days during recruitment drive in Gurugram,3187.86,3600,Within limit,Y
+ITM01059,CLM10236,Local Cab,2025-10-10,Local taxi,5 cab rides during stay in Gurugram,3025.23,4500,Within limit,Y
+ITM01060,CLM10236,Client Entertainment,2025-10-11,Taj Dining,Client dinner with 5 guests (recruitment drive),10799.26,12500,Within limit,Y
+ITM01061,CLM10236,Phone & Internet,2025-10-12,Airtel,Data roaming and hotspot charges,826.12,1000,Within limit,Y
+ITM01062,CLM10237,Train,2026-08-03,IRCTC,Return train Mumbai - Chandigarh (3A),2376.64,6000,Within limit,Y
+ITM01063,CLM10237,Hotel,2026-08-03,Lemon Tree,2 nights stay in Chandigarh (Lemon Tree),5634.75,7000,Within limit,Y
+ITM01064,CLM10237,Meals,2026-08-04,Multiple vendors,Meals for 3 days during customer onsite deployment in Chandigarh,2119.29,3000,Within limit,Y
+ITM01065,CLM10237,Local Cab,2026-08-03,Meru Cabs,3 cab rides during stay in Chandigarh,2134.67,4500,Within limit,Y
+ITM01066,CLM10238,Airfare,2026-09-28,Air India,Return flight Pune - Gurugram (economy),15773.19,22000,Within limit,Y
+ITM01067,CLM10238,Hotel,2026-09-28,Hyatt Regency,5 nights stay in Gurugram (Hyatt Regency),14790.82,22500,Within limit,Y
+ITM01068,CLM10238,Meals,2026-09-29,Multiple vendors,Meals for 6 days during conference in Gurugram,6065.41,7200,Within limit,Y
+ITM01069,CLM10238,Local Cab,2026-09-28,Ola,3 cab rides during stay in Gurugram,2399.92,9000,Within limit,Y
+ITM01070,CLM10238,Conference Registration,2026-09-28,Event organiser,Registration fee - Gurugram summit,13938.49,,Within limit,Y
+ITM01071,CLM10239,Airfare,2025-09-05,SpiceJet,Return flight Bengaluru - Kochi (economy),9045.71,22000,Within limit,Y
+ITM01072,CLM10239,Hotel,2025-09-05,Fortune Inn,5 nights stay in Kochi (Fortune Inn),19006.99,27500,Within limit,Y
+ITM01073,CLM10239,Meals,2025-09-06,Multiple vendors,Meals for 6 days during conference in Kochi,6855.91,9000,Within limit,Y
+ITM01074,CLM10239,Local Cab,2025-09-05,Meru Cabs,2 cab rides during stay in Kochi,3100.12,9000,Within limit,Y
+ITM01075,CLM10239,Conference Registration,2025-09-05,Event organiser,Registration fee - Kochi summit,10081.96,,Within limit,Y
+ITM01076,CLM10240,Airfare,2025-08-09,Air India,Return flight Mumbai - Chennai (economy),10700.82,22000,Within limit,Y
+ITM01077,CLM10240,Hotel,2025-08-09,Taj Vivanta,2 nights stay in Chennai (Taj Vivanta),8706.77,14000,Within limit,Y
+ITM01078,CLM10240,Meals,2025-08-10,Multiple vendors,Meals for 3 days during vendor audit in Chennai,2938.75,5400,Within limit,Y
+ITM01079,CLM10240,Local Cab,2025-08-09,Ola,4 cab rides during stay in Chennai,3249.51,4500,Within limit,Y
+ITM01080,CLM10240,Client Entertainment,2025-08-10,Olive Bistro,Client dinner with 6 guests (vendor audit),9323.94,15000,Within limit,Y
+ITM01081,CLM10241,Airfare,2025-11-15,Akasa Air,Return flight Hyderabad - Ahmedabad (economy),17936.95,22000,Within limit,Y
+ITM01082,CLM10241,Hotel,2025-11-15,Treebo Premium,1 nights stay in Ahmedabad (Treebo Premium),3056.35,3500,Within limit,Y
+ITM01083,CLM10241,Meals,2025-11-16,Multiple vendors,Meals for 2 days during training workshop in Ahmedabad,1003.23,2000,Within limit,Y
+ITM01084,CLM10241,Local Cab,2025-11-15,Local taxi,4 cab rides during stay in Ahmedabad,1915.25,3000,Within limit,Y
+ITM01085,CLM10242,Train,2026-01-13,IRCTC,Return train Bengaluru - Bhubaneswar (3A),4105.1,6000,Within limit,Y
+ITM01086,CLM10242,Hotel,2026-01-13,Hotel Residency,5 nights stay in Bhubaneswar (Hotel Residency),12121.51,17500,Within limit,Y
+ITM01087,CLM10242,Meals,2026-01-14,Multiple vendors,Meals for 6 days during quarterly business review in Bhubaneswar,3730.43,6000,Within limit,Y
+ITM01088,CLM10242,Local Cab,2026-01-13,Local taxi,4 cab rides during stay in Bhubaneswar,5960.14,9000,Within limit,Y
+ITM01089,CLM10243,Airfare,2025-06-16,Air India,Return flight Kolkata - Chandigarh (economy),16917.21,22000,Within limit,Y
+ITM01090,CLM10243,Hotel,2025-06-16,Treebo Premium,2 nights stay in Chandigarh (Treebo Premium),7016.57,11000,Within limit,Y
+ITM01091,CLM10243,Meals,2025-06-17,Multiple vendors,Meals for 3 days during vendor audit in Chandigarh,4076.86,4500,Within limit,Y
+ITM01092,CLM10243,Local Cab,2025-06-16,Local taxi,4 cab rides during stay in Chandigarh,1224.8,4500,Within limit,Y
+ITM01093,CLM10244,Airfare,2025-08-28,SpiceJet,Return flight Hyderabad - Kolkata (economy),12950.08,22000,Within limit,Y
+ITM01094,CLM10244,Hotel,2025-08-28,Hyatt Regency,3 nights stay in Kolkata (Hyatt Regency),11818.25,13500,Within limit,Y
+ITM01095,CLM10244,Meals,2025-08-29,Multiple vendors,Meals for 4 days during quarterly business review in Kolkata,3138.05,4800,Within limit,Y
+ITM01096,CLM10244,Local Cab,2025-08-28,Ola,3 cab rides during stay in Kolkata,2740.49,6000,Within limit,Y
+ITM01097,CLM10245,Airfare,2026-01-06,Air India,Return flight Mumbai - Udaipur (economy),15470.48,22000,Within limit,Y
+ITM01098,CLM10245,Hotel,2026-01-06,FabHotel Prime,2 nights stay in Udaipur (FabHotel Prime),6559.71,8000,Within limit,Y
+ITM01099,CLM10245,Meals,2026-01-07,Multiple vendors,Meals for 3 days during project kickoff in Udaipur,1843.94,3600,Within limit,Y
+ITM01100,CLM10245,Local Cab,2026-01-06,Local taxi,4 cab rides during stay in Udaipur,2724.8,4500,Within limit,Y
+ITM01101,CLM10245,Client Entertainment,2026-01-07,Olive Bistro,Client dinner with 2 guests (project kickoff),4118.59,5000,Within limit,Y
+ITM01102,CLM10246,Airfare,2025-08-01,Akasa Air,Return flight Delhi - Ahmedabad (economy),14126.84,22000,Within limit,Y
+ITM01103,CLM10246,Hotel,2025-08-01,Hotel Residency,3 nights stay in Ahmedabad (Hotel Residency),9544.82,10500,Within limit,Y
+ITM01104,CLM10246,Meals,2025-08-02,Multiple vendors,Meals for 4 days during customer onsite deployment in Ahmedabad,3400.84,4000,Within limit,Y
+ITM01105,CLM10246,Local Cab,2025-08-01,Local taxi,2 cab rides during stay in Ahmedabad,2505.47,6000,Within limit,Y
+ITM01106,CLM10247,Airfare,2026-02-21,Akasa Air,Return flight Bengaluru - Lucknow (economy),7112.16,22000,Within limit,Y
+ITM01107,CLM10247,Hotel,2026-02-21,ibis,5 nights stay in Lucknow (ibis),26334.45,27500,Within limit,Y
+ITM01108,CLM10247,Meals,2026-02-22,Multiple vendors,Meals for 6 days during conference in Lucknow,8072.03,9000,Within limit,Y
+ITM01109,CLM10247,Local Cab,2026-02-21,Uber,3 cab rides during stay in Lucknow,4795.06,9000,Within limit,Y
+ITM01110,CLM10247,Conference Registration,2026-02-21,Event organiser,Registration fee - Lucknow summit,13815.41,,Within limit,Y
+ITM01111,CLM10248,Train,2026-03-30,IRCTC,Return train Gurugram - Mumbai (3A),3874.53,6000,Within limit,Y
+ITM01112,CLM10248,Hotel,2026-03-30,Taj Vivanta,2 nights stay in Mumbai (Taj Vivanta),8666.54,9000,Within limit,Y
+ITM01113,CLM10248,Meals,2026-03-31,Multiple vendors,Meals for 3 days during conference in Mumbai,3144.08,3600,Within limit,Y
+ITM01114,CLM10248,Local Cab,2026-03-30,Uber,5 cab rides during stay in Mumbai,1942.57,4500,Within limit,Y
+ITM01115,CLM10248,Conference Registration,2026-03-30,Event organiser,Registration fee - Mumbai summit,10133.88,,Within limit,Y
+ITM01116,CLM10248,Phone & Internet,2026-04-01,Airtel,Data roaming and hotspot charges,851.28,1000,Within limit,Y
+ITM01117,CLM10249,Airfare,2026-09-05,Air India,Return flight Hyderabad - Dehradun (economy),16228.2,22000,Within limit,Y
+ITM01118,CLM10249,Hotel,2026-09-05,Hotel Sai Residency,3 nights stay in Dehradun (Hotel Sai Residency),6821.28,7500,Within limit,Y
+ITM01119,CLM10249,Meals,2026-09-06,Multiple vendors,Meals for 4 days during client meeting in Dehradun,1614.05,3200,Within limit,Y
+ITM01120,CLM10249,Local Cab,2026-09-05,Ola,2 cab rides during stay in Dehradun,3704.38,6000,Within limit,Y
+ITM01121,CLM10249,Phone & Internet,2026-09-08,Airtel,Data roaming and hotspot charges,351.71,1000,Within limit,Y
+ITM01122,CLM10250,Airfare,2026-08-09,SpiceJet,Return flight Hyderabad - Pune (economy),8113.21,22000,Within limit,Y
+ITM01123,CLM10250,Hotel,2026-08-09,Hyatt Regency,1 nights stay in Pune (Hyatt Regency),4432.0,4500,Within limit,Y
+ITM01124,CLM10250,Meals,2026-08-10,Multiple vendors,Meals for 2 days during vendor audit in Pune,1941.55,2400,Within limit,Y
+ITM01125,CLM10250,Local Cab,2026-08-09,Ola,5 cab rides during stay in Pune,1147.48,3000,Within limit,Y
+ITM01126,CLM10250,Client Entertainment,2026-08-10,Paradise Restaurant,Client dinner with 6 guests (vendor audit),11746.89,15000,Within limit,Y
+ITM01127,CLM10251,Airfare,2026-04-28,Akasa Air,Return flight Bengaluru - Mumbai (economy),15520.68,22000,Within limit,Y
+ITM01128,CLM10251,Hotel,2026-04-28,Hyatt Regency,3 nights stay in Mumbai (Hyatt Regency),12283.16,13500,Within limit,Y
+ITM01129,CLM10251,Meals,2026-04-29,Multiple vendors,Meals for 4 days during training workshop in Mumbai,3136.44,4800,Within limit,Y
+ITM01130,CLM10251,Local Cab,2026-04-28,Ola,3 cab rides during stay in Mumbai,4531.79,6000,Within limit,Y
+ITM01131,CLM10252,Train,2026-07-05,IRCTC,Return train Bengaluru - Delhi (2A),3966.67,6000,Within limit,Y
+ITM01132,CLM10252,Hotel,2026-07-05,Taj Vivanta,2 nights stay in Delhi (Taj Vivanta),11964.47,14000,Within limit,Y
+ITM01133,CLM10252,Meals,2026-07-06,Multiple vendors,Meals for 3 days during customer onsite deployment in Delhi,4383.89,5400,Within limit,Y
+ITM01134,CLM10252,Local Cab,2026-07-05,Ola,3 cab rides during stay in Delhi,3206.28,4500,Receipt missing,N
+ITM01135,CLM10252,Client Entertainment,2026-07-06,Taj Dining,Client dinner with 5 guests (customer onsite deployment),8561.04,12500,Within limit,Y
+ITM01136,CLM10252,Conference Registration,2026-07-05,Event organiser,Registration fee - Delhi summit,5257.96,,Within limit,Y
+ITM01137,CLM10253,Airfare,2025-10-23,IndiGo,Return flight Delhi - Udaipur (economy),8482.25,22000,Within limit,Y
+ITM01138,CLM10253,Hotel,2025-10-23,Hotel Grand Orchid,2 nights stay in Udaipur (Hotel Grand Orchid),4990.37,8000,Receipt missing,N
+ITM01139,CLM10253,Meals,2025-10-24,Multiple vendors,Meals for 3 days during quarterly business review in Udaipur,1856.94,3600,Within limit,Y
+ITM01140,CLM10253,Local Cab,2025-10-23,Ola,4 cab rides during stay in Udaipur,3223.6,4500,Within limit,Y
+ITM01141,CLM10253,Conference Registration,2025-10-23,Event organiser,Registration fee - Udaipur summit,6756.94,,Within limit,Y
+ITM01142,CLM10254,Train,2025-10-03,IRCTC,Return train Gurugram - Madurai (3A),1415.42,6000,Within limit,Y
+ITM01143,CLM10254,Hotel,2025-10-03,Treebo Trend,2 nights stay in Madurai (Treebo Trend),3531.56,5000,Within limit,Y
+ITM01144,CLM10254,Meals,2025-10-04,Multiple vendors,Meals for 3 days during sales pitch in Madurai,1237.76,2400,Within limit,Y
+ITM01145,CLM10254,Local Cab,2025-10-03,Local taxi,4 cab rides during stay in Madurai,2293.63,4500,Within limit,Y
+ITM01146,CLM10255,Airfare,2026-08-26,Air India,Return flight Kolkata - Coimbatore (economy),15158.86,22000,Within limit,Y
+ITM01147,CLM10255,Hotel,2026-08-26,Hotel Residency,2 nights stay in Coimbatore (Hotel Residency),6917.33,7000,Within limit,Y
+ITM01148,CLM10255,Meals,2026-08-27,Multiple vendors,Meals for 3 days during customer onsite deployment in Coimbatore,2224.19,3000,Within limit,Y
+ITM01149,CLM10255,Local Cab,2026-08-26,Meru Cabs,3 cab rides during stay in Coimbatore,1898.74,4500,Within limit,Y
+ITM01150,CLM10256,Airfare,2026-03-22,Air India,Return flight Hyderabad - Lucknow (economy),17857.01,22000,Within limit,Y
+ITM01151,CLM10256,Hotel,2026-03-22,ibis,3 nights stay in Lucknow (ibis),9999.83,10500,Within limit,Y
+ITM01152,CLM10256,Meals,2026-03-23,Multiple vendors,Meals for 4 days during quarterly business review in Lucknow,4852.71,4000,Exceeds limit,Y
+ITM01153,CLM10256,Local Cab,2026-03-22,Uber,2 cab rides during stay in Lucknow,3872.77,6000,Within limit,Y
+ITM01154,CLM10257,Airfare,2026-04-18,Akasa Air,Return flight Bengaluru - Pune (economy),10985.84,22000,Within limit,Y
+ITM01155,CLM10257,Hotel,2026-04-18,Taj Vivanta,5 nights stay in Pune (Taj Vivanta),28919.25,35000,Within limit,Y
+ITM01156,CLM10257,Meals,2026-04-19,Multiple vendors,Meals for 6 days during sales pitch in Pune,5831.32,10800,Within limit,Y
+ITM01157,CLM10257,Local Cab,2026-04-18,Meru Cabs,5 cab rides during stay in Pune,4176.88,9000,Within limit,Y
+ITM01158,CLM10257,Client Entertainment,2026-04-19,The Table,Client dinner with 2 guests (sales pitch),4065.19,5000,Within limit,Y
+ITM01159,CLM10258,Train,2026-06-26,IRCTC,Return train Mumbai - Hyderabad (2A),3979.74,6000,Within limit,Y
+ITM01160,CLM10258,Hotel,2026-06-26,Novotel,1 nights stay in Hyderabad (Novotel),5993.81,7000,Within limit,Y
+ITM01161,CLM10258,Meals,2026-06-27,Multiple vendors,Meals for 2 days during training workshop in Hyderabad,2312.84,3600,Within limit,Y
+ITM01162,CLM10258,Local Cab,2026-06-26,Uber,4 cab rides during stay in Hyderabad,910.28,3000,Within limit,Y
+ITM01163,CLM10258,Client Entertainment,2026-06-27,The Table,Client dinner with 4 guests (training workshop),8483.4,10000,Within limit,Y
+ITM01164,CLM10259,Train,2025-09-21,IRCTC,Return train Mumbai - Vijayawada (3A),1357.0,6000,Within limit,Y
+ITM01165,CLM10259,Hotel,2025-09-21,Treebo Trend,1 nights stay in Vijayawada (Treebo Trend),2018.8,2500,Within limit,Y
+ITM01166,CLM10259,Meals,2025-09-22,Multiple vendors,Meals for 2 days during conference in Vijayawada,1152.94,1600,Within limit,Y
+ITM01167,CLM10259,Local Cab,2025-09-21,Local taxi,5 cab rides during stay in Vijayawada,1912.03,3000,Within limit,Y
+ITM01168,CLM10259,Conference Registration,2025-09-21,Event organiser,Registration fee - Vijayawada summit,18907.61,,Within limit,Y
+ITM01169,CLM10260,Airfare,2025-10-29,Akasa Air,Return flight Bengaluru - Dehradun (economy),9572.2,22000,Within limit,Y
+ITM01170,CLM10260,Hotel,2025-10-29,Treebo Trend,2 nights stay in Dehradun (Treebo Trend),6612.57,8000,Within limit,Y
+ITM01171,CLM10260,Meals,2025-10-30,Multiple vendors,Meals for 3 days during quarterly business review in Dehradun,4909.25,3600,Exceeds limit,Y
+ITM01172,CLM10260,Local Cab,2025-10-29,Ola,5 cab rides during stay in Dehradun,2401.19,4500,Within limit,Y
+ITM01173,CLM10261,Train,2026-02-03,IRCTC,Return train Delhi - Mumbai (2A),3741.15,6000,Within limit,Y
+ITM01174,CLM10261,Hotel,2026-02-03,Novotel,4 nights stay in Mumbai (Novotel),31811.47,28000,Exceeds limit,Y
+ITM01175,CLM10261,Meals,2026-02-04,Multiple vendors,Meals for 5 days during vendor audit in Mumbai,5301.35,9000,Within limit,Y
+ITM01176,CLM10261,Local Cab,2026-02-03,Ola,2 cab rides during stay in Mumbai,4969.47,7500,Within limit,Y
+ITM01177,CLM10262,Airfare,2026-08-22,Air India,Return flight Mumbai - Guwahati (economy),7635.96,22000,Within limit,Y
+ITM01178,CLM10262,Hotel,2026-08-22,Hotel Sai Residency,1 nights stay in Guwahati (Hotel Sai Residency),5837.7,6000,Within limit,Y
+ITM01179,CLM10262,Meals,2026-08-23,Multiple vendors,Meals for 2 days during recruitment drive in Guwahati,2789.57,3200,Within limit,Y
+ITM01180,CLM10262,Local Cab,2026-08-22,Ola,2 cab rides during stay in Guwahati,1641.99,3000,Within limit,Y
+ITM01181,CLM10263,Train,2026-06-06,IRCTC,Return train Bengaluru - Visakhapatnam (3A),2724.21,6000,Within limit,Y
+ITM01182,CLM10263,Hotel,2026-06-06,Fortune Inn,2 nights stay in Visakhapatnam (Fortune Inn),6679.13,7000,Within limit,Y
+ITM01183,CLM10263,Meals,2026-06-07,Multiple vendors,Meals for 3 days during recruitment drive in Visakhapatnam,2346.37,3000,Within limit,Y
+ITM01184,CLM10263,Local Cab,2026-06-06,Meru Cabs,3 cab rides during stay in Visakhapatnam,2793.51,4500,Within limit,Y
+ITM01185,CLM10264,Train,2025-11-21,IRCTC,Return train Mumbai - Indore (2A),4124.79,6000,Within limit,Y
+ITM01186,CLM10264,Hotel,2025-11-21,Treebo Premium,3 nights stay in Indore (Treebo Premium),15892.44,16500,Within limit,Y
+ITM01187,CLM10264,Meals,2025-11-22,Multiple vendors,Meals for 4 days during branch visit in Indore,3405.47,6000,Within limit,Y
+ITM01188,CLM10264,Local Cab,2025-11-21,Meru Cabs,3 cab rides during stay in Indore,4694.49,6000,Within limit,Y
+ITM01189,CLM10265,Airfare,2026-08-16,SpiceJet,Return flight Hyderabad - Mysuru (economy),17963.83,22000,Within limit,Y
+ITM01190,CLM10265,Hotel,2026-08-16,FabHotel Prime,3 nights stay in Mysuru (FabHotel Prime),5499.31,7500,Within limit,Y
+ITM01191,CLM10265,Meals,2026-08-17,Multiple vendors,Meals for 4 days during training workshop in Mysuru,2655.89,3200,Within limit,Y
+ITM01192,CLM10265,Local Cab,2026-08-16,Ola,2 cab rides during stay in Mysuru,2925.8,6000,Within limit,Y
+ITM01193,CLM10265,Phone & Internet,2026-08-19,Airtel,Data roaming and hotspot charges,863.68,1000,Within limit,Y
+ITM01194,CLM10266,Airfare,2025-10-30,IndiGo,Return flight Gurugram - Bhubaneswar (economy),7677.7,22000,Within limit,Y
+ITM01195,CLM10266,Hotel,2025-10-30,Fortune Inn,4 nights stay in Bhubaneswar (Fortune Inn),9185.71,14000,Within limit,Y
+ITM01196,CLM10266,Meals,2025-10-31,Multiple vendors,Meals for 5 days during training workshop in Bhubaneswar,4018.31,5000,Within limit,Y
+ITM01197,CLM10266,Local Cab,2025-10-30,Uber,3 cab rides during stay in Bhubaneswar,5620.5,7500,Within limit,Y
+ITM01198,CLM10266,Phone & Internet,2025-11-03,Airtel,Data roaming and hotspot charges,630.13,1000,Within limit,Y
+ITM01199,CLM10267,Train,2026-01-07,IRCTC,Return train Hyderabad - Mumbai (3A),3433.83,6000,Within limit,Y
+ITM01200,CLM10267,Hotel,2026-01-07,Lemon Tree Premier,4 nights stay in Mumbai (Lemon Tree Premier),10851.18,18000,Within limit,Y
+ITM01201,CLM10267,Meals,2026-01-08,Multiple vendors,Meals for 5 days during quarterly business review in Mumbai,4111.56,6000,Within limit,Y
+ITM01202,CLM10267,Local Cab,2026-01-07,Local taxi,5 cab rides during stay in Mumbai,4614.15,7500,Within limit,Y
+ITM01203,CLM10268,Airfare,2025-05-23,Akasa Air,Return flight Mumbai - Pune (economy),15381.29,22000,Within limit,Y
+ITM01204,CLM10268,Hotel,2025-05-23,Lemon Tree Premier,1 nights stay in Pune (Lemon Tree Premier),3788.75,4500,Within limit,Y
+ITM01205,CLM10268,Meals,2025-05-24,Multiple vendors,Meals for 2 days during vendor audit in Pune,1828.07,2400,Receipt missing,N
+ITM01206,CLM10268,Local Cab,2025-05-23,Uber,3 cab rides during stay in Pune,2117.28,3000,Within limit,Y
+ITM01207,CLM10269,Train,2026-03-15,IRCTC,Return train Delhi - Kolkata (2A),1262.87,6000,Within limit,Y
+ITM01208,CLM10269,Hotel,2026-03-15,Lemon Tree Premier,5 nights stay in Kolkata (Lemon Tree Premier),30213.57,35000,Within limit,Y
+ITM01209,CLM10269,Meals,2026-03-16,Multiple vendors,Meals for 6 days during project kickoff in Kolkata,7054.26,10800,Within limit,Y
+ITM01210,CLM10269,Local Cab,2026-03-15,Local taxi,2 cab rides during stay in Kolkata,3052.41,9000,Within limit,Y
+ITM01211,CLM10270,Airfare,2025-08-23,IndiGo,Return flight Delhi - Kolkata (economy),17980.16,22000,Within limit,Y
+ITM01212,CLM10270,Hotel,2025-08-23,Courtyard by Marriott,3 nights stay in Kolkata (Courtyard by Marriott),10178.33,13500,Within limit,Y
+ITM01213,CLM10270,Meals,2025-08-24,Multiple vendors,Meals for 4 days during project kickoff in Kolkata,3838.89,4800,Within limit,Y
+ITM01214,CLM10270,Local Cab,2025-08-23,Meru Cabs,5 cab rides during stay in Kolkata,3569.56,6000,Within limit,Y
+ITM01215,CLM10271,Airfare,2025-04-28,Akasa Air,Return flight Hyderabad - Ahmedabad (economy),7590.02,22000,Within limit,Y
+ITM01216,CLM10271,Hotel,2025-04-28,Hotel Residency,4 nights stay in Ahmedabad (Hotel Residency),11604.8,14000,Within limit,Y
+ITM01217,CLM10271,Meals,2025-04-29,Multiple vendors,Meals for 5 days during conference in Ahmedabad,4280.26,5000,Within limit,Y
+ITM01218,CLM10271,Local Cab,2025-04-28,Meru Cabs,3 cab rides during stay in Ahmedabad,3411.13,7500,Within limit,Y
+ITM01219,CLM10271,Conference Registration,2025-04-28,Event organiser,Registration fee - Ahmedabad summit,17029.82,,Within limit,Y
+ITM01220,CLM10272,Train,2025-04-23,IRCTC,Return train Gurugram - Bengaluru (3A),3557.26,6000,Within limit,Y
+ITM01221,CLM10272,Hotel,2025-04-23,Taj Vivanta,1 nights stay in Bengaluru (Taj Vivanta),3043.55,4500,Within limit,Y
+ITM01222,CLM10272,Meals,2025-04-24,Multiple vendors,Meals for 2 days during training workshop in Bengaluru,1773.5,2400,Within limit,Y
+ITM01223,CLM10272,Local Cab,2025-04-23,Uber,3 cab rides during stay in Bengaluru,2116.55,3000,Within limit,Y
+ITM01224,CLM10273,Airfare,2025-05-26,SpiceJet,Return flight Chennai - Kolkata (economy),8953.05,22000,Within limit,Y
+ITM01225,CLM10273,Hotel,2025-05-26,Novotel,2 nights stay in Kolkata (Novotel),12153.46,14000,Within limit,Y
+ITM01226,CLM10273,Meals,2025-05-27,Multiple vendors,Meals for 3 days during customer onsite deployment in Kolkata,4416.74,5400,Within limit,Y
+ITM01227,CLM10273,Local Cab,2025-05-26,Local taxi,3 cab rides during stay in Kolkata,1828.42,4500,Within limit,Y
+ITM01228,CLM10274,Train,2026-05-27,IRCTC,Return train Bengaluru - Nagpur (3A),3942.94,6000,Within limit,Y
+ITM01229,CLM10274,Hotel,2026-05-27,Treebo Premium,2 nights stay in Nagpur (Treebo Premium),5762.22,7000,Within limit,Y
+ITM01230,CLM10274,Meals,2026-05-28,Multiple vendors,Meals for 3 days during sales pitch in Nagpur,2421.24,3000,Within limit,Y
+ITM01231,CLM10274,Local Cab,2026-05-27,Local taxi,2 cab rides during stay in Nagpur,2769.05,4500,Within limit,Y
+ITM01232,CLM10274,Conference Registration,2026-05-27,Event organiser,Registration fee - Nagpur summit,4641.11,,Within limit,Y
+ITM01233,CLM10275,Airfare,2026-03-11,Akasa Air,Return flight Mumbai - Chennai (economy),8691.61,22000,Within limit,Y
+ITM01234,CLM10275,Hotel,2026-03-11,Taj Vivanta,3 nights stay in Chennai (Taj Vivanta),13032.88,13500,Within limit,Y
+ITM01235,CLM10275,Meals,2026-03-12,Multiple vendors,Meals for 4 days during training workshop in Chennai,4322.1,4800,Within limit,Y
+ITM01236,CLM10275,Local Cab,2026-03-11,Ola,2 cab rides during stay in Chennai,3096.99,6000,Within limit,Y
+ITM01237,CLM10275,Client Entertainment,2026-03-12,The Table,Client dinner with 2 guests (training workshop),3817.41,5000,Within limit,Y
+ITM01238,CLM10276,Airfare,2026-05-05,Air India,Return flight Bengaluru - Bhubaneswar (economy),17648.6,22000,Within limit,Y
+ITM01239,CLM10276,Hotel,2026-05-05,Lemon Tree,5 nights stay in Bhubaneswar (Lemon Tree),25282.62,27500,Within limit,Y
+ITM01240,CLM10276,Meals,2026-05-06,Multiple vendors,Meals for 6 days during vendor audit in Bhubaneswar,6383.03,9000,Within limit,Y
+ITM01241,CLM10276,Local Cab,2026-05-05,Meru Cabs,5 cab rides during stay in Bhubaneswar,3538.06,9000,Within limit,Y
+ITM01242,CLM10277,Train,2026-02-19,IRCTC,Return train Chennai - Gurugram (3A),1387.04,6000,Within limit,Y
+ITM01243,CLM10277,Hotel,2026-02-19,Courtyard by Marriott,3 nights stay in Gurugram (Courtyard by Marriott),9118.13,13500,Within limit,Y
+ITM01244,CLM10277,Meals,2026-02-20,Multiple vendors,Meals for 4 days during sales pitch in Gurugram,3296.47,4800,Within limit,Y
+ITM01245,CLM10277,Local Cab,2026-02-19,Uber,5 cab rides during stay in Gurugram,2481.09,6000,Within limit,Y
+ITM01246,CLM10278,Airfare,2026-05-22,IndiGo,Return flight Chennai - Delhi (economy),7358.73,22000,Within limit,Y
+ITM01247,CLM10278,Hotel,2026-05-22,Courtyard by Marriott,2 nights stay in Delhi (Courtyard by Marriott),7716.81,9000,Within limit,Y
+ITM01248,CLM10278,Meals,2026-05-23,Multiple vendors,Meals for 3 days during recruitment drive in Delhi,2116.86,3600,Within limit,Y
+ITM01249,CLM10278,Local Cab,2026-05-22,Local taxi,5 cab rides during stay in Delhi,1493.73,4500,Within limit,Y
+ITM01250,CLM10278,Client Entertainment,2026-05-23,Olive Bistro,Client dinner with 5 guests (recruitment drive),9670.8,12500,Within limit,Y
+ITM01251,CLM10279,Airfare,2026-07-06,SpiceJet,Return flight Mumbai - Lucknow (economy),18464.12,22000,Within limit,Y
+ITM01252,CLM10279,Hotel,2026-07-06,Fortune Inn,3 nights stay in Lucknow (Fortune Inn),6312.4,10500,Within limit,Y
+ITM01253,CLM10279,Meals,2026-07-07,Multiple vendors,Meals for 4 days during branch visit in Lucknow,3329.14,4000,Within limit,Y
+ITM01254,CLM10279,Local Cab,2026-07-06,Meru Cabs,5 cab rides during stay in Lucknow,4234.11,6000,Within limit,Y
+ITM01255,CLM10280,Airfare,2026-06-08,SpiceJet,Return flight Bengaluru - Raipur (economy),9096.12,22000,Within limit,Y
+ITM01256,CLM10280,Hotel,2026-06-08,Hotel Sai Residency,1 nights stay in Raipur (Hotel Sai Residency),2829.61,4000,Within limit,Y
+ITM01257,CLM10280,Meals,2026-06-09,Multiple vendors,Meals for 2 days during recruitment drive in Raipur,1348.3,2400,Within limit,Y
+ITM01258,CLM10280,Local Cab,2026-06-08,Uber,3 cab rides during stay in Raipur,991.21,3000,Within limit,Y
+ITM01259,CLM10281,Train,2025-06-16,IRCTC,Return train Hyderabad - Gurugram (3A),3586.52,6000,Within limit,Y
+ITM01260,CLM10281,Hotel,2025-06-16,Radisson Blu,5 nights stay in Gurugram (Radisson Blu),16392.53,22500,Within limit,Y
+ITM01261,CLM10281,Meals,2025-06-17,Multiple vendors,Meals for 6 days during client meeting in Gurugram,5853.13,7200,Within limit,Y
+ITM01262,CLM10281,Local Cab,2025-06-16,Local taxi,5 cab rides during stay in Gurugram,6246.75,9000,Within limit,Y
+ITM01263,CLM10282,Airfare,2026-05-06,Air India,Return flight Mumbai - Coimbatore (economy),7700.92,22000,Within limit,Y
+ITM01264,CLM10282,Hotel,2026-05-06,Lemon Tree,2 nights stay in Coimbatore (Lemon Tree),6611.86,11000,Within limit,Y
+ITM01265,CLM10282,Meals,2026-05-07,Multiple vendors,Meals for 3 days during sales pitch in Coimbatore,2986.42,4500,Within limit,Y
+ITM01266,CLM10282,Local Cab,2026-05-06,Uber,4 cab rides during stay in Coimbatore,2633.84,4500,Within limit,Y
+ITM01267,CLM10283,Airfare,2025-08-29,SpiceJet,Return flight Delhi - Bengaluru (economy),12926.66,22000,Within limit,Y
+ITM01268,CLM10283,Hotel,2025-08-29,Hyatt Regency,2 nights stay in Bengaluru (Hyatt Regency),7190.91,9000,Within limit,Y
+ITM01269,CLM10283,Meals,2025-08-30,Multiple vendors,Meals for 3 days during project kickoff in Bengaluru,2384.49,3600,Within limit,Y
+ITM01270,CLM10283,Local Cab,2025-08-29,Uber,4 cab rides during stay in Bengaluru,3204.85,4500,Within limit,Y
+ITM01271,CLM10283,Phone & Internet,2025-08-31,Airtel,Data roaming and hotspot charges,518.94,1000,Within limit,Y
+ITM01272,CLM10284,Airfare,2026-02-26,IndiGo,Return flight Hyderabad - Nagpur (economy),8515.92,22000,Within limit,Y
+ITM01273,CLM10284,Hotel,2026-02-26,Treebo Premium,3 nights stay in Nagpur (Treebo Premium),8681.86,10500,Within limit,Y
+ITM01274,CLM10284,Meals,2026-02-27,Multiple vendors,Meals for 4 days during project kickoff in Nagpur,2131.0,4000,Within limit,Y
+ITM01275,CLM10284,Local Cab,2026-02-26,Local taxi,4 cab rides during stay in Nagpur,4182.06,6000,Within limit,Y
+ITM01276,CLM10285,Airfare,2025-05-21,Akasa Air,Return flight Chennai - Gurugram (economy),14521.29,22000,Within limit,Y
+ITM01277,CLM10285,Hotel,2025-05-21,Lemon Tree Premier,2 nights stay in Gurugram (Lemon Tree Premier),7976.07,9000,Within limit,Y
+ITM01278,CLM10285,Meals,2025-05-22,Multiple vendors,Meals for 3 days during client meeting in Gurugram,2314.19,3600,Within limit,Y
+ITM01279,CLM10285,Local Cab,2025-05-21,Ola,4 cab rides during stay in Gurugram,3418.41,4500,Within limit,Y
+ITM01280,CLM10286,Airfare,2025-09-06,Akasa Air,Return flight Bengaluru - Jaipur (economy),16052.67,22000,Within limit,Y
+ITM01281,CLM10286,Hotel,2025-09-06,Treebo Premium,2 nights stay in Jaipur (Treebo Premium),4884.64,7000,Within limit,Y
+ITM01282,CLM10286,Meals,2025-09-07,Multiple vendors,Meals for 3 days during sales pitch in Jaipur,2406.45,3000,Within limit,Y
+ITM01283,CLM10286,Local Cab,2025-09-06,Meru Cabs,4 cab rides during stay in Jaipur,2078.67,4500,Within limit,Y
+ITM01284,CLM10286,Client Entertainment,2025-09-07,Taj Dining,Client dinner with 3 guests (sales pitch),5013.19,7500,Within limit,Y
+ITM01285,CLM10287,Airfare,2026-04-29,IndiGo,Return flight Mumbai - Kolkata (economy),7983.64,22000,Within limit,Y
+ITM01286,CLM10287,Hotel,2026-04-29,Lemon Tree Premier,5 nights stay in Kolkata (Lemon Tree Premier),42370.66,50000,Within limit,Y
+ITM01287,CLM10287,Meals,2026-04-30,Multiple vendors,Meals for 6 days during vendor audit in Kolkata,10752.0,15000,Within limit,Y
+ITM01288,CLM10287,Local Cab,2026-04-29,Ola,5 cab rides during stay in Kolkata,4851.44,9000,Within limit,Y
+ITM01289,CLM10288,Airfare,2026-08-11,IndiGo,Return flight Chennai - Chandigarh (economy),15075.89,22000,Within limit,Y
+ITM01290,CLM10288,Hotel,2026-08-11,Treebo Premium,3 nights stay in Chandigarh (Treebo Premium),22675.64,16500,Exceeds limit,Y
+ITM01291,CLM10288,Meals,2026-08-12,Multiple vendors,Meals for 4 days during branch visit in Chandigarh,4106.02,6000,Within limit,Y
+ITM01292,CLM10288,Local Cab,2026-08-11,Local taxi,4 cab rides during stay in Chandigarh,3810.03,6000,Within limit,Y
+ITM01293,CLM10289,Airfare,2025-10-27,Air India,Return flight Bengaluru - Coimbatore (economy),7461.68,22000,Within limit,Y
+ITM01294,CLM10289,Hotel,2025-10-27,Hotel Residency,2 nights stay in Coimbatore (Hotel Residency),7535.32,11000,Within limit,Y
+ITM01295,CLM10289,Meals,2025-10-28,Multiple vendors,Meals for 3 days during customer onsite deployment in Coimbatore,2611.47,4500,Within limit,Y
+ITM01296,CLM10289,Local Cab,2025-10-27,Local taxi,2 cab rides during stay in Coimbatore,1293.32,4500,Within limit,Y
+ITM01297,CLM10290,Airfare,2026-09-08,Air India,Return flight Hyderabad - Delhi (economy),13011.18,22000,Within limit,Y
+ITM01298,CLM10290,Hotel,2026-09-08,Hyatt Regency,3 nights stay in Delhi (Hyatt Regency),9230.11,13500,Within limit,Y
+ITM01299,CLM10290,Meals,2026-09-09,Multiple vendors,Meals for 4 days during training workshop in Delhi,3503.07,4800,Within limit,Y
+ITM01300,CLM10290,Local Cab,2026-09-08,Local taxi,4 cab rides during stay in Delhi,8814.67,6000,Exceeds limit,Y
+ITM01301,CLM10291,Train,2025-09-23,IRCTC,Return train Mumbai - Jaipur (2A),3794.35,6000,Within limit,Y
+ITM01302,CLM10291,Hotel,2025-09-23,Fortune Inn,1 nights stay in Jaipur (Fortune Inn),4134.98,5500,Within limit,Y
+ITM01303,CLM10291,Meals,2025-09-24,Multiple vendors,Meals for 2 days during project kickoff in Jaipur,2154.08,3000,Within limit,Y
+ITM01304,CLM10291,Local Cab,2025-09-23,Ola,4 cab rides during stay in Jaipur,1104.87,3000,Within limit,Y
+ITM01305,CLM10292,Airfare,2025-05-01,Air India,Return flight Kolkata - Singapore,65184.82,80000,Within limit,Y
+ITM01306,CLM10292,Visa & Forex,2025-05-01,VFS Global,Visa fees and forex card charges,9096.13,,Within limit,Y
+ITM01307,CLM10292,Hotel,2025-05-01,Novotel,5 nights stay in Singapore (Novotel),53257.97,60000,Within limit,Y
+ITM01308,CLM10292,Meals,2025-05-02,Multiple vendors,Meals for 6 days during recruitment drive in Singapore,23287.41,27000,Within limit,Y
+ITM01309,CLM10292,Local Cab,2025-05-01,Ola,3 cab rides during stay in Singapore,4627.53,9000,Within limit,Y
+ITM01310,CLM10293,Train,2025-11-03,IRCTC,Return train Hyderabad - Gurugram (3A),1278.29,6000,Within limit,Y
+ITM01311,CLM10293,Hotel,2025-11-03,Lemon Tree Premier,2 nights stay in Gurugram (Lemon Tree Premier),8411.86,9000,Within limit,Y
+ITM01312,CLM10293,Meals,2025-11-04,Multiple vendors,Meals for 3 days during project kickoff in Gurugram,2945.4,3600,Within limit,Y
+ITM01313,CLM10293,Local Cab,2025-11-03,Uber,3 cab rides during stay in Gurugram,1593.66,4500,Within limit,Y
+ITM01314,CLM10294,Airfare,2026-07-06,SpiceJet,Return flight Chennai - Indore (economy),28739.61,22000,Exceeds limit,Y
+ITM01315,CLM10294,Hotel,2026-07-06,ibis,2 nights stay in Indore (ibis),4505.3,7000,Within limit,Y
+ITM01316,CLM10294,Meals,2026-07-07,Multiple vendors,Meals for 3 days during customer onsite deployment in Indore,2503.31,3000,Within limit,Y
+ITM01317,CLM10294,Local Cab,2026-07-06,Uber,4 cab rides during stay in Indore,1166.57,4500,Within limit,Y
+ITM01318,CLM10294,Client Entertainment,2026-07-07,Taj Dining,Client dinner with 4 guests (customer onsite deployment),6337.56,10000,Within limit,Y
+ITM01319,CLM10295,Train,2026-02-28,IRCTC,Return train Mumbai - Coimbatore (2A),3475.83,6000,Within limit,Y
+ITM01320,CLM10295,Hotel,2026-02-28,Hotel Residency,2 nights stay in Coimbatore (Hotel Residency),9282.46,11000,Within limit,Y
+ITM01321,CLM10295,Meals,2026-03-01,Multiple vendors,Meals for 3 days during vendor audit in Coimbatore,2574.31,4500,Within limit,Y
+ITM01322,CLM10295,Local Cab,2026-02-28,Local taxi,3 cab rides during stay in Coimbatore,1771.28,4500,Within limit,Y
+ITM01323,CLM10296,Airfare,2025-09-20,Air India,Return flight Hyderabad - Kochi (economy),25315.68,22000,Exceeds limit,Y
+ITM01324,CLM10296,Hotel,2025-09-20,Hotel Residency,1 nights stay in Kochi (Hotel Residency),5201.85,5500,Within limit,Y
+ITM01325,CLM10296,Meals,2025-09-21,Multiple vendors,Meals for 2 days during customer onsite deployment in Kochi,2125.53,3000,Within limit,Y
+ITM01326,CLM10296,Local Cab,2025-09-20,Uber,2 cab rides during stay in Kochi,1943.38,3000,Within limit,Y
+ITM01327,CLM10297,Airfare,2025-06-11,Air India,Return flight Mumbai - Lucknow (economy),15250.14,22000,Within limit,Y
+ITM01328,CLM10297,Hotel,2025-06-11,Lemon Tree,5 nights stay in Lucknow (Lemon Tree),14893.15,17500,Within limit,Y
+ITM01329,CLM10297,Meals,2025-06-12,Multiple vendors,Meals for 6 days during recruitment drive in Lucknow,4471.52,6000,Within limit,Y
+ITM01330,CLM10297,Local Cab,2025-06-11,Local taxi,2 cab rides during stay in Lucknow,5231.7,9000,Within limit,Y
+ITM01331,CLM10297,Phone & Internet,2025-06-16,Airtel,Data roaming and hotspot charges,577.38,1000,Within limit,Y
+ITM01332,CLM10298,Airfare,2025-08-13,IndiGo,Return flight Hyderabad - Vijayawada (economy),18022.35,22000,Within limit,Y
+ITM01333,CLM10298,Hotel,2025-08-13,Treebo Trend,2 nights stay in Vijayawada (Treebo Trend),4852.75,5000,Within limit,Y
+ITM01334,CLM10298,Meals,2025-08-14,Multiple vendors,Meals for 3 days during recruitment drive in Vijayawada,1822.85,2400,Within limit,Y
+ITM01335,CLM10298,Local Cab,2025-08-13,Meru Cabs,5 cab rides during stay in Vijayawada,3094.0,4500,Within limit,Y
+ITM01336,CLM10299,Train,2025-12-26,IRCTC,Return train Hyderabad - Kolkata (2A),3191.79,6000,Within limit,Y
+ITM01337,CLM10299,Hotel,2025-12-26,Hyatt Regency,2 nights stay in Kolkata (Hyatt Regency),19035.65,20000,Within limit,Y
+ITM01338,CLM10299,Meals,2025-12-27,Multiple vendors,Meals for 3 days during customer onsite deployment in Kolkata,5154.93,7500,Within limit,Y
+ITM01339,CLM10299,Local Cab,2025-12-26,Ola,4 cab rides during stay in Kolkata,3076.42,4500,Within limit,Y
+ITM01340,CLM10300,Airfare,2026-01-12,Air India,Return flight Bengaluru - Delhi (economy),12586.14,22000,Within limit,Y
+ITM01341,CLM10300,Hotel,2026-01-12,Courtyard by Marriott,3 nights stay in Delhi (Courtyard by Marriott),11895.6,13500,Receipt missing,N
+ITM01342,CLM10300,Meals,2026-01-13,Multiple vendors,Meals for 4 days during customer onsite deployment in Delhi,3674.24,4800,Within limit,Y
+ITM01343,CLM10300,Local Cab,2026-01-12,Uber,3 cab rides during stay in Delhi,4403.67,6000,Within limit,Y
