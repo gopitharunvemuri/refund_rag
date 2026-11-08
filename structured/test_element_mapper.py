@@ -1,172 +1,153 @@
+
 from pathlib import Path
 
 from structured.docling_reader import DoclingReader
 from structured.element_mapper import ElementMapper
 
 
-document = DoclingReader(
-    Path("parsed_documents/raw")
-).read_document("NX-FIN-POL-012")
-
-mapper = ElementMapper("NX-FIN-POL-012")
-
-text_element = document["texts"][0]
-
-section_header = next(
-    element
-    for element in document["texts"]
-    if element.get("label") == "section_header"
-)
-
-mapped_text = mapper.map_text_element(text_element)
-mapped_header = mapper.map_text_element(section_header)
-
-# print("TEXT ELEMENT:")
-# print(mapped_text.model_dump_json(indent=2))
-
-# print("\nSECTION HEADER:")
-# print(mapped_header.model_dump_json(indent=2))
-list_item = next(
-    element
-    for element in document["texts"]
-    if element.get("label") == "list_item"
-)
-
-mapped_list_item = mapper.map_list_item(list_item)
-
-# print("\nLIST ITEM:")
-# print(mapped_list_item.model_dump_json(indent=2))
-
-# group = document["groups"][0]
-
-# mapped_group = mapper.map_group(group)
-
-# print("\nGROUP:")
-# print(mapped_group.model_dump_json(indent=2))
-# first_table = document["tables"][0]
-# mapped_table = mapper.map_table(first_table)
-
-# print("\nMAPPED TABLE")
-# print(mapped_table.model_dump_json(indent=2))
-
-footer = next(
-    item
-    for item in document["texts"]
-    if item.get("label") == "page_footer"
-)
-
-mapped_footer = mapper.map_text_element(footer)
-
-print("\nMAPPED PAGE FOOTER")
-print(mapped_footer.model_dump_json(indent=2))
-
-
-# Test all text elements across all three documents
-
-from collections import Counter
-
-# for document_id in [
-#     "NX-FIN-POL-012",
-#     "NX-FIN-POL-013",
-#     "NX-FIN-POL-014",
-# ]:
-#     document = DoclingReader(
-#         Path("parsed_documents/raw")
-#     ).read_document(document_id)
-
-#     mapper = ElementMapper(document_id)
-
-#     mapped_elements = [
-#         mapper.map_text_element(element)
-#         for element in document["texts"]
-#         if element.get("label") in (
-#             "text",
-#             "section_header",
-#             "page_footer",
-#         )
-#     ]
-
-#     print(f"\n{document_id}")
-#     print(f"Total mapped: {len(mapped_elements)}")
-#     print(
-#         "Element types:",
-#         Counter(element.element_type for element in mapped_elements),
-#     )
-
-# Test all list items across all three documents
-
-# for document_id in [
-#     "NX-FIN-POL-012",
-#     "NX-FIN-POL-013",
-#     "NX-FIN-POL-014",
-# ]:
-#     document = DoclingReader(
-#         Path("parsed_documents/raw")
-#     ).read_document(document_id)
-
-#     mapper = ElementMapper(document_id)
-
-#     list_items = [
-#         element
-#         for element in document["texts"]
-#         if element.get("label") == "list_item"
-#     ]
-
-#     mapped_list_items = [
-#         mapper.map_list_item(element)
-#         for element in list_items
-#     ]
-
-#     print(f"\n{document_id}")
-#     print(f"List items found: {len(list_items)}")
-#     print(f"List items mapped: {len(mapped_list_items)}")
-
-
-# Test all tables across all three documents
-
-# for document_id in [
-#     "NX-FIN-POL-012",
-#     "NX-FIN-POL-013",
-#     "NX-FIN-POL-014",
-# ]:
-#     document = DoclingReader(
-#         Path("parsed_documents/raw")
-#     ).read_document(document_id)
-
-#     mapper = ElementMapper(document_id)
-
-#     tables = document.get("tables", [])
-
-#     mapped_tables = [
-#         mapper.map_table(table)
-#         for table in tables
-#     ]
-
-#     print(f"\n{document_id}")
-#     print(f"Tables found: {len(tables)}")
-#     print(f"Tables mapped: {len(mapped_tables)}")
-
-
-# Test all groups across all three documents
-
-for document_id in [
+DOCUMENT_IDS = [
     "NX-FIN-POL-012",
     "NX-FIN-POL-013",
     "NX-FIN-POL-014",
-]:
-    document = DoclingReader(
-        Path("parsed_documents/raw")
-    ).read_document(document_id)
+]
 
+reader = DoclingReader(Path("parsed_documents/raw"))
+
+all_mapped_elements = []
+
+for document_id in DOCUMENT_IDS:
+    document = reader.read_document(document_id)
     mapper = ElementMapper(document_id)
 
-    groups = document.get("groups", [])
+    mapped_elements = []
 
-    mapped_groups = [
-        mapper.map_group(group)
-        for group in groups
-    ]
+    # Map text, section headers, and page footers
+    for element in document.get("texts", []):
+        label = element.get("label")
+
+        if label in ("text", "section_header", "page_footer"):
+            mapped_elements.append(
+                mapper.map_text_element(element)
+            )
+
+        elif label == "list_item":
+            mapped_elements.append(
+                mapper.map_list_item(element)
+            )
+
+    # Map tables
+    for table in document.get("tables", []):
+        mapped_elements.append(
+            mapper.map_table(table)
+        )
+
+    # Map groups
+    for group in document.get("groups", []):
+        mapped_elements.append(
+            mapper.map_group(group)
+        )
+
+    all_mapped_elements.extend(mapped_elements)
 
     print(f"\n{document_id}")
-    print(f"Groups found: {len(groups)}")
-    print(f"Groups mapped: {len(mapped_groups)}")
+    print(f"Total mapped elements: {len(mapped_elements)}")
+
+
+# Validate total element count
+
+expected_total = 559
+actual_total = len(all_mapped_elements)
+
+print("\nTOTAL ELEMENT COUNT")
+print(f"Expected: {expected_total}")
+print(f"Actual:   {actual_total}")
+
+assert actual_total == expected_total, (
+    f"Expected {expected_total} elements, got {actual_total}"
+)
+
+
+# Validate unique element IDs
+
+element_ids = [
+    element.element_id
+    for element in all_mapped_elements
+]
+
+unique_element_ids = set(element_ids)
+
+print("\nELEMENT ID VALIDATION")
+print(f"Total IDs:  {len(element_ids)}")
+print(f"Unique IDs: {len(unique_element_ids)}")
+
+assert len(element_ids) == len(unique_element_ids), (
+    "Duplicate element IDs found"
+)
+
+
+# Validate unique source references
+
+
+# Validate unique source references within each document
+
+references = [
+    (element.document_id, element.source.reference)
+    for element in all_mapped_elements
+]
+
+unique_references = set(references)
+
+print("\nSOURCE REFERENCE VALIDATION")
+print(f"Total references:  {len(references)}")
+print(f"Unique references: {len(unique_references)}")
+
+assert len(references) == len(unique_references), (
+    "Duplicate source references found within a document"
+)
+
+
+
+# Validate document IDs
+
+invalid_document_ids = [
+    element
+    for element in all_mapped_elements
+    if element.document_id not in DOCUMENT_IDS
+]
+
+print("\nDOCUMENT ID VALIDATION")
+print(f"Invalid document IDs: {len(invalid_document_ids)}")
+
+assert not invalid_document_ids, (
+    "Elements with invalid document IDs found"
+)
+
+
+# Validate element IDs match their document IDs
+
+invalid_element_ids = [
+    element
+    for element in all_mapped_elements
+    if not element.element_id.startswith(
+        f"{element.document_id}-"
+    )
+]
+
+print("\nELEMENT ID PREFIX VALIDATION")
+print(f"Invalid ID prefixes: {len(invalid_element_ids)}")
+
+assert not invalid_element_ids, (
+    "Element IDs do not match their document IDs"
+)
+
+
+# Final result
+
+print("\n" + "=" * 45)
+print("CANONICAL ELEMENT MAPPING VALIDATION PASSED")
+print("=" * 45)
+print(f"Total canonical elements: {actual_total}")
+print(f"Unique element IDs:      {len(unique_element_ids)}")
+print(f"Unique source references: {len(unique_references)}")
+print("All document IDs are valid.")
+print("All canonical elements passed Pydantic validation.")

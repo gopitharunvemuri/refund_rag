@@ -13,6 +13,12 @@ class ElementMapper:
     def __init__(self, document_id: str):
         self.document_id = document_id
 
+    def _generate_element_id(self, reference: str) -> str:
+        return (
+            f"{self.document_id}-"
+            f"{reference.replace('#/', '').replace('/', '-')}"
+        )
+
     def map_text_element(
         self,
         element: dict[str, Any],
@@ -41,7 +47,7 @@ class ElementMapper:
                 bounding_boxes.append(bbox)
 
         return CanonicalElement(
-            element_id=f"{self.document_id}-{reference.replace('#/', '').replace('/', '-')}",
+            element_id=self._generate_element_id(reference),
             document_id=self.document_id,
             element_type = (
                 "section_header" if label == "section_header"
@@ -99,7 +105,7 @@ class ElementMapper:
                 bounding_boxes.append(bbox)
 
         return CanonicalElement(
-            element_id=f"{self.document_id}-{reference.replace('#/', '').replace('/', '-')}",
+            element_id=self._generate_element_id(reference),
             document_id=self.document_id,
             element_type="list_item",
             content=element.get("text", ""),
@@ -137,7 +143,7 @@ class ElementMapper:
         ]
 
         return CanonicalElement(
-            element_id=f"{self.document_id}-{reference.replace('#/', '').replace('/', '-')}",
+            element_id=self._generate_element_id(reference),
             document_id=self.document_id,
             element_type="group",
             content=None,
@@ -185,7 +191,7 @@ class ElementMapper:
                 bounding_boxes.append(bbox)
 
         return CanonicalElement(
-            element_id=f"{self.document_id}-{reference.replace('#/', '').replace('/', '-')}",
+            element_id=self._generate_element_id(reference),
             document_id=self.document_id,
             element_type="table",
             content=element.get("data", {}),
